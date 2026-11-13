@@ -1,0 +1,16 @@
+[project]
+name = "rag-anything-playground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Waining Ceoi", email = "weiningxu1018@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "docling>=2.150.0",
+    "jupyterlab>=4.6.6",
+    "lightrag-hku==1.4.16",
+    "openai>=3.49.0",
+    "raganything>=1.4.4",
+]

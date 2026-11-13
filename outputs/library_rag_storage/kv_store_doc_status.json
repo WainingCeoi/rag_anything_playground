@@ -1,0 +1,26 @@
+{
+  "doc-aa78aa4bc3e5b28e98e8d9f587736a42": {
+    "status": "processed",
+    "chunks_count": 6,
+    "chunks_list": [
+      "chunk-b2e2b287c866ec278f10c12fc3923d08",
+      "chunk-951e510f42b703ea5ab244c339c57fd8",
+      "chunk-8b3b4a368a464a5c56faf12fd0fc8008",
+      "chunk-4cd91488171d5211f450daaa06e8e4a5",
+      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af",
+      "chunk-404daa6b949e1384db69a1327869caf0"
+    ],
+    "content_summary": "图书借阅规则\n\n学生借书和还书\n\n借书时，先确认账户可以借阅。\n\n每次可借的数量和借阅期限见下表。\n\n查看到期日\n\n借阅成功后，借阅页面会显示每本书的到期日。\n\n如果借了几本书，可以按书名分别查看。\n\n请在到期日当天或之前归还图书。\n\n图书借阅指南\n\n1 / 2\n\n怎么续借\n\n还没读完时，可以在到期前申请续借。\n\n打开借阅页面，找到这本书，点击\"续借\"。\n\n如果没有人预约这本书，可以续借一次，延长 7 天。\n\n有人预约时，请按原到期日归还。\n\n图 1 续借步骤\n\n确认结果\n\n续借成功后，借阅页面...",
+    "content_length": 292,
+    "created_at": "2026-11-13T09:55:30.001292+00:00",
+    "updated_at": "2026-11-13T09:57:25+00:00",
+    "file_path": "library-guide.pdf",
+    "track_id": "insert_20261113_175530_803900e3",
+    "metadata": {
+      "processing_start_time": 1794563730,
+      "processing_end_time": 1794563771
+    },
+    "error_msg": "",
+    "multimodal_processed": true
+  }
+}
