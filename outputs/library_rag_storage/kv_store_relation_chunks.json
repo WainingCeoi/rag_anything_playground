@@ -1,769 +1,612 @@
 {
-  "借阅页面<SEP>图书": {
+  "Borrowing and Returning Books<SEP>Library Borrowing Guide": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008",
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810507,
+    "update_time": 1794810507,
+    "_id": "Borrowing and Returning Books<SEP>Library Borrowing Guide"
+  },
+  "Due Date<SEP>My Loans": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-cf352990e5eade4fe4af96431997ef38",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 3,
+    "update_time": 1794810557,
+    "_id": "Due Date<SEP>My Loans"
+  },
+  "Library Borrowing Guide<SEP>Loan Limit": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810508,
+    "update_time": 1794810508,
+    "_id": "Library Borrowing Guide<SEP>Loan Limit"
+  },
+  "Account Eligibility<SEP>Borrowing and Returning Books": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810508,
+    "update_time": 1794810508,
+    "_id": "Account Eligibility<SEP>Borrowing and Returning Books"
+  },
+  "Book<SEP>Due Date": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
+    ],
+    "count": 3,
+    "update_time": 1794810558,
+    "_id": "Book<SEP>Due Date"
+  },
+  "Standard Loan Period<SEP>Table": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810508,
+    "update_time": 1794810508,
+    "_id": "Standard Loan Period<SEP>Table"
+  },
+  "Account<SEP>Account Eligibility": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810509,
+    "update_time": 1794810509,
+    "_id": "Account<SEP>Account Eligibility"
+  },
+  "Book<SEP>Book Title": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810509,
+    "update_time": 1794810509,
+    "_id": "Book<SEP>Book Title"
+  },
+  "Renewal<SEP>Seven Extra Days": {
+    "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 3,
+    "update_time": 1794810573,
+    "_id": "Renewal<SEP>Seven Extra Days"
+  },
+  "Loan Limit<SEP>Table": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810509,
+    "update_time": 1794810509,
+    "_id": "Loan Limit<SEP>Table"
+  },
+  "Library Borrowing Guide<SEP>Standard Loan Period": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 2,
-    "create_time": 1794563757,
-    "update_time": 1794563757,
-    "_id": "借阅页面<SEP>图书"
+    "update_time": 1794810557,
+    "_id": "Library Borrowing Guide<SEP>Standard Loan Period"
   },
-  "续借<SEP>预约": {
+  "My Loans<SEP>New Due Date": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
-    ],
-    "count": 1,
-    "create_time": 1794563757,
-    "update_time": 1794563757,
-    "_id": "续借<SEP>预约"
-  },
-  "7天<SEP>续借": {
-    "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
-    ],
-    "count": 1,
-    "create_time": 1794563758,
-    "update_time": 1794563758,
-    "_id": "7天<SEP>续借"
-  },
-  "新到期日<SEP>续借": {
-    "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
-    ],
-    "count": 1,
-    "create_time": 1794563759,
-    "update_time": 1794563759,
-    "_id": "新到期日<SEP>续借"
-  },
-  "图书<SEP>续借": {
-    "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008",
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 2,
-    "create_time": 1794563760,
-    "update_time": 1794563760,
-    "_id": "图书<SEP>续借"
+    "update_time": 1794810573,
+    "_id": "My Loans<SEP>New Due Date"
   },
-  "借阅页面<SEP>新到期日": {
+  "Library Borrowing Guide<SEP>Renewal Steps": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
     ],
     "count": 1,
-    "create_time": 1794563760,
-    "update_time": 1794563760,
-    "_id": "借阅页面<SEP>新到期日"
+    "create_time": 1794810511,
+    "update_time": 1794810511,
+    "_id": "Library Borrowing Guide<SEP>Renewal Steps"
   },
-  "原到期日<SEP>图书": {
+  "Renewal<SEP>Reservation": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 3,
+    "update_time": 1794810572,
+    "_id": "Renewal<SEP>Reservation"
+  },
+  "Due Date Check<SEP>New Due Date": {
+    "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
     ],
     "count": 1,
-    "create_time": 1794563761,
-    "update_time": 1794563761,
-    "_id": "原到期日<SEP>图书"
+    "create_time": 1794810512,
+    "update_time": 1794810512,
+    "_id": "Due Date Check<SEP>New Due Date"
   },
-  "借阅页面<SEP>续借": {
+  "Library Borrowing Guide<SEP>My Loans": {
     "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
-    ],
-    "count": 1,
-    "create_time": 1794563761,
-    "update_time": 1794563761,
-    "_id": "借阅页面<SEP>续借"
-  },
-  "图书<SEP>图书借阅指南": {
-    "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
-    ],
-    "count": 1,
-    "create_time": 1794563762,
-    "update_time": 1794563762,
-    "_id": "图书<SEP>图书借阅指南"
-  },
-  "原到期日<SEP>续借申请时机": {
-    "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
-    ],
-    "count": 1,
-    "create_time": 1794563762,
-    "update_time": 1794563762,
-    "_id": "原到期日<SEP>续借申请时机"
-  },
-  "图书借阅规则<SEP>学生借书和还书": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563762,
-    "update_time": 1794563762,
-    "_id": "图书借阅规则<SEP>学生借书和还书"
-  },
-  "到期日<SEP>图书": {
-    "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
-    ],
-    "count": 1,
-    "create_time": 1794563763,
-    "update_time": 1794563763,
-    "_id": "到期日<SEP>图书"
-  },
-  "借阅成功<SEP>借阅页面": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563763,
-    "update_time": 1794563763,
-    "_id": "借阅成功<SEP>借阅页面"
-  },
-  "借阅账户<SEP>学生借书和还书": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563764,
-    "update_time": 1794563764,
-    "_id": "借阅账户<SEP>学生借书和还书"
-  },
-  "可借数量和借阅期限<SEP>图书借阅规则": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563764,
-    "update_time": 1794563764,
-    "_id": "可借数量和借阅期限<SEP>图书借阅规则"
-  },
-  "书名<SEP>图书": {
-    "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
-    ],
-    "count": 1,
-    "create_time": 1794563764,
-    "update_time": 1794563764,
-    "_id": "书名<SEP>图书"
-  },
-  "到期日<SEP>续借": {
-    "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
-    ],
-    "count": 1,
-    "create_time": 1794563764,
-    "update_time": 1794563764,
-    "_id": "到期日<SEP>续借"
-  },
-  "学生<SEP>学生借书和还书": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563765,
-    "update_time": 1794563765,
-    "_id": "学生<SEP>学生借书和还书"
-  },
-  "可借数量<SEP>图书借阅规则": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563765,
-    "update_time": 1794563765,
-    "_id": "可借数量<SEP>图书借阅规则"
-  },
-  "图书<SEP>图书归还": {
-    "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
-    ],
-    "count": 1,
-    "create_time": 1794563766,
-    "update_time": 1794563766,
-    "_id": "图书<SEP>图书归还"
-  },
-  "续借成功<SEP>续借步骤": {
-    "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
-    ],
-    "count": 1,
-    "create_time": 1794563766,
-    "update_time": 1794563766,
-    "_id": "续借成功<SEP>续借步骤"
-  },
-  "借阅期限<SEP>图书借阅规则": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563766,
-    "update_time": 1794563766,
-    "_id": "借阅期限<SEP>图书借阅规则"
-  },
-  "借阅页面<SEP>到期日": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08",
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 2,
-    "update_time": 1794563817,
-    "_id": "借阅页面<SEP>到期日"
+    "update_time": 1794810560,
+    "_id": "Library Borrowing Guide<SEP>My Loans"
   },
-  "图书<SEP>学生借书和还书": {
+  "Book<SEP>Renewal": {
     "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 4,
+    "update_time": 1794810562,
+    "_id": "Book<SEP>Renewal"
+  },
+  "Due Date<SEP>Renewal": {
+    "chunk_ids": [
+      "chunk-f74d3981177947bc583a0860d03ffe3f"
     ],
     "count": 1,
-    "create_time": 1794563767,
-    "update_time": 1794563767,
-    "_id": "图书<SEP>学生借书和还书"
+    "create_time": 1794810514,
+    "update_time": 1794810514,
+    "_id": "Due Date<SEP>Renewal"
   },
-  "图书借阅指南<SEP>续借步骤": {
+  "Book<SEP>Original Due Date": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 2,
+    "update_time": 1794810581,
+    "_id": "Book<SEP>Original Due Date"
+  },
+  "Library Borrowing Guide<SEP>Renewal": {
+    "chunk_ids": [
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
+    ],
+    "count": 2,
+    "update_time": 1794810561,
+    "_id": "Library Borrowing Guide<SEP>Renewal"
+  },
+  "My Loans<SEP>Renewal": {
+    "chunk_ids": [
+      "chunk-f74d3981177947bc583a0860d03ffe3f"
     ],
     "count": 1,
-    "create_time": 1794563767,
-    "update_time": 1794563767,
-    "_id": "图书借阅指南<SEP>续借步骤"
+    "create_time": 1794810516,
+    "update_time": 1794810516,
+    "_id": "My Loans<SEP>Renewal"
   },
-  "确认结果<SEP>续借成功": {
+  "Library Borrowing Guide<SEP>Title": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-f74d3981177947bc583a0860d03ffe3f"
     ],
     "count": 1,
-    "create_time": 1794563767,
-    "update_time": 1794563767,
-    "_id": "确认结果<SEP>续借成功"
+    "create_time": 1794810516,
+    "update_time": 1794810516,
+    "_id": "Library Borrowing Guide<SEP>Title"
   },
-  "书名<SEP>到期日": {
+  "Book<SEP>Library Borrowing Guide": {
     "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
+    ],
+    "count": 3,
+    "update_time": 1794810565,
+    "_id": "Book<SEP>Library Borrowing Guide"
+  },
+  "Book<SEP>Due Date Check": {
+    "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
     ],
     "count": 1,
-    "create_time": 1794563767,
-    "update_time": 1794563767,
-    "_id": "书名<SEP>到期日"
+    "create_time": 1794810519,
+    "update_time": 1794810519,
+    "_id": "Book<SEP>Due Date Check"
   },
-  "借阅页面<SEP>续借成功": {
+  "Book<SEP>My Loans": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 2,
+    "update_time": 1794810574,
+    "_id": "Book<SEP>My Loans"
+  },
+  "Book<SEP>Title": {
+    "chunk_ids": [
+      "chunk-f74d3981177947bc583a0860d03ffe3f"
     ],
     "count": 1,
-    "create_time": 1794563768,
-    "update_time": 1794563768,
-    "_id": "借阅页面<SEP>续借成功"
+    "create_time": 1794810521,
+    "update_time": 1794810521,
+    "_id": "Book<SEP>Title"
   },
-  "借阅页面<SEP>新的到期日": {
+  "Library Borrowing Guide<SEP>Maximum Books At A Time": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563769,
-    "update_time": 1794563769,
-    "_id": "借阅页面<SEP>新的到期日"
+    "create_time": 1794810556,
+    "update_time": 1794810556,
+    "_id": "Library Borrowing Guide<SEP>Maximum Books At A Time"
   },
-  "借阅页面<SEP>归还前确认日期": {
+  "14 Days<SEP>Standard Loan Period": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563770,
-    "update_time": 1794563770,
-    "_id": "借阅页面<SEP>归还前确认日期"
+    "create_time": 1794810556,
+    "update_time": 1794810556,
+    "_id": "14 Days<SEP>Standard Loan Period"
   },
-  "学生<SEP>学生借阅规则": {
+  "My Loans<SEP>Student": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563810,
-    "update_time": 1794563810,
-    "_id": "学生<SEP>学生借阅规则"
+    "create_time": 1794810556,
+    "update_time": 1794810556,
+    "_id": "My Loans<SEP>Student"
   },
-  "学生借阅规则<SEP>每次最多借3本": {
+  "3 Books<SEP>Maximum Books At A Time": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563811,
-    "update_time": 1794563811,
-    "_id": "学生借阅规则<SEP>每次最多借3本"
+    "create_time": 1794810557,
+    "update_time": 1794810557,
+    "_id": "3 Books<SEP>Maximum Books At A Time"
   },
-  "图书<SEP>学生": {
+  "Renewal<SEP>Student": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563811,
-    "update_time": 1794563811,
-    "_id": "图书<SEP>学生"
+    "create_time": 1794810557,
+    "update_time": 1794810557,
+    "_id": "Renewal<SEP>Student"
   },
-  "图书预约<SEP>续借规则": {
+  "7 Extra Days<SEP>Renewal": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563811,
-    "update_time": 1794563811,
-    "_id": "图书预约<SEP>续借规则"
+    "create_time": 1794810558,
+    "update_time": 1794810558,
+    "_id": "7 Extra Days<SEP>Renewal"
   },
-  "续借期限7天<SEP>续借规则": {
+  "Account Eligibility<SEP>Library Borrowing Guide": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563812,
-    "update_time": 1794563812,
-    "_id": "续借期限7天<SEP>续借规则"
+    "create_time": 1794810559,
+    "update_time": 1794810559,
+    "_id": "Account Eligibility<SEP>Library Borrowing Guide"
   },
-  "原始借阅期限14天<SEP>学生借阅规则": {
+  "Book Reservation<SEP>Renewal": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563812,
-    "update_time": 1794563812,
-    "_id": "原始借阅期限14天<SEP>学生借阅规则"
+    "create_time": 1794810559,
+    "update_time": 1794810559,
+    "_id": "Book Reservation<SEP>Renewal"
   },
-  "借阅账户状态<SEP>学生": {
+  "Account Eligibility<SEP>Student": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563812,
-    "update_time": 1794563812,
-    "_id": "借阅账户状态<SEP>学生"
+    "create_time": 1794810560,
+    "update_time": 1794810560,
+    "_id": "Account Eligibility<SEP>Student"
   },
-  "图书借阅表格<SEP>学生借阅规则": {
+  "Renewal<SEP>Standard Loan Period": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563813,
-    "update_time": 1794563813,
-    "_id": "图书借阅表格<SEP>学生借阅规则"
+    "create_time": 1794810560,
+    "update_time": 1794810560,
+    "_id": "Renewal<SEP>Standard Loan Period"
   },
-  "单次借阅期限上限21天<SEP>原始借阅期限14天": {
+  "14 Days<SEP>Student": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563813,
-    "update_time": 1794563813,
-    "_id": "单次借阅期限上限21天<SEP>原始借阅期限14天"
+    "create_time": 1794810560,
+    "update_time": 1794810560,
+    "_id": "14 Days<SEP>Student"
   },
-  "学生<SEP>续借规则": {
+  "Book Reservation<SEP>Due Date": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563813,
-    "update_time": 1794563813,
-    "_id": "学生<SEP>续借规则"
+    "create_time": 1794810561,
+    "update_time": 1794810561,
+    "_id": "Book Reservation<SEP>Due Date"
   },
-  "到期日<SEP>原始借阅期限14天": {
+  "Book<SEP>Student": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563814,
-    "update_time": 1794563814,
-    "_id": "到期日<SEP>原始借阅期限14天"
+    "create_time": 1794810561,
+    "update_time": 1794810561,
+    "_id": "Book<SEP>Student"
   },
-  "单次借阅期限上限21天<SEP>续借期限7天": {
+  "Maximum Books At A Time<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563814,
-    "update_time": 1794563814,
-    "_id": "单次借阅期限上限21天<SEP>续借期限7天"
+    "create_time": 1794810561,
+    "update_time": 1794810561,
+    "_id": "Maximum Books At A Time<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "图书借阅表格<SEP>学生": {
+  "3 Books<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563814,
-    "update_time": 1794563814,
-    "_id": "图书借阅表格<SEP>学生"
+    "create_time": 1794810562,
+    "update_time": 1794810562,
+    "_id": "3 Books<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "学生借阅规则<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "Library Borrowing Guide<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563815,
-    "update_time": 1794563815,
-    "_id": "学生借阅规则<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810563,
+    "update_time": 1794810563,
+    "_id": "Library Borrowing Guide<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "学生<SEP>按书名查看到期日": {
+  "Standard Loan Period<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563815,
-    "update_time": 1794563815,
-    "_id": "学生<SEP>按书名查看到期日"
+    "create_time": 1794810565,
+    "update_time": 1794810565,
+    "_id": "Standard Loan Period<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "图书借阅表格<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "14 Days<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563816,
-    "update_time": 1794563816,
-    "_id": "图书借阅表格<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810565,
+    "update_time": 1794810565,
+    "_id": "14 Days<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "到期日<SEP>学生": {
+  "Student<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563816,
-    "update_time": 1794563816,
-    "_id": "到期日<SEP>学生"
+    "create_time": 1794810567,
+    "update_time": 1794810567,
+    "_id": "Student<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "学生图书借阅数量与期限规则表 (table)<SEP>每次最多借3本": {
+  "Due Date<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563817,
-    "update_time": 1794563817,
-    "_id": "学生图书借阅数量与期限规则表 (table)<SEP>每次最多借3本"
+    "create_time": 1794810568,
+    "update_time": 1794810568,
+    "_id": "Due Date<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "原始借阅期限14天<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "Figure 1<SEP>Renewal Steps": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563818,
-    "update_time": 1794563818,
-    "_id": "原始借阅期限14天<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810568,
+    "update_time": 1794810568,
+    "_id": "Figure 1<SEP>Renewal Steps"
   },
-  "到期日<SEP>按书名查看到期日": {
+  "My Loans<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563818,
-    "update_time": 1794563818,
-    "_id": "到期日<SEP>按书名查看到期日"
+    "create_time": 1794810569,
+    "update_time": 1794810569,
+    "_id": "My Loans<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "学生图书借阅数量与期限规则表 (table)<SEP>续借规则": {
+  "Due Date<SEP>Renewal Steps": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563819,
-    "update_time": 1794563819,
-    "_id": "学生图书借阅数量与期限规则表 (table)<SEP>续借规则"
+    "create_time": 1794810569,
+    "update_time": 1794810569,
+    "_id": "Due Date<SEP>Renewal Steps"
   },
-  "学生<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "Renewal<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563820,
-    "update_time": 1794563820,
-    "_id": "学生<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810570,
+    "update_time": 1794810570,
+    "_id": "Renewal<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "学生图书借阅数量与期限规则表 (table)<SEP>续借期限7天": {
+  "My Loans<SEP>Renewal Steps": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563821,
-    "update_time": 1794563821,
-    "_id": "学生图书借阅数量与期限规则表 (table)<SEP>续借期限7天"
+    "create_time": 1794810570,
+    "update_time": 1794810570,
+    "_id": "My Loans<SEP>Renewal Steps"
   },
-  "单次借阅期限上限21天<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "7 Extra Days<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563822,
-    "update_time": 1794563822,
-    "_id": "单次借阅期限上限21天<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810571,
+    "update_time": 1794810571,
+    "_id": "7 Extra Days<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "图书预约<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "Renewal<SEP>Renewal Steps": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563823,
-    "update_time": 1794563823,
-    "_id": "图书预约<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810571,
+    "update_time": 1794810571,
+    "_id": "Renewal<SEP>Renewal Steps"
   },
-  "图书借阅指南<SEP>图书续借": {
+  "Book<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563823,
-    "update_time": 1794563823,
-    "_id": "图书借阅指南<SEP>图书续借"
+    "create_time": 1794810572,
+    "update_time": 1794810572,
+    "_id": "Book<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "借阅账户状态<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "Book Reservation<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563825,
-    "update_time": 1794563825,
-    "_id": "借阅账户状态<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810573,
+    "update_time": 1794810573,
+    "_id": "Book Reservation<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "到期日<SEP>图书预约": {
+  "Figure 1<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563825,
-    "update_time": 1794563825,
-    "_id": "到期日<SEP>图书预约"
+    "create_time": 1794810573,
+    "update_time": 1794810573,
+    "_id": "Figure 1<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "图书借阅指南<SEP>续借流程信息图": {
+  "Renewal Steps<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563825,
-    "update_time": 1794563825,
-    "_id": "图书借阅指南<SEP>续借流程信息图"
+    "create_time": 1794810574,
+    "update_time": 1794810574,
+    "_id": "Renewal Steps<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "借阅页面<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "Account Eligibility<SEP>Student Book Borrowing Limits and Standard Loan Period (table)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563826,
-    "update_time": 1794563826,
-    "_id": "借阅页面<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810574,
+    "update_time": 1794810574,
+    "_id": "Account Eligibility<SEP>Student Book Borrowing Limits and Standard Loan Period (table)"
   },
-  "图书续借<SEP>待续借图书": {
+  "Renewal<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563826,
-    "update_time": 1794563826,
-    "_id": "图书续借<SEP>待续借图书"
+    "create_time": 1794810575,
+    "update_time": 1794810575,
+    "_id": "Renewal<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "图书续借<SEP>预约状态": {
+  "Due Date<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563827,
-    "update_time": 1794563827,
-    "_id": "图书续借<SEP>预约状态"
+    "create_time": 1794810576,
+    "update_time": 1794810576,
+    "_id": "Due Date<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "学生图书借阅数量与期限规则表 (table)<SEP>按书名查看到期日": {
+  "Reservation<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563827,
-    "update_time": 1794563827,
-    "_id": "学生图书借阅数量与期限规则表 (table)<SEP>按书名查看到期日"
+    "create_time": 1794810577,
+    "update_time": 1794810577,
+    "_id": "Reservation<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "借阅页面<SEP>图书续借": {
+  "My Loans<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563828,
-    "update_time": 1794563828,
-    "_id": "借阅页面<SEP>图书续借"
+    "create_time": 1794810578,
+    "update_time": 1794810578,
+    "_id": "My Loans<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "图书<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "Book<SEP>Reservation": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563828,
-    "update_time": 1794563828,
-    "_id": "图书<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810578,
+    "update_time": 1794810578,
+    "_id": "Book<SEP>Reservation"
   },
-  "一次续借限制<SEP>图书续借": {
+  "Seven Extra Days<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563829,
-    "update_time": 1794563829,
-    "_id": "一次续借限制<SEP>图书续借"
+    "create_time": 1794810579,
+    "update_time": 1794810579,
+    "_id": "Seven Extra Days<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "借阅页面<SEP>续借流程信息图": {
+  "Original Due Date<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563829,
-    "update_time": 1794563829,
-    "_id": "借阅页面<SEP>续借流程信息图"
+    "create_time": 1794810580,
+    "update_time": 1794810580,
+    "_id": "Original Due Date<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "到期日<SEP>学生图书借阅数量与期限规则表 (table)": {
+  "New Due Date<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563829,
-    "update_time": 1794563829,
-    "_id": "到期日<SEP>学生图书借阅数量与期限规则表 (table)"
+    "create_time": 1794810581,
+    "update_time": 1794810581,
+    "_id": "New Due Date<SEP>Three-Step Library Book Renewal Process (image)"
   },
-  "按原到期日归还规则<SEP>预约状态": {
+  "Book<SEP>Three-Step Library Book Renewal Process (image)": {
     "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563829,
-    "update_time": 1794563829,
-    "_id": "按原到期日归还规则<SEP>预约状态"
-  },
-  "待续借图书<SEP>按原到期日归还规则": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563830,
-    "update_time": 1794563830,
-    "_id": "待续借图书<SEP>按原到期日归还规则"
-  },
-  "七天延期<SEP>图书续借": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563830,
-    "update_time": 1794563830,
-    "_id": "七天延期<SEP>图书续借"
-  },
-  "图书借阅指南<SEP>图书到期前续借三步流程 (image)": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563830,
-    "update_time": 1794563830,
-    "_id": "图书借阅指南<SEP>图书到期前续借三步流程 (image)"
-  },
-  "图书续借<SEP>读者": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563831,
-    "update_time": 1794563831,
-    "_id": "图书续借<SEP>读者"
-  },
-  "到期日<SEP>图书续借": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563832,
-    "update_time": 1794563832,
-    "_id": "到期日<SEP>图书续借"
-  },
-  "图书到期前续借三步流程 (image)<SEP>图书续借": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563834,
-    "update_time": 1794563834,
-    "_id": "图书到期前续借三步流程 (image)<SEP>图书续借"
-  },
-  "到期日<SEP>续借流程信息图": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563834,
-    "update_time": 1794563834,
-    "_id": "到期日<SEP>续借流程信息图"
-  },
-  "借阅页面<SEP>图书到期前续借三步流程 (image)": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563835,
-    "update_time": 1794563835,
-    "_id": "借阅页面<SEP>图书到期前续借三步流程 (image)"
-  },
-  "图书到期前续借三步流程 (image)<SEP>待续借图书": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563836,
-    "update_time": 1794563836,
-    "_id": "图书到期前续借三步流程 (image)<SEP>待续借图书"
-  },
-  "图书到期前续借三步流程 (image)<SEP>预约状态": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563837,
-    "update_time": 1794563837,
-    "_id": "图书到期前续借三步流程 (image)<SEP>预约状态"
-  },
-  "一次续借限制<SEP>图书到期前续借三步流程 (image)": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563839,
-    "update_time": 1794563839,
-    "_id": "一次续借限制<SEP>图书到期前续借三步流程 (image)"
-  },
-  "七天延期<SEP>图书到期前续借三步流程 (image)": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563840,
-    "update_time": 1794563840,
-    "_id": "七天延期<SEP>图书到期前续借三步流程 (image)"
-  },
-  "到期日<SEP>图书到期前续借三步流程 (image)": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563841,
-    "update_time": 1794563841,
-    "_id": "到期日<SEP>图书到期前续借三步流程 (image)"
-  },
-  "图书到期前续借三步流程 (image)<SEP>续借流程信息图": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563842,
-    "update_time": 1794563842,
-    "_id": "图书到期前续借三步流程 (image)<SEP>续借流程信息图"
-  },
-  "图书到期前续借三步流程 (image)<SEP>读者": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563843,
-    "update_time": 1794563843,
-    "_id": "图书到期前续借三步流程 (image)<SEP>读者"
-  },
-  "图书到期前续借三步流程 (image)<SEP>按原到期日归还规则": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563844,
-    "update_time": 1794563844,
-    "_id": "图书到期前续借三步流程 (image)<SEP>按原到期日归还规则"
+    "create_time": 1794810582,
+    "update_time": 1794810582,
+    "_id": "Book<SEP>Three-Step Library Book Renewal Process (image)"
   }
 }

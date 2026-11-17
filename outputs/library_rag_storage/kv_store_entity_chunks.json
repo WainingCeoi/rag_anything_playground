@@ -1,400 +1,251 @@
 {
-  "续借": {
+  "Library Borrowing Guide": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008",
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-0bec09cbf50b78e30405fdc3229058fb",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
+    ],
+    "count": 5,
+    "update_time": 1794810553,
+    "_id": "Library Borrowing Guide"
+  },
+  "Borrowing and Returning Books": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1794810503,
+    "update_time": 1794810503,
+    "_id": "Borrowing and Returning Books"
+  },
+  "Account Eligibility": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 2,
-    "create_time": 1794563752,
-    "update_time": 1794563752,
-    "_id": "续借"
+    "update_time": 1794810554,
+    "_id": "Account Eligibility"
   },
-  "借阅页面": {
+  "Loan Limit": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008",
-      "chunk-951e510f42b703ea5ab244c339c57fd8",
-      "chunk-b2e2b287c866ec278f10c12fc3923d08",
-      "chunk-4cd91488171d5211f450daaa06e8e4a5",
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af",
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
     ],
-    "count": 6,
-    "update_time": 1794563808,
-    "_id": "借阅页面"
+    "count": 1,
+    "create_time": 1794810503,
+    "update_time": 1794810503,
+    "_id": "Loan Limit"
   },
-  "图书": {
+  "Standard Loan Period": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008",
-      "chunk-951e510f42b703ea5ab244c339c57fd8",
-      "chunk-b2e2b287c866ec278f10c12fc3923d08",
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-cf352990e5eade4fe4af96431997ef38"
+    ],
+    "count": 2,
+    "update_time": 1794810553,
+    "_id": "Standard Loan Period"
+  },
+  "My Loans": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 5,
+    "update_time": 1794810554,
+    "_id": "My Loans"
+  },
+  "Due Date": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38",
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 4,
-    "update_time": 1794563808,
-    "_id": "图书"
+    "update_time": 1794810553,
+    "_id": "Due Date"
   },
-  "预约": {
+  "Book": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 5,
+    "update_time": 1794810553,
+    "_id": "Book"
+  },
+  "Book Title": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
     ],
     "count": 1,
-    "create_time": 1794563752,
-    "update_time": 1794563752,
-    "_id": "预约"
+    "create_time": 1794810505,
+    "update_time": 1794810505,
+    "_id": "Book Title"
   },
-  "7天": {
+  "Account": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
     ],
     "count": 1,
-    "create_time": 1794563752,
-    "update_time": 1794563752,
-    "_id": "7天"
+    "create_time": 1794810505,
+    "update_time": 1794810505,
+    "_id": "Account"
   },
-  "原到期日": {
+  "Table": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
     ],
     "count": 1,
-    "create_time": 1794563752,
-    "update_time": 1794563752,
-    "_id": "原到期日"
+    "create_time": 1794810505,
+    "update_time": 1794810505,
+    "_id": "Table"
   },
-  "新到期日": {
+  "Renewal": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-cf352990e5eade4fe4af96431997ef38",
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
-    "count": 1,
-    "create_time": 1794563752,
-    "update_time": 1794563752,
-    "_id": "新到期日"
+    "count": 4,
+    "update_time": 1794810554,
+    "_id": "Renewal"
   },
-  "续借申请时机": {
+  "Seven Extra Days": {
     "chunk_ids": [
-      "chunk-8b3b4a368a464a5c56faf12fd0fc8008"
-    ],
-    "count": 1,
-    "create_time": 1794563752,
-    "update_time": 1794563752,
-    "_id": "续借申请时机"
-  },
-  "图书借阅指南": {
-    "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8",
-      "chunk-4cd91488171d5211f450daaa06e8e4a5",
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 3,
-    "update_time": 1794563808,
-    "_id": "图书借阅指南"
+    "update_time": 1794810555,
+    "_id": "Seven Extra Days"
   },
-  "到期日": {
+  "Reservation": {
     "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8",
-      "chunk-b2e2b287c866ec278f10c12fc3923d08",
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af",
-      "chunk-404daa6b949e1384db69a1327869caf0"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
-    "count": 4,
-    "update_time": 1794563808,
-    "_id": "到期日"
+    "count": 3,
+    "update_time": 1794810555,
+    "_id": "Reservation"
   },
-  "书名": {
+  "Original Due Date": {
     "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8",
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 2,
-    "create_time": 1794563754,
-    "update_time": 1794563754,
-    "_id": "书名"
-  },
-  "图书归还": {
-    "chunk_ids": [
-      "chunk-951e510f42b703ea5ab244c339c57fd8"
-    ],
-    "count": 1,
-    "create_time": 1794563754,
-    "update_time": 1794563754,
-    "_id": "图书归还"
-  },
-  "图书借阅规则": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563754,
-    "update_time": 1794563754,
-    "_id": "图书借阅规则"
-  },
-  "学生借书和还书": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563754,
-    "update_time": 1794563754,
-    "_id": "学生借书和还书"
-  },
-  "借阅账户": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563754,
-    "update_time": 1794563754,
-    "_id": "借阅账户"
-  },
-  "可借数量和借阅期限": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563754,
-    "update_time": 1794563754,
-    "_id": "可借数量和借阅期限"
-  },
-  "借阅成功": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
-    ],
-    "count": 1,
-    "create_time": 1794563754,
-    "update_time": 1794563754,
-    "_id": "借阅成功"
-  },
-  "学生": {
-    "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08",
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 2,
-    "update_time": 1794563806,
-    "_id": "学生"
+    "update_time": 1794810555,
+    "_id": "Original Due Date"
   },
-  "可借数量": {
+  "New Due Date": {
     "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 2,
+    "update_time": 1794810555,
+    "_id": "New Due Date"
+  },
+  "Renewal Steps": {
+    "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-816ab159240b772497183b1cde78b387"
+    ],
+    "count": 2,
+    "update_time": 1794810555,
+    "_id": "Renewal Steps"
+  },
+  "Due Date Check": {
+    "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
     ],
     "count": 1,
-    "create_time": 1794563755,
-    "update_time": 1794563755,
-    "_id": "可借数量"
+    "create_time": 1794810506,
+    "update_time": 1794810506,
+    "_id": "Due Date Check"
   },
-  "借阅期限": {
+  "Title": {
     "chunk_ids": [
-      "chunk-b2e2b287c866ec278f10c12fc3923d08"
+      "chunk-f74d3981177947bc583a0860d03ffe3f"
     ],
     "count": 1,
-    "create_time": 1794563755,
-    "update_time": 1794563755,
-    "_id": "借阅期限"
+    "create_time": 1794810506,
+    "update_time": 1794810506,
+    "_id": "Title"
   },
-  "续借步骤": {
+  "Student": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563755,
-    "update_time": 1794563755,
-    "_id": "续借步骤"
+    "create_time": 1794810553,
+    "update_time": 1794810553,
+    "_id": "Student"
   },
-  "续借成功": {
+  "Maximum Books At A Time": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563755,
-    "update_time": 1794563755,
-    "_id": "续借成功"
+    "create_time": 1794810553,
+    "update_time": 1794810553,
+    "_id": "Maximum Books At A Time"
   },
-  "新的到期日": {
+  "3 Books": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563755,
-    "update_time": 1794563755,
-    "_id": "新的到期日"
+    "create_time": 1794810553,
+    "update_time": 1794810553,
+    "_id": "3 Books"
   },
-  "归还前确认日期": {
+  "14 Days": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563755,
-    "update_time": 1794563755,
-    "_id": "归还前确认日期"
+    "create_time": 1794810553,
+    "update_time": 1794810553,
+    "_id": "14 Days"
   },
-  "确认结果": {
+  "7 Extra Days": {
     "chunk_ids": [
-      "chunk-4cd91488171d5211f450daaa06e8e4a5"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563755,
-    "update_time": 1794563755,
-    "_id": "确认结果"
+    "create_time": 1794810554,
+    "update_time": 1794810554,
+    "_id": "7 Extra Days"
   },
-  "学生借阅规则": {
+  "Book Reservation": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-cf352990e5eade4fe4af96431997ef38"
     ],
     "count": 1,
-    "create_time": 1794563806,
-    "update_time": 1794563806,
-    "_id": "学生借阅规则"
+    "create_time": 1794810554,
+    "update_time": 1794810554,
+    "_id": "Book Reservation"
   },
-  "图书借阅表格": {
+  "Figure 1": {
     "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+      "chunk-816ab159240b772497183b1cde78b387"
     ],
     "count": 1,
-    "create_time": 1794563806,
-    "update_time": 1794563806,
-    "_id": "图书借阅表格"
-  },
-  "每次最多借3本": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563806,
-    "update_time": 1794563806,
-    "_id": "每次最多借3本"
-  },
-  "原始借阅期限14天": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563806,
-    "update_time": 1794563806,
-    "_id": "原始借阅期限14天"
-  },
-  "续借规则": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563806,
-    "update_time": 1794563806,
-    "_id": "续借规则"
-  },
-  "续借期限7天": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563806,
-    "update_time": 1794563806,
-    "_id": "续借期限7天"
-  },
-  "单次借阅期限上限21天": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563806,
-    "update_time": 1794563806,
-    "_id": "单次借阅期限上限21天"
-  },
-  "图书预约": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563808,
-    "update_time": 1794563808,
-    "_id": "图书预约"
-  },
-  "借阅账户状态": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563808,
-    "update_time": 1794563808,
-    "_id": "借阅账户状态"
-  },
-  "按书名查看到期日": {
-    "chunk_ids": [
-      "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
-    ],
-    "count": 1,
-    "create_time": 1794563808,
-    "update_time": 1794563808,
-    "_id": "按书名查看到期日"
-  },
-  "图书续借": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563808,
-    "update_time": 1794563808,
-    "_id": "图书续借"
-  },
-  "待续借图书": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563809,
-    "update_time": 1794563809,
-    "_id": "待续借图书"
-  },
-  "预约状态": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563809,
-    "update_time": 1794563809,
-    "_id": "预约状态"
-  },
-  "一次续借限制": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563809,
-    "update_time": 1794563809,
-    "_id": "一次续借限制"
-  },
-  "七天延期": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563809,
-    "update_time": 1794563809,
-    "_id": "七天延期"
-  },
-  "续借流程信息图": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563809,
-    "update_time": 1794563809,
-    "_id": "续借流程信息图"
-  },
-  "读者": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563809,
-    "update_time": 1794563809,
-    "_id": "读者"
-  },
-  "按原到期日归还规则": {
-    "chunk_ids": [
-      "chunk-404daa6b949e1384db69a1327869caf0"
-    ],
-    "count": 1,
-    "create_time": 1794563809,
-    "update_time": 1794563809,
-    "_id": "按原到期日归还规则"
+    "create_time": 1794810555,
+    "update_time": 1794810555,
+    "_id": "Figure 1"
   }
 }

@@ -1,40 +1,40 @@
-## 图书借阅规则
+## Library Borrowing Guide
 
-## 学生借书和还书
+## Borrowing and returning books
 
-借书时，先确认账户可以借阅。
+Before borrowing, check that your account is eligible.
 
-每次可借的数量和借阅期限见下表。
+The table lists the limit and standard loan period.
 
-| 项目           | 学生借阅规则   |
-|----------------|----------------|
-| 每次最多借几本 | 3 本           |
-| 借阅期限       | 14 天          |
+| Item                    | Student rule   |
+|-------------------------|----------------|
+| Maximum books at a time | 3 books        |
+| Standard loan period    | 14 days        |
 
-## 查看到期日
+## Check the due date
 
-借阅成功后，借阅页面会显示每本书的到期日。
+After borrowing, My Loans shows the due date for each book.
 
-如果借了几本书，可以按书名分别查看。
+If you borrow several books, check each title separately.
 
-请在到期日当天或之前归还图书。
+Return each book on or before its due date.
 
-## 怎么续借
+## How to Renew
 
-还没读完时，可以在到期前申请续借。
+If you need more time, request a renewal before the due date.
 
-打开借阅页面，找到这本书，点击"续借"。
+Open My Loans, find the book, and click "Renew".
 
-如果没有人预约这本书，可以续借一次，延长 7 天。
+If nobody else has reserved it, renew once for 7 extra days.
 
-有人预约时，请按原到期日归还。
+If it is reserved, return it by the original due date.
+
+Figure 1. Renewal steps
 
 <!-- image -->
 
-图 1 续借步骤
+## Confirm the result
 
-## 确认结果
+After renewal, My Loans shows the new due date.
 
-续借成功后，借阅页面会显示新的到期日。
-
-归还前，再确认一次页面上的日期。
+Before returning the book, check the date again.

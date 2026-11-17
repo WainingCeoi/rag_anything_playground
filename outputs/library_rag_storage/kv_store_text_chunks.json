@@ -1,99 +1,99 @@
 {
-  "chunk-b2e2b287c866ec278f10c12fc3923d08": {
+  "chunk-9afabfd0277eadab270f8c9f0d4f67b9": {
     "tokens": 75,
-    "content": "图书借阅规则\n\n学生借书和还书\n\n借书时，先确认账户可以借阅。\n\n每次可借的数量和借阅期限见下表。\n\n查看到期日\n\n借阅成功后，借阅页面会显示每本书的到期日。\n\n如果借了几本书，可以按书名分别查看。\n\n请",
+    "content": "Library Borrowing Guide\n\nBorrowing and returning books\n\nBefore borrowing, check that your account is eligible.\n\nThe table lists the limit and standard loan period.\n\nCheck the due date\n\nAfter borrowing, My Loans shows the due date for each book.\n\nIf you borrow several books, check each title separately.\n\nReturn each book on or before its due date.\n\nLibrary Borrowing Guide",
     "chunk_order_index": 0,
-    "full_doc_id": "doc-aa78aa4bc3e5b28e98e8d9f587736a42",
+    "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:804a50ec23b6645f877a0199d9562a39",
-      "default:extract:9445eb46cb1e94fd7cd22d5caf218820"
+      "default:extract:3eeced7c11464dfad23f1b24fe6334ef",
+      "default:extract:bb001d241e3978b89e7505580c667dac"
     ],
-    "create_time": 1794563730,
-    "update_time": 1794563771,
-    "_id": "chunk-b2e2b287c866ec278f10c12fc3923d08",
+    "create_time": 1794810480,
+    "update_time": 1794810522,
+    "_id": "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
     "page_idx": 0
   },
-  "chunk-951e510f42b703ea5ab244c339c57fd8": {
+  "chunk-f74d3981177947bc583a0860d03ffe3f": {
     "tokens": 75,
-    "content": "书的到期日。\n\n如果借了几本书，可以按书名分别查看。\n\n请在到期日当天或之前归还图书。\n\n图书借阅指南\n\n1 / 2\n\n怎么续借\n\n还没读完时，可以在到期前申请续借。\n\n打开借阅页面，找到这本书，点击\"续借",
+    "content": "check each title separately.\n\nReturn each book on or before its due date.\n\nLibrary Borrowing Guide\n\n1 / 2\n\nHow to Renew\n\nIf you need more time, request a renewal before the due date.\n\nOpen My Loans, find the book, and click \"Renew\".\n\nIf nobody else has reserved it, renew once for 7 extra days.\n\nIf it is reserved",
     "chunk_order_index": 1,
-    "full_doc_id": "doc-aa78aa4bc3e5b28e98e8d9f587736a42",
+    "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:8a2ea3018fe01ebe0e9feebebd3ea2a1",
-      "default:extract:5420a23ace9d832bae85588565035df6"
+      "default:extract:9738f06dd6575e508a8646784deab196",
+      "default:extract:87893769f415486e238d615bf7997603"
     ],
-    "create_time": 1794563730,
-    "update_time": 1794563771,
-    "_id": "chunk-951e510f42b703ea5ab244c339c57fd8",
+    "create_time": 1794810480,
+    "update_time": 1794810522,
+    "_id": "chunk-f74d3981177947bc583a0860d03ffe3f",
     "page_idx": 0,
     "page_idx_end": 1
   },
-  "chunk-8b3b4a368a464a5c56faf12fd0fc8008": {
-    "tokens": 75,
-    "content": "期前申请续借。\n\n打开借阅页面，找到这本书，点击\"续借\"。\n\n如果没有人预约这本书，可以续借一次，延长 7 天。\n\n有人预约时，请按原到期日归还。\n\n图 1 续借步骤\n\n确认结果\n\n续借成功后，借阅页面会显示新的到",
+  "chunk-b5b66dc4cdc65aee472efcef7cbf0db9": {
+    "tokens": 70,
+    "content": "\".\n\nIf nobody else has reserved it, renew once for 7 extra days.\n\nIf it is reserved, return it by the original due date.\n\nFigure 1. Renewal steps\n\nConfirm the result\n\nAfter renewal, My Loans shows the new due date.\n\nBefore returning the book, check the date again.\n\nLibrary Borrowing Guide\n\n2 / 2",
     "chunk_order_index": 2,
-    "full_doc_id": "doc-aa78aa4bc3e5b28e98e8d9f587736a42",
+    "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:31671700bf4063ebe5c5b1323beb7ac1",
-      "default:extract:2aae3a6a9cdfb71852bc325cbece77cf"
+      "default:extract:ced8271e82c8595e0bb95ea3167563d1",
+      "default:extract:1d596e8bb38ffb6a0a28364e9000e296"
     ],
-    "create_time": 1794563730,
-    "update_time": 1794563771,
-    "_id": "chunk-8b3b4a368a464a5c56faf12fd0fc8008",
+    "create_time": 1794810480,
+    "update_time": 1794810522,
+    "_id": "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
     "page_idx": 1
   },
-  "chunk-4cd91488171d5211f450daaa06e8e4a5": {
-    "tokens": 43,
-    "content": "续借步骤\n\n确认结果\n\n续借成功后，借阅页面会显示新的到期日。\n\n归还前，再确认一次页面上的日期。\n\n图书借阅指南\n\n2 / 2",
+  "chunk-0bec09cbf50b78e30405fdc3229058fb": {
+    "tokens": 15,
+    "content": ", check the date again.\n\nLibrary Borrowing Guide\n\n2 / 2",
     "chunk_order_index": 3,
-    "full_doc_id": "doc-aa78aa4bc3e5b28e98e8d9f587736a42",
+    "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:c6752e4eecc7b370306981acf4af1d8e",
-      "default:extract:2444df8b7092ee9aa2711f31734633d8"
+      "default:extract:b58edfbb24f0734443f45c83a0d37ee9",
+      "default:extract:f6b911c96ade617d809638826a8f4ae4"
     ],
-    "create_time": 1794563730,
-    "update_time": 1794563771,
-    "_id": "chunk-4cd91488171d5211f450daaa06e8e4a5",
+    "create_time": 1794810480,
+    "update_time": 1794810522,
+    "_id": "chunk-0bec09cbf50b78e30405fdc3229058fb",
     "page_idx": 1
   },
-  "chunk-343d7fa6d9bf6c548bdd0b502c7c11af": {
-    "content": "表格分析：\n图片路径：\n标题：None\n结构：{'table_cells': [{'bbox': {'l': 75.0, 't': 272.5795905, 'r': 105.0, 'b': 286.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': '项目', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 321.0, 't': 272.5795905, 'r': 411.0, 'b': 286.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '学生借阅规则', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 75.0, 't': 313.5795905, 'r': 180.0, 'b': 327.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': '每次最多借几本', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 321.0, 't': 313.5795905, 'r': 348.5097645, 'b': 327.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 本', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 75.0, 't': 356.5795905, 'r': 135.0, 'b': 370.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': '借阅期限', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 321.0, 't': 356.5795905, 'r': 356.852049, 'b': 370.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 天', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], 'num_rows': 3, 'num_cols': 2, 'orientation': 'rot_0', 'grid': [[{'bbox': {'l': 75.0, 't': 272.5795905, 'r': 105.0, 'b': 286.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': '项目', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 321.0, 't': 272.5795905, 'r': 411.0, 'b': 286.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '学生借阅规则', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 75.0, 't': 313.5795905, 'r': 180.0, 'b': 327.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': '每次最多借几本', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 321.0, 't': 313.5795905, 'r': 348.5097645, 'b': 327.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 本', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 75.0, 't': 356.5795905, 'r': 135.0, 'b': 370.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': '借阅期限', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 321.0, 't': 356.5795905, 'r': 356.852049, 'b': 370.6494135, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 天', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}]]}\n脚注：None\n\n分析：表格位于“图书借阅规则”说明中，用于明确学生借书时的数量上限和标准借阅期限；周围文字还提示，借阅前应确认账户可以借阅，借阅成功后可按书名查看每本书的到期日，并应在到期日当天或之前归还。\n\n表格结构为3行、2列：首行为列标题，后两行分别列出借阅数量和借阅期限。第一列“项目”标识规则项目；第二列“学生借阅规则”给出对应数值。具体数据是：每次最多借3本，借阅期限为14天。也就是说，数量上限是每次3本，14天是表格列出的标准借阅时长；表格没有说明不同图书是否有不同期限，也未列出其他读者类别的规则。\n\n结合后续“怎么续借”的说明，14天应理解为原始借阅期限，而不是续借后的总期限：若尚未读完，学生可在到期前申请续借；只有在无人预约时才可续借一次，并延长7天。因此，在符合续借条件且及时申请的情况下，单次借阅期限最多可达到21天（14天原期限加7天续借）；若有人预约，则不能续借，须按原到期日归还。续借后的到期日应以借阅页面显示的新日期为准。\n\n关键关系包括：每次最多借3本限制借阅数量，14天期限决定原始归还节点；续借资格取决于是否有人预约，续借申请时间须早于到期日。若一次借了多本，周围说明要求按书名分别查看到期日，因此不应假设所有图书到期日必然相同。表格是静态规则摘要，没有提供借阅量、逾期情况或时间序列数据，无法据此推断使用趋势或规则执行效果。它与周围的借阅、查看到期日及续借指引相互补充，将借阅数量和时长的基础规则与具体操作及例外条件连接起来。",
-    "tokens": 2069,
-    "full_doc_id": "doc-aa78aa4bc3e5b28e98e8d9f587736a42",
+  "chunk-cf352990e5eade4fe4af96431997ef38": {
+    "content": "Table Analysis:\nImage Path: \nCaption: None\nStructure: {'table_cells': [{'bbox': {'l': 73.0, 't': 258.9420462500001, 'r': 98.70190375, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Item', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 258.9420462500001, 'r': 419.9186974999999, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': 'Student rule', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 73.0, 't': 305.9359425, 'r': 215.40722000000005, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Maximum books at a time', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 305.9359425, 'r': 390.7805149999999, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 books', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 73.0, 't': 352.9359425, 'r': 189.05834249999998, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Standard loan period', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 352.9359425, 'r': 390.7805149999999, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 days', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], 'num_rows': 3, 'num_cols': 2, 'orientation': 'rot_0', 'grid': [[{'bbox': {'l': 73.0, 't': 258.9420462500001, 'r': 98.70190375, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Item', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 258.9420462500001, 'r': 419.9186974999999, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': 'Student rule', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 73.0, 't': 305.9359425, 'r': 215.40722000000005, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Maximum books at a time', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 305.9359425, 'r': 390.7805149999999, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 books', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 73.0, 't': 352.9359425, 'r': 189.05834249999998, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Standard loan period', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 352.9359425, 'r': 390.7805149999999, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 days', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}]]}\nFootnotes: None\n\nAnalysis: The table has 3 rows and 2 columns. Its header row labels the columns “Item” and “Student rule.” The two data rows pair a borrowing condition with its rule: “Maximum books at a time” is limited to “3 books,” and the “Standard loan period” is “14 days.” These values establish both a quantity limit and a time limit for student borrowing. The limits apply within the Library Borrowing Guide’s instruction to check that an account is eligible before borrowing. The 14-day period is the standard loan period, not a guarantee that every book has the same due date; the guide says to check the due date for each title in My Loans and return each book by its own due date. The renewal instructions add a conditional extension: a student may renew once for 7 extra days before the due date if nobody else has reserved the book. If it is reserved, the student must return it by the original due date. Thus, a successful renewal can extend the stated 14-day standard period by 7 days, but only under the stated conditions; the table itself does not describe renewal eligibility. There are two rules and no category breakdown, exceptions, or comparative values, so broader statistical trends cannot be inferred. The table provides the guide’s concise baseline borrowing limits, while the surrounding instructions explain how to track individual due dates, renew eligible books, and return books on time.",
+    "tokens": 1941,
+    "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "chunk_order_index": 4,
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:7deb91a23412cdece8d5916fe32c545a",
-      "default:extract:5bb009d9a87ab9965a5a6d0ecc4c6810"
+      "default:extract:d02751429580ffe3eceb399e3d477d7f",
+      "default:extract:dfcfef3bbc638dbdef570a170ba42b11"
     ],
     "is_multimodal": true,
-    "modal_entity_name": "学生图书借阅数量与期限规则表 (table)",
+    "modal_entity_name": "Student Book Borrowing Limits and Standard Loan Period (table)",
     "original_type": "table",
     "page_idx": 0,
-    "create_time": 1794563779,
-    "update_time": 1794563805,
-    "_id": "chunk-343d7fa6d9bf6c548bdd0b502c7c11af"
+    "create_time": 1794810528,
+    "update_time": 1794810553,
+    "_id": "chunk-cf352990e5eade4fe4af96431997ef38"
   },
-  "chunk-404daa6b949e1384db69a1327869caf0": {
-    "content": "\n图片内容分析：\n- 章节路径：None\n- 邻近文本：打开借阅页面，找到这本书，点击\"续借\"。 如果没有人预约这本书，可以续借一次，延长 7 天。 有人预约时，请按原到期日归还。 图 1 续借步骤 确认结果 续借成功后，借阅页面会显示新的到期日。\n图片路径：/Users/weiningxu/Documents/Project/rag_anything_playground/outputs/parsed/library-guide_39d2f00c/library-guide/docling/images/image_0.png\n标注：None\n脚注：None\n\n视觉分析：图片是一张横向排列的三步图书续借流程信息图，背景为浅绿色。画面中有三个大小相近的白色圆角矩形卡片，卡片边缘带浅灰绿色描边；卡片之间以深绿色向右箭头连接，表示按顺序完成续借操作。每张卡片上方都有一个深绿色圆形编号标记，白色数字依次为“1”“2”“3”。第一张卡片写着“到期前”，下方说明“查看到期日”；第二张卡片写着“借阅页面”，下方说明“找到这本书”；第三张卡片写着“点击续借”，下方说明“确认新的到期日”。文字为深绿色或灰绿色，采用简洁清晰的无衬线风格，卡片内容居中排列，整体留白充足、视觉风格简洁柔和。该图与《图书借阅指南》的续借说明相对应：读者应在图书到期前打开借阅页面，找到要续借的书并点击“续借”，随后确认页面显示的新到期日。图中呈现的是操作步骤示意，不包含人物、实物书籍或具体界面截图。",
-    "tokens": 424,
-    "full_doc_id": "doc-aa78aa4bc3e5b28e98e8d9f587736a42",
+  "chunk-816ab159240b772497183b1cde78b387": {
+    "content": "\nImage Content Analysis:\n- Section Path: None\n- Neighbor Text: Open My Loans, find the book, and click \"Renew\". If nobody else has reserved it, renew once for 7 extra days. If it is reserved, return it by the original due date. Figure 1. Renewal steps Confirm the result After renewal, My Loans shows the new due date.\nImage Path: /Users/weiningxu/Documents/Project/rag_anything_playground/outputs/parsed/library-guide_39d2f00c/library-guide/docling/images/image_0.png\nCaptions: Figure 1. Renewal steps\nFootnotes: None\n\nVisual Analysis: A horizontal, three-step renewal diagram on a pale green background. Three white rounded-rectangle cards with thin light-green outlines are arranged from left to right, with dark-green right-pointing arrows between consecutive cards to show the sequence.\n\n1. The first card has a dark-green circular badge containing “1”. Beneath it, the bold heading reads “Before the due date”, followed by the smaller text “Check the due date”.\n2. The middle card has a dark-green circular badge containing “2”. Its bold heading reads “My Loans”, followed by “Find the book”.\n3. The right card has a dark-green circular badge containing “3”. Its bold heading reads “Renew”, followed by “Check the new due date”.\n\nThe arrows connect card 1 to card 2 and card 2 to card 3, establishing the order: check the due date before it arrives, find the book in My Loans, and renew while checking the resulting due date. The diagram accompanies the surrounding library borrowing guidance, which says to request a renewal before the original due date; a renewal is available once for seven extra days if nobody else has reserved the book. If the book is reserved, it should be returned by the original due date. After renewal, My Loans displays the new due date, which should be checked again before returning the book. The design is clean and minimal, with centered text, dark-green headings and step numbers, muted-green supporting text, and generous spacing.",
+    "tokens": 430,
+    "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "chunk_order_index": 5,
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:0e31ffbe5720f357555f225f2ac19141",
-      "default:extract:502793b1161900a410863ea046d1ce66"
+      "default:extract:16e0a5718bc1f3593cee9902885fd49a",
+      "default:extract:01aa497bb58b1c8adfbba0d4efb0a8d3"
     ],
     "is_multimodal": true,
-    "modal_entity_name": "图书到期前续借三步流程 (image)",
+    "modal_entity_name": "Three-Step Library Book Renewal Process (image)",
     "original_type": "image",
     "page_idx": 1,
-    "create_time": 1794563779,
-    "update_time": 1794563806,
-    "_id": "chunk-404daa6b949e1384db69a1327869caf0"
+    "create_time": 1794810528,
+    "update_time": 1794810553,
+    "_id": "chunk-816ab159240b772497183b1cde78b387"
   }
 }

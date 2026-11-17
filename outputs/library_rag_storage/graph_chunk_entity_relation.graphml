@@ -13,1172 +13,857 @@
 <key id="d2" for="node" attr.name="description" attr.type="string"/>
 <key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
 <key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
-<graph edgedefault="undirected"><node id="续借">
-  <data key="d0">续借</data>
-  <data key="d1">method</data>
-  <data key="d2">续借是在图书尚未读完时，于到期前申请延长借阅。&lt;SEP&gt;续借是通过借阅页面操作、在符合条件时延长图书借阅期限的操作。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008&lt;SEP&gt;chunk-951e510f42b703ea5ab244c339c57fd8</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563752</data>
-  <data key="d6"></data>
-</node>
-<node id="借阅页面">
-  <data key="d0">借阅页面</data>
-  <data key="d1">artifact</data>
-  <data key="d2">借阅页面用于显示续借成功后的新到期日。&lt;SEP&gt;借阅页面用于找到图书并点击续借操作。&lt;SEP&gt;借阅页面用于查找图书、点击续借，并在续借成功后显示新的到期日。&lt;SEP&gt;借阅页面会显示每本已借图书的到期日，并支持按书名分别查看。&lt;SEP&gt;借阅页面用于查找待续借图书、发起续借，并显示续借后的新到期日。&lt;SEP&gt;借阅页面显示每本图书的到期日，续借后显示新的到期日。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008&lt;SEP&gt;chunk-951e510f42b703ea5ab244c339c57fd8&lt;SEP&gt;chunk-b2e2b287c866ec278f10c12fc3923d08&lt;SEP&gt;chunk-4cd91488171d5211f450daaa06e8e4a5&lt;SEP&gt;chunk-343d7fa6d9bf6c548bdd0b502c7c11af&lt;SEP&gt;chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
-  <data key="d6"></data>
-</node>
-<node id="图书">
-  <data key="d0">图书</data>
-  <data key="d1">artifact</data>
-  <data key="d2">图书是借阅指南中可查看到期日、按书名区分并归还或申请续借的对象。&lt;SEP&gt;图书是可被借阅、预约和申请续借的对象。&lt;SEP&gt;图书是学生借阅和归还的对象。&lt;SEP&gt;图书是学生按借阅规则借阅并需在到期日当天或之前归还的对象。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008&lt;SEP&gt;chunk-951e510f42b703ea5ab244c339c57fd8&lt;SEP&gt;chunk-b2e2b287c866ec278f10c12fc3923d08&lt;SEP&gt;chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
-  <data key="d6"></data>
-</node>
-<node id="预约">
-  <data key="d0">预约</data>
-  <data key="d1">concept</data>
-  <data key="d2">预约表示有人预订了图书；图书有人预约时不能续借，需按原到期日归还。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563752</data>
-  <data key="d6"></data>
-</node>
-<node id="7天">
-  <data key="d0">7天</data>
-  <data key="d1">data</data>
-  <data key="d2">7天是符合条件的续借可延长的借阅期限。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563752</data>
-  <data key="d6"></data>
-</node>
-<node id="原到期日">
-  <data key="d0">原到期日</data>
-  <data key="d1">data</data>
-  <data key="d2">原到期日是图书当前规定的归还日期；有人预约图书时，需按此日期归还。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563752</data>
-  <data key="d6"></data>
-</node>
-<node id="新到期日">
-  <data key="d0">新到期日</data>
-  <data key="d1">data</data>
-  <data key="d2">新到期日是续借成功后借阅页面显示的更新归还日期。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563752</data>
-  <data key="d6"></data>
-</node>
-<node id="续借申请时机">
-  <data key="d0">续借申请时机</data>
-  <data key="d1">concept</data>
-  <data key="d2">续借需在借阅期限届满前申请。</data>
-  <data key="d3">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563752</data>
-  <data key="d6"></data>
-</node>
-<node id="图书借阅指南">
-  <data key="d0">图书借阅指南</data>
+<graph edgedefault="undirected"><node id="Library Borrowing Guide">
+  <data key="d0">Library Borrowing Guide</data>
   <data key="d1">content</data>
-  <data key="d2">图书借阅指南包含续借步骤、续借结果确认及归还前核对日期的说明。&lt;SEP&gt;图书借阅指南介绍查看图书到期日、归还图书和申请续借的操作。&lt;SEP&gt;图书借阅指南包含图书续借说明，指导读者在到期前通过借阅页面办理续借并确认新的到期日。</data>
-  <data key="d3">chunk-951e510f42b703ea5ab244c339c57fd8&lt;SEP&gt;chunk-4cd91488171d5211f450daaa06e8e4a5&lt;SEP&gt;chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d2">Library Borrowing Guide is the title of a guide about library borrowing.&lt;SEP&gt;The Library Borrowing Guide provides instructions for checking titles, returning books by their due dates, and requesting renewals.&lt;SEP&gt;The Library Borrowing Guide provides instructions for borrowing and returning books.&lt;SEP&gt;The Library Borrowing Guide provides instructions for renewing and returning a book.&lt;SEP&gt;The Library Borrowing Guide provides baseline student borrowing limits and instructions for checking eligibility, tracking due dates, renewing books, and returning them on time.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-0bec09cbf50b78e30405fdc3229058fb&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
+  <data key="d5">1794810553</data>
   <data key="d6"></data>
 </node>
-<node id="到期日">
-  <data key="d0">到期日</data>
+<node id="Borrowing and Returning Books">
+  <data key="d0">Borrowing and Returning Books</data>
+  <data key="d1">method</data>
+  <data key="d2">Borrowing and returning books are the activities covered by the guide.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810503</data>
+  <data key="d6"></data>
+</node>
+<node id="Account Eligibility">
+  <data key="d0">Account Eligibility</data>
   <data key="d1">concept</data>
-  <data key="d2">到期日是图书借阅期限的截止日期，图书应在当天或之前归还，续借应在到期前申请。&lt;SEP&gt;到期日是每本借阅图书对应的日期，可在借阅页面查看。&lt;SEP&gt;到期日是图书当前的归还截止日期；续借前应查看到期日，续借成功后页面会显示新的到期日。&lt;SEP&gt;到期日是图书应归还的日期；学生须在到期日当天或之前归还。</data>
-  <data key="d3">chunk-951e510f42b703ea5ab244c339c57fd8&lt;SEP&gt;chunk-b2e2b287c866ec278f10c12fc3923d08&lt;SEP&gt;chunk-343d7fa6d9bf6c548bdd0b502c7c11af&lt;SEP&gt;chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d2">Account eligibility should be checked before borrowing.&lt;SEP&gt;Account eligibility must be checked before a student borrows a book.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
+  <data key="d5">1794810554</data>
   <data key="d6"></data>
 </node>
-<node id="书名">
-  <data key="d0">书名</data>
+<node id="Loan Limit">
+  <data key="d0">Loan Limit</data>
   <data key="d1">data</data>
-  <data key="d2">书名用于在借阅多本图书时分别查看图书信息。&lt;SEP&gt;书名可用于分别查看多本借阅图书的到期日。</data>
-  <data key="d3">chunk-951e510f42b703ea5ab244c339c57fd8&lt;SEP&gt;chunk-b2e2b287c866ec278f10c12fc3923d08</data>
+  <data key="d2">The guide's table lists a limit for borrowing.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563754</data>
+  <data key="d5">1794810503</data>
   <data key="d6"></data>
 </node>
-<node id="图书归还">
-  <data key="d0">图书归还</data>
-  <data key="d1">method</data>
-  <data key="d2">图书归还是在到期日当天或之前将借阅的图书归还。</data>
-  <data key="d3">chunk-951e510f42b703ea5ab244c339c57fd8</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563754</data>
-  <data key="d6"></data>
-</node>
-<node id="图书借阅规则">
-  <data key="d0">图书借阅规则</data>
-  <data key="d1">content</data>
-  <data key="d2">图书借阅规则说明学生借书、还书以及查看到期日的相关流程。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563754</data>
-  <data key="d6"></data>
-</node>
-<node id="学生借书和还书">
-  <data key="d0">学生借书和还书</data>
-  <data key="d1">method</data>
-  <data key="d2">学生借书和还书是图书借阅规则涉及的借阅与归还流程。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563754</data>
-  <data key="d6"></data>
-</node>
-<node id="借阅账户">
-  <data key="d0">借阅账户</data>
-  <data key="d1">data</data>
-  <data key="d2">借阅账户需先确认具备借阅资格，学生方可借书。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563754</data>
-  <data key="d6"></data>
-</node>
-<node id="可借数量和借阅期限">
-  <data key="d0">可借数量和借阅期限</data>
-  <data key="d1">data</data>
-  <data key="d2">可借数量和借阅期限列于规则所指的表格中。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563754</data>
-  <data key="d6"></data>
-</node>
-<node id="借阅成功">
-  <data key="d0">借阅成功</data>
-  <data key="d1">event</data>
-  <data key="d2">借阅成功后，借阅页面会显示所借图书的到期日。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563754</data>
-  <data key="d6"></data>
-</node>
-<node id="学生">
-  <data key="d0">学生</data>
+<node id="Standard Loan Period">
+  <data key="d0">Standard Loan Period</data>
   <data key="d1">concept</data>
-  <data key="d2">学生是图书借阅规则中借书和还书的主体。&lt;SEP&gt;学生是适用学生借阅规则的读者，可借阅图书并在符合条件时申请续借。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08&lt;SEP&gt;chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d2">The guide's table lists the standard loan period.&lt;SEP&gt;The standard loan period is the baseline duration of a student book loan.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
+  <data key="d5">1794810553</data>
   <data key="d6"></data>
 </node>
-<node id="可借数量">
-  <data key="d0">可借数量</data>
-  <data key="d1">data</data>
-  <data key="d2">可借数量规定每次可以借阅的图书数量，具体内容见表格。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
+<node id="My Loans">
+  <data key="d0">My Loans</data>
+  <data key="d1">artifact</data>
+  <data key="d2">My Loans is the interface where a borrower can find a book and request a renewal.&lt;SEP&gt;My Loans displays the due date for each borrowed book.&lt;SEP&gt;My Loans displays the book's new due date after renewal.&lt;SEP&gt;My Loans is where a student checks the due date for each book title.&lt;SEP&gt;My Loans is the library account area where a borrower finds a book and views its new due date after renewal.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563755</data>
+  <data key="d5">1794810554</data>
   <data key="d6"></data>
 </node>
-<node id="借阅期限">
-  <data key="d0">借阅期限</data>
-  <data key="d1">data</data>
-  <data key="d2">借阅期限规定每次借阅的期限，具体内容见表格。</data>
-  <data key="d3">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563755</data>
-  <data key="d6"></data>
-</node>
-<node id="续借步骤">
-  <data key="d0">续借步骤</data>
-  <data key="d1">method</data>
-  <data key="d2">续借步骤指图书借阅指南中关于办理续借及确认结果的操作内容。</data>
-  <data key="d3">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563755</data>
-  <data key="d6"></data>
-</node>
-<node id="续借成功">
-  <data key="d0">续借成功</data>
-  <data key="d1">event</data>
-  <data key="d2">续借成功是续借完成后的状态，此时借阅页面会显示新的到期日。</data>
-  <data key="d3">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563755</data>
-  <data key="d6"></data>
-</node>
-<node id="新的到期日">
-  <data key="d0">新的到期日</data>
-  <data key="d1">data</data>
-  <data key="d2">新的到期日是续借成功后显示在借阅页面上的日期。</data>
-  <data key="d3">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563755</data>
-  <data key="d6"></data>
-</node>
-<node id="归还前确认日期">
-  <data key="d0">归还前确认日期</data>
-  <data key="d1">method</data>
-  <data key="d2">归还前确认日期是指在归还图书前再次核对页面所示日期。</data>
-  <data key="d3">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563755</data>
-  <data key="d6"></data>
-</node>
-<node id="确认结果">
-  <data key="d0">确认结果</data>
+<node id="Due Date">
+  <data key="d0">Due Date</data>
   <data key="d1">concept</data>
-  <data key="d2">确认结果是续借步骤中的内容，涉及续借成功后查看借阅页面显示的新到期日。</data>
-  <data key="d3">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
+  <data key="d2">The due date is the deadline by which a borrowed book should be returned and before which a renewal should be requested.&lt;SEP&gt;The due date is displayed for each book and indicates when the book should be returned.&lt;SEP&gt;A due date is the individual return deadline for a borrowed book.&lt;SEP&gt;The due date is the date by which the book should be returned, and the updated due date should be checked after renewal.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563755</data>
+  <data key="d5">1794810553</data>
   <data key="d6"></data>
 </node>
-<node id="学生图书借阅数量与期限规则表 (table)">
-  <data key="d0">学生图书借阅数量与期限规则表 (table)</data>
+<node id="Book">
+  <data key="d0">Book</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A book is an item that can be borrowed, returned by its due date, and renewed if eligible.&lt;SEP&gt;Books can be borrowed and should be returned on or before their due dates.&lt;SEP&gt;The book can be renewed if nobody else has reserved it, or returned by its original due date if it is reserved.&lt;SEP&gt;A book is an item that a student may borrow, renew under stated conditions, and return by its own due date.&lt;SEP&gt;The book is the library item that may be renewed once for seven extra days if nobody else has reserved it.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810553</data>
+  <data key="d6"></data>
+</node>
+<node id="Book Title">
+  <data key="d0">Book Title</data>
+  <data key="d1">data</data>
+  <data key="d2">Each borrowed book title should be checked separately when borrowing several books.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810505</data>
+  <data key="d6"></data>
+</node>
+<node id="Account">
+  <data key="d0">Account</data>
+  <data key="d1">data</data>
+  <data key="d2">The account's eligibility should be checked before borrowing.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810505</data>
+  <data key="d6"></data>
+</node>
+<node id="Table">
+  <data key="d0">Table</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The table lists the borrowing limit and standard loan period.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810505</data>
+  <data key="d6"></data>
+</node>
+<node id="Renewal">
+  <data key="d0">Renewal</data>
+  <data key="d1">method</data>
+  <data key="d2">A renewal gives a borrower more time to keep a book; it can be requested once for seven extra days if nobody else has reserved the book.&lt;SEP&gt;Renewal is an option for a book that has not been reserved by someone else, and it extends the borrowing period by seven days.&lt;SEP&gt;A renewal may extend a book loan once for seven extra days, if completed before the due date and if nobody else has reserved the book.&lt;SEP&gt;Renewal is an action performed before the original due date; it is available once for seven extra days if the book has no reservation.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810554</data>
+  <data key="d6"></data>
+</node>
+<node id="Seven Extra Days">
+  <data key="d0">Seven Extra Days</data>
+  <data key="d1">data</data>
+  <data key="d2">Seven extra days is the length of the extension provided by the described renewal.&lt;SEP&gt;Seven extra days is the extension period available for an eligible book renewal.&lt;SEP&gt;Seven extra days is the additional loan period available after an eligible renewal.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810555</data>
+  <data key="d6"></data>
+</node>
+<node id="Reservation">
+  <data key="d0">Reservation</data>
+  <data key="d1">concept</data>
+  <data key="d2">A reservation by another person makes a book ineligible for the renewal described in the guide.&lt;SEP&gt;A reservation affects whether the book can be renewed or must be returned by the original due date.&lt;SEP&gt;A reservation by another person prevents renewal and means the book should be returned by its original due date.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810555</data>
+  <data key="d6"></data>
+</node>
+<node id="Original Due Date">
+  <data key="d0">Original Due Date</data>
+  <data key="d1">concept</data>
+  <data key="d2">The original due date is the deadline for returning a reserved book.&lt;SEP&gt;The original due date is the deadline by which a reserved book must be returned and before which a renewal should be requested.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810555</data>
+  <data key="d6"></data>
+</node>
+<node id="New Due Date">
+  <data key="d0">New Due Date</data>
+  <data key="d1">concept</data>
+  <data key="d2">The new due date is displayed in My Loans after the book is renewed.&lt;SEP&gt;The new due date is the updated return deadline shown in My Loans after a successful renewal.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810555</data>
+  <data key="d6"></data>
+</node>
+<node id="Renewal Steps">
+  <data key="d0">Renewal Steps</data>
+  <data key="d1">method</data>
+  <data key="d2">Renewal Steps are identified as Figure 1 in the guide.&lt;SEP&gt;The renewal steps are to check the due date, find the book in My Loans, renew the book, and check the resulting due date.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810555</data>
+  <data key="d6"></data>
+</node>
+<node id="Due Date Check">
+  <data key="d0">Due Date Check</data>
+  <data key="d1">method</data>
+  <data key="d2">The guide instructs borrowers to check the date again before returning the book.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810506</data>
+  <data key="d6"></data>
+</node>
+<node id="Title">
+  <data key="d0">Title</data>
+  <data key="d1">concept</data>
+  <data key="d2">A title is an identifying name that the guide instructs borrowers to check separately.</data>
+  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810506</data>
+  <data key="d6"></data>
+</node>
+<node id="Student Book Borrowing Limits and Standard Loan Period (table)">
+  <data key="d0">Student Book Borrowing Limits and Standard Loan Period (table)</data>
   <data key="d1">table</data>
-  <data key="d2">表格规定学生每次最多借3本、标准借阅期为14天；结合指南，无人预约时可在到期前续借一次并延长7天，否则须按原到期日归还。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d2">The table states that students may borrow a maximum of 3 books at a time, with a standard loan period of 14 days. It supplies the baseline rules for the Library Borrowing Guide; surrounding instructions explain checking individual due dates in My Loans and the conditional option to renew once for 7 extra days.</data>
+  <data key="d3">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563780</data>
+  <data key="d5">1794810529</data>
 </node>
-<node id="图书到期前续借三步流程 (image)">
-  <data key="d0">图书到期前续借三步流程 (image)</data>
+<node id="Three-Step Library Book Renewal Process (image)">
+  <data key="d0">Three-Step Library Book Renewal Process (image)</data>
   <data key="d1">image</data>
-  <data key="d2">以三步流程图说明图书续借操作：到期前查看到期日，在借阅页面找到图书并点击续借，最后确认新的到期日。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d2">A three-card, left-to-right flow diagram showing the library renewal steps: check the due date, find the book in My Loans, and renew while checking the new due date. It supports the guide’s instructions to renew before the due date and verify the updated return date.</data>
+  <data key="d3">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563780</data>
+  <data key="d5">1794810529</data>
 </node>
-<node id="学生借阅规则">
-  <data key="d0">学生借阅规则</data>
-  <data key="d1">concept</data>
-  <data key="d2">学生借阅规则规定学生每次可借图书的数量上限和原始借阅期限。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
-  <data key="d6"></data>
-</node>
-<node id="图书借阅表格">
-  <data key="d0">图书借阅表格</data>
-  <data key="d1">artifact</data>
-  <data key="d2">图书借阅表格以三行两列列出学生借阅的数量上限和借阅期限。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
-  <data key="d6"></data>
-</node>
-<node id="每次最多借3本">
-  <data key="d0">每次最多借3本</data>
-  <data key="d1">data</data>
-  <data key="d2">每次最多借3本是学生借阅图书的数量上限。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
-  <data key="d6"></data>
-</node>
-<node id="原始借阅期限14天">
-  <data key="d0">原始借阅期限14天</data>
-  <data key="d1">data</data>
-  <data key="d2">原始借阅期限为14天，是续借前的标准借阅时长。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
-  <data key="d6"></data>
-</node>
-<node id="续借规则">
-  <data key="d0">续借规则</data>
-  <data key="d1">concept</data>
-  <data key="d2">学生可在到期前申请续借；无人预约时可续借一次并延长7天，有人预约时不能续借。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
-  <data key="d6"></data>
-</node>
-<node id="续借期限7天">
-  <data key="d0">续借期限7天</data>
-  <data key="d1">data</data>
-  <data key="d2">符合续借条件时，续借可将借阅期限延长7天。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
-  <data key="d6"></data>
-</node>
-<node id="单次借阅期限上限21天">
-  <data key="d0">单次借阅期限上限21天</data>
-  <data key="d1">data</data>
-  <data key="d2">符合续借条件并及时申请时，单次借阅期限最多为原始14天加续借7天，共21天。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563806</data>
-  <data key="d6"></data>
-</node>
-<node id="图书预约">
-  <data key="d0">图书预约</data>
-  <data key="d1">concept</data>
-  <data key="d2">图书是否有人预约会影响学生能否续借；有人预约时不能续借。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
-  <data key="d6"></data>
-</node>
-<node id="借阅账户状态">
-  <data key="d0">借阅账户状态</data>
-  <data key="d1">concept</data>
-  <data key="d2">借阅前应确认账户可以借阅。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
-  <data key="d6"></data>
-</node>
-<node id="按书名查看到期日">
-  <data key="d0">按书名查看到期日</data>
-  <data key="d1">method</data>
-  <data key="d2">学生可按书名分别查看每本图书的到期日。</data>
-  <data key="d3">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
-  <data key="d6"></data>
-</node>
-<node id="图书续借">
-  <data key="d0">图书续借</data>
-  <data key="d1">method</data>
-  <data key="d2">图书续借是通过借阅页面找到待续借图书、点击“续借”并确认新到期日的操作。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563808</data>
-  <data key="d6"></data>
-</node>
-<node id="待续借图书">
-  <data key="d0">待续借图书</data>
-  <data key="d1">artifact</data>
-  <data key="d2">待续借图书是读者在借阅页面找到并尝试续借的图书。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563809</data>
-  <data key="d6"></data>
-</node>
-<node id="预约状态">
-  <data key="d0">预约状态</data>
-  <data key="d1">concept</data>
-  <data key="d2">预约状态决定图书能否续借：无人预约时可以续借一次，有人预约时应按原到期日归还。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563809</data>
-  <data key="d6"></data>
-</node>
-<node id="一次续借限制">
-  <data key="d0">一次续借限制</data>
-  <data key="d1">data</data>
-  <data key="d2">无人预约时，图书可以续借一次。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563809</data>
-  <data key="d6"></data>
-</node>
-<node id="七天延期">
-  <data key="d0">七天延期</data>
-  <data key="d1">data</data>
-  <data key="d2">无人预约且续借成功时，图书到期日延长七天。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563809</data>
-  <data key="d6"></data>
-</node>
-<node id="续借流程信息图">
-  <data key="d0">续借流程信息图</data>
-  <data key="d1">artifact</data>
-  <data key="d2">续借流程信息图以三步示意图呈现到期前查看到期日、在借阅页面找到图书、点击续借并确认新到期日的操作。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563809</data>
-  <data key="d6"></data>
-</node>
-<node id="读者">
-  <data key="d0">读者</data>
+<node id="Student">
+  <data key="d0">Student</data>
   <data key="d1">person</data>
-  <data key="d2">读者在图书到期前通过借阅页面找到图书并办理续借。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d2">A student is the borrower subject to the borrowing rules described in the Library Borrowing Guide.</data>
+  <data key="d3">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563809</data>
+  <data key="d5">1794810553</data>
   <data key="d6"></data>
 </node>
-<node id="按原到期日归还规则">
-  <data key="d0">按原到期日归还规则</data>
+<node id="Maximum Books At A Time">
+  <data key="d0">Maximum Books At A Time</data>
   <data key="d1">concept</data>
-  <data key="d2">有人预约图书时，读者应按原到期日归还图书。</data>
-  <data key="d3">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d2">Maximum books at a time is the borrowing quantity limit specified for students.</data>
+  <data key="d3">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794563809</data>
+  <data key="d5">1794810553</data>
   <data key="d6"></data>
 </node>
-<edge source="续借" target="预约">
+<node id="3 Books">
+  <data key="d0">3 Books</data>
+  <data key="d1">data</data>
+  <data key="d2">Three books is the maximum number of books a student may borrow at a time.</data>
+  <data key="d3">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810553</data>
+  <data key="d6"></data>
+</node>
+<node id="14 Days">
+  <data key="d0">14 Days</data>
+  <data key="d1">data</data>
+  <data key="d2">Fourteen days is the standard loan period for student borrowing.</data>
+  <data key="d3">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810553</data>
+  <data key="d6"></data>
+</node>
+<node id="7 Extra Days">
+  <data key="d0">7 Extra Days</data>
+  <data key="d1">data</data>
+  <data key="d2">Seven extra days is the extension available through an eligible one-time renewal.</data>
+  <data key="d3">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810554</data>
+  <data key="d6"></data>
+</node>
+<node id="Book Reservation">
+  <data key="d0">Book Reservation</data>
+  <data key="d1">concept</data>
+  <data key="d2">A reservation by another person prevents a student from renewing the reserved book under the stated instructions.</data>
+  <data key="d3">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810554</data>
+  <data key="d6"></data>
+</node>
+<node id="Figure 1">
+  <data key="d0">Figure 1</data>
+  <data key="d1">content</data>
+  <data key="d2">Figure 1 is a diagram illustrating the ordered steps for renewing a library book.</data>
+  <data key="d3">chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1794810555</data>
+  <data key="d6"></data>
+</node>
+<edge source="Library Borrowing Guide" target="Borrowing and Returning Books">
   <data key="d7">1.0</data>
-  <data key="d8">图书无人预约时可以续借；有人预约时则需按原到期日归还。</data>
-  <data key="d9">续借条件,预约状态</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
+  <data key="d8">The Library Borrowing Guide provides instructions for borrowing and returning books.</data>
+  <data key="d9">instructions,library procedures</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563757</data>
+  <data key="d12">1794810507</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借" target="7天">
+<edge source="Library Borrowing Guide" target="Loan Limit">
   <data key="d7">1.0</data>
-  <data key="d8">符合条件的续借可将借阅期限延长7天。</data>
-  <data key="d9">期限延长</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
+  <data key="d8">The guide's table lists the borrowing limit.</data>
+  <data key="d9">borrowing information</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563758</data>
+  <data key="d12">1794810508</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借" target="新到期日">
-  <data key="d7">1.0</data>
-  <data key="d8">续借成功后，图书的到期日更新为新的到期日。</data>
-  <data key="d9">期限更新,续借结果</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563759</data>
-  <data key="d13"></data>
-</edge>
-<edge source="续借" target="图书">
+<edge source="Library Borrowing Guide" target="Standard Loan Period">
   <data key="d7">2.0</data>
-  <data key="d8">图书尚未读完时，可以在到期前申请续借。&lt;SEP&gt;图书在没有人预约时可以申请续借一次。</data>
-  <data key="d9">借阅延期,借阅管理,期限延长,续借申请</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008&lt;SEP&gt;chunk-951e510f42b703ea5ab244c339c57fd8</data>
+  <data key="d8">The guide's table lists the standard loan period.&lt;SEP&gt;The Library Borrowing Guide states the standard loan period for student borrowing.</data>
+  <data key="d9">borrowing rules,loan duration,loan information</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563760</data>
+  <data key="d12">1794810557</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借" target="借阅页面">
+<edge source="Library Borrowing Guide" target="Renewal Steps">
   <data key="d7">1.0</data>
-  <data key="d8">用户可在借阅页面找到图书并点击续借。</data>
-  <data key="d9">操作入口,续借申请</data>
-  <data key="d10">chunk-951e510f42b703ea5ab244c339c57fd8</data>
+  <data key="d8">The guide identifies the renewal steps as Figure 1.</data>
+  <data key="d9">illustration,instructions</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563761</data>
+  <data key="d12">1794810511</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借" target="到期日">
-  <data key="d7">1.0</data>
-  <data key="d8">续借申请需要在图书到期前提交。</data>
-  <data key="d9">借阅延期,申请期限</data>
-  <data key="d10">chunk-951e510f42b703ea5ab244c339c57fd8</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563764</data>
-  <data key="d13"></data>
-</edge>
-<edge source="借阅页面" target="图书">
+<edge source="Library Borrowing Guide" target="My Loans">
   <data key="d7">2.0</data>
-  <data key="d8">借阅页面可用于找到要续借的图书。&lt;SEP&gt;续借者在借阅页面找到需要续借的图书。</data>
-  <data key="d9">借阅信息,借阅管理,图书查询,查找</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008&lt;SEP&gt;chunk-951e510f42b703ea5ab244c339c57fd8</data>
+  <data key="d8">The guide states that My Loans shows the new due date after renewal.&lt;SEP&gt;The Library Borrowing Guide instructs students to check each book's due date in My Loans.</data>
+  <data key="d9">due date display,due-date instructions,loan tracking,renewal confirmation</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563757</data>
+  <data key="d12">1794810560</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="新到期日">
-  <data key="d7">1.0</data>
-  <data key="d8">续借成功后，借阅页面会显示新的到期日。</data>
-  <data key="d9">续借结果,页面显示</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563760</data>
-  <data key="d13"></data>
-</edge>
-<edge source="借阅页面" target="借阅成功">
-  <data key="d7">1.0</data>
-  <data key="d8">借阅成功后，借阅页面会显示每本书的到期日。</data>
-  <data key="d9">借阅信息,页面显示</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563763</data>
-  <data key="d13"></data>
-</edge>
-<edge source="借阅页面" target="到期日">
+<edge source="Library Borrowing Guide" target="Renewal">
   <data key="d7">2.0</data>
-  <data key="d8">借阅页面显示每本已借图书的到期日。&lt;SEP&gt;借阅页面显示图书到期日，续借后显示新的到期日。</data>
-  <data key="d9">借阅信息,日期显示,显示</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08&lt;SEP&gt;chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d8">The Library Borrowing Guide explains how to request a renewal and the conditions for receiving one.&lt;SEP&gt;The guide explains that an eligible book may be renewed once for seven extra days before its due date, provided nobody else has reserved it.</data>
+  <data key="d9">conditional extension,renewal instructions</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563817</data>
+  <data key="d12">1794810561</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="续借成功">
+<edge source="Library Borrowing Guide" target="Title">
   <data key="d7">1.0</data>
-  <data key="d8">续借成功后，借阅页面会显示新的到期日。</data>
-  <data key="d9">续借状态,页面显示</data>
-  <data key="d10">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
+  <data key="d8">The guide instructs borrowers to check each title separately.</data>
+  <data key="d9">title checking</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563768</data>
+  <data key="d12">1794810516</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="新的到期日">
+<edge source="Library Borrowing Guide" target="Book">
+  <data key="d7">3.0</data>
+  <data key="d8">The Library Borrowing Guide instructs borrowers to return each book on or before its due date.&lt;SEP&gt;The guide provides instructions for renewing and returning the book.&lt;SEP&gt;The guide instructs students to return each book by its own due date.</data>
+  <data key="d9">borrowing instructions,due dates,return instructions,returns</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810565</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Borrowing Guide" target="Maximum Books At A Time">
   <data key="d7">1.0</data>
-  <data key="d8">借阅页面显示续借后的新的到期日。</data>
-  <data key="d9">借阅信息,日期显示</data>
-  <data key="d10">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
+  <data key="d8">The Library Borrowing Guide specifies the maximum number of books a student may borrow at a time.</data>
+  <data key="d9">borrowing rules,quantity limit</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563769</data>
+  <data key="d12">1794810556</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="归还前确认日期">
+<edge source="Library Borrowing Guide" target="Account Eligibility">
   <data key="d7">1.0</data>
-  <data key="d8">归还前需要再次确认借阅页面上的日期。</data>
-  <data key="d9">归还准备,日期核对</data>
-  <data key="d10">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
+  <data key="d8">The guide instructs students to check account eligibility before borrowing.</data>
+  <data key="d9">borrowing,eligibility instructions</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563770</data>
+  <data key="d12">1794810559</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="学生图书借阅数量与期限规则表 (table)">
+<edge source="Library Borrowing Guide" target="Student Book Borrowing Limits and Standard Loan Period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity 借阅页面 belongs to 学生图书借阅数量与期限规则表 (table)</data>
+  <data key="d8">Entity Library Borrowing Guide belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563826</data>
+  <data key="d12">1794810563</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="图书续借">
+<edge source="Borrowing and Returning Books" target="Account Eligibility">
   <data key="d7">1.0</data>
-  <data key="d8">图书续借通过借阅页面办理，读者在该页面找到图书并点击“续借”。</data>
-  <data key="d9">图书管理,操作入口</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">Account eligibility should be checked before borrowing books.</data>
+  <data key="d9">borrowing,eligibility check</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563828</data>
+  <data key="d12">1794810508</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="续借流程信息图">
+<edge source="Account Eligibility" target="Account">
   <data key="d7">1.0</data>
-  <data key="d8">续借流程信息图展示了在借阅页面找到待续借图书的步骤。</data>
-  <data key="d9">操作步骤,页面查找</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">The account should be checked for eligibility before borrowing.</data>
+  <data key="d9">borrowing,eligibility check</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563829</data>
+  <data key="d12">1794810509</data>
   <data key="d13"></data>
 </edge>
-<edge source="借阅页面" target="图书到期前续借三步流程 (image)">
+<edge source="Account Eligibility" target="Student">
+  <data key="d7">1.0</data>
+  <data key="d8">A student must check that the account is eligible before borrowing.</data>
+  <data key="d9">account check,borrowing eligibility</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810560</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Account Eligibility" target="Student Book Borrowing Limits and Standard Loan Period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity 借阅页面 belongs to 图书到期前续借三步流程 (image)</data>
+  <data key="d8">Entity Account Eligibility belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563835</data>
+  <data key="d12">1794810574</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书" target="原到期日">
+<edge source="Loan Limit" target="Table">
   <data key="d7">1.0</data>
-  <data key="d8">有人预约图书时，需在原到期日归还。</data>
-  <data key="d9">归还期限</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
+  <data key="d8">The table lists the limit for borrowing.</data>
+  <data key="d9">borrowing limit,listed information</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563761</data>
+  <data key="d12">1794810509</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书" target="图书借阅指南">
+<edge source="Standard Loan Period" target="Table">
   <data key="d7">1.0</data>
-  <data key="d8">图书借阅指南说明如何查看和管理借阅的图书。</data>
-  <data key="d9">借阅说明,图书管理</data>
-  <data key="d10">chunk-951e510f42b703ea5ab244c339c57fd8</data>
+  <data key="d8">The table lists the standard loan period.</data>
+  <data key="d9">listed information,loan duration</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563762</data>
+  <data key="d12">1794810508</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书" target="到期日">
+<edge source="Standard Loan Period" target="14 Days">
   <data key="d7">1.0</data>
-  <data key="d8">借阅的图书具有到期日。</data>
-  <data key="d9">借阅期限,到期信息</data>
-  <data key="d10">chunk-951e510f42b703ea5ab244c339c57fd8</data>
+  <data key="d8">The standard loan period is 14 days.</data>
+  <data key="d9">loan duration,time limit</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563763</data>
+  <data key="d12">1794810556</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书" target="书名">
+<edge source="Standard Loan Period" target="Renewal">
   <data key="d7">1.0</data>
-  <data key="d8">借阅多本图书时，可以按书名分别查看。</data>
-  <data key="d9">分类查看,图书识别</data>
-  <data key="d10">chunk-951e510f42b703ea5ab244c339c57fd8</data>
+  <data key="d8">A successful renewal can extend the 14-day standard loan period by seven extra days.</data>
+  <data key="d9">extension,loan duration</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563764</data>
+  <data key="d12">1794810560</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书" target="图书归还">
-  <data key="d7">1.0</data>
-  <data key="d8">图书应在到期日当天或之前归还。</data>
-  <data key="d9">借阅管理,归还要求</data>
-  <data key="d10">chunk-951e510f42b703ea5ab244c339c57fd8</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563766</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书" target="学生借书和还书">
-  <data key="d7">1.0</data>
-  <data key="d8">学生借书和还书流程涉及图书的借阅与归还。</data>
-  <data key="d9">借阅对象,归还对象</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563767</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书" target="学生">
-  <data key="d7">1.0</data>
-  <data key="d8">学生可按学生借阅规则借阅图书。</data>
-  <data key="d9">借阅,读者行为</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563811</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书" target="学生图书借阅数量与期限规则表 (table)">
+<edge source="Standard Loan Period" target="Student Book Borrowing Limits and Standard Loan Period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity 图书 belongs to 学生图书借阅数量与期限规则表 (table)</data>
+  <data key="d8">Entity Standard Loan Period belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563828</data>
+  <data key="d12">1794810565</data>
   <data key="d13"></data>
 </edge>
-<edge source="原到期日" target="续借申请时机">
+<edge source="My Loans" target="Due Date">
+  <data key="d7">3.0</data>
+  <data key="d8">My Loans shows the due date for each book.&lt;SEP&gt;My Loans provides the due date for each borrowed book title.&lt;SEP&gt;After renewal, My Loans displays the new due date for the book.</data>
+  <data key="d9">display,due-date information,loan tracking,updated date</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810557</data>
+  <data key="d13"></data>
+</edge>
+<edge source="My Loans" target="New Due Date">
+  <data key="d7">2.0</data>
+  <data key="d8">My Loans shows the new due date after renewal.&lt;SEP&gt;After renewal, My Loans displays the book's new due date for the borrower to check.</data>
+  <data key="d9">display,loan information,renewal result</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810573</data>
+  <data key="d13"></data>
+</edge>
+<edge source="My Loans" target="Renewal">
   <data key="d7">1.0</data>
-  <data key="d8">续借需在原到期日前申请。</data>
-  <data key="d9">借阅期限,申请时限</data>
-  <data key="d10">chunk-8b3b4a368a464a5c56faf12fd0fc8008</data>
+  <data key="d8">Borrowers can open My Loans, find a book, and click “Renew” to request a renewal.</data>
+  <data key="d9">renewal access</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563762</data>
+  <data key="d12">1794810516</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书借阅指南" target="续借步骤">
+<edge source="My Loans" target="Book">
+  <data key="d7">2.0</data>
+  <data key="d8">A borrower can find a book in My Loans.&lt;SEP&gt;The borrower finds the book in My Loans.</data>
+  <data key="d9">account access,book lookup,loan management</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810574</data>
+  <data key="d13"></data>
+</edge>
+<edge source="My Loans" target="Student">
   <data key="d7">1.0</data>
-  <data key="d8">图书借阅指南提供续借步骤及结果确认说明。</data>
-  <data key="d9">指南内容,操作说明</data>
-  <data key="d10">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
+  <data key="d8">A student uses My Loans to check the due date for each book title.</data>
+  <data key="d9">account use,due-date tracking</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563767</data>
+  <data key="d12">1794810556</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书借阅指南" target="图书续借">
-  <data key="d7">1.0</data>
-  <data key="d8">图书借阅指南说明了图书续借的操作步骤及续借条件。</data>
-  <data key="d9">借阅管理,操作说明</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563823</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书借阅指南" target="续借流程信息图">
-  <data key="d7">1.0</data>
-  <data key="d8">续借流程信息图呈现了图书借阅指南中所述的续借操作步骤。</data>
-  <data key="d9">图文对应,流程示意</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563825</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书借阅指南" target="图书到期前续借三步流程 (image)">
+<edge source="My Loans" target="Student Book Borrowing Limits and Standard Loan Period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity 图书借阅指南 belongs to 图书到期前续借三步流程 (image)</data>
+  <data key="d8">Entity My Loans belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563830</data>
+  <data key="d12">1794810569</data>
   <data key="d13"></data>
 </edge>
-<edge source="到期日" target="书名">
+<edge source="My Loans" target="Renewal Steps">
   <data key="d7">1.0</data>
-  <data key="d8">借阅者可以按书名分别查看多本图书的到期日。</data>
-  <data key="d9">分别查看,查询方式</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
+  <data key="d8">The renewal steps direct the borrower to find the book in My Loans.</data>
+  <data key="d9">navigation,procedure</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563767</data>
+  <data key="d12">1794810570</data>
   <data key="d13"></data>
 </edge>
-<edge source="到期日" target="原始借阅期限14天">
-  <data key="d7">1.0</data>
-  <data key="d8">原始借阅期限14天决定续借前的到期归还节点。</data>
-  <data key="d9">归还期限,期限节点</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563814</data>
-  <data key="d13"></data>
-</edge>
-<edge source="到期日" target="学生">
-  <data key="d7">1.0</data>
-  <data key="d8">学生应在图书到期日当天或之前归还图书。</data>
-  <data key="d9">借阅责任,按期归还</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563816</data>
-  <data key="d13"></data>
-</edge>
-<edge source="到期日" target="按书名查看到期日">
-  <data key="d7">1.0</data>
-  <data key="d8">按书名查看到期日用于确认每本图书各自的归还日期。</data>
-  <data key="d9">到期信息,逐本查询</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563818</data>
-  <data key="d13"></data>
-</edge>
-<edge source="到期日" target="图书预约">
-  <data key="d7">1.0</data>
-  <data key="d8">若图书有人预约，学生不能续借，须按原到期日归还。</data>
-  <data key="d9">按期归还,续借限制</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563825</data>
-  <data key="d13"></data>
-</edge>
-<edge source="到期日" target="学生图书借阅数量与期限规则表 (table)">
+<edge source="My Loans" target="Three-Step Library Book Renewal Process (image)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity 到期日 belongs to 学生图书借阅数量与期限规则表 (table)</data>
+  <data key="d8">Entity My Loans belongs to Three-Step Library Book Renewal Process (image)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563829</data>
+  <data key="d12">1794810578</data>
   <data key="d13"></data>
 </edge>
-<edge source="到期日" target="图书续借">
+<edge source="Due Date" target="Book">
+  <data key="d7">3.0</data>
+  <data key="d8">A borrowed book should be returned on or before its due date.&lt;SEP&gt;Each book should be returned on or before its due date.&lt;SEP&gt;Each borrowed book has its own due date.</data>
+  <data key="d9">loan,return deadline</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810558</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Due Date" target="Renewal">
   <data key="d7">1.0</data>
-  <data key="d8">续借成功后，借阅页面显示图书新的到期日。</data>
-  <data key="d9">期限变更,续借确认</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">A renewal should be requested before the book's due date.</data>
+  <data key="d9">renewal deadline</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563832</data>
+  <data key="d12">1794810514</data>
   <data key="d13"></data>
 </edge>
-<edge source="到期日" target="续借流程信息图">
+<edge source="Due Date" target="Book Reservation">
   <data key="d7">1.0</data>
-  <data key="d8">续借流程信息图展示了到期前查看到期日以及续借后确认新到期日的步骤。</data>
-  <data key="d9">查看期限,确认结果</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">If a book is reserved, the student must return it by the original due date.</data>
+  <data key="d9">renewal restriction,return deadline</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563834</data>
+  <data key="d12">1794810561</data>
   <data key="d13"></data>
 </edge>
-<edge source="到期日" target="图书到期前续借三步流程 (image)">
+<edge source="Due Date" target="Student Book Borrowing Limits and Standard Loan Period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity 到期日 belongs to 图书到期前续借三步流程 (image)</data>
+  <data key="d8">Entity Due Date belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563841</data>
+  <data key="d12">1794810568</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书借阅规则" target="学生借书和还书">
+<edge source="Due Date" target="Renewal Steps">
   <data key="d7">1.0</data>
-  <data key="d8">图书借阅规则涵盖学生借书和还书的流程。</data>
-  <data key="d9">借阅流程,规则</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
+  <data key="d8">The renewal steps instruct the borrower to check the due date before it arrives and check the new due date after renewal.</data>
+  <data key="d9">checking,timing</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563762</data>
+  <data key="d12">1794810569</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书借阅规则" target="可借数量和借阅期限">
-  <data key="d7">1.0</data>
-  <data key="d8">图书借阅规则指出可借数量和借阅期限见表格。</data>
-  <data key="d9">借阅期限,借阅限制</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563764</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书借阅规则" target="可借数量">
-  <data key="d7">1.0</data>
-  <data key="d8">图书借阅规则指出每次可借阅的数量见表格。</data>
-  <data key="d9">借阅限制,数量规定</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563765</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书借阅规则" target="借阅期限">
-  <data key="d7">1.0</data>
-  <data key="d8">图书借阅规则指出借阅期限见表格。</data>
-  <data key="d9">借阅规定,期限规定</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563766</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生借书和还书" target="借阅账户">
-  <data key="d7">1.0</data>
-  <data key="d8">学生借书前需确认借阅账户可以借阅。</data>
-  <data key="d9">借阅条件,账户资格</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563764</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生借书和还书" target="学生">
-  <data key="d7">1.0</data>
-  <data key="d8">学生是借书和还书流程的参与主体。</data>
-  <data key="d9">借阅流程,参与主体</data>
-  <data key="d10">chunk-b2e2b287c866ec278f10c12fc3923d08</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563765</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生" target="学生借阅规则">
-  <data key="d7">1.0</data>
-  <data key="d8">学生借阅规则适用于学生。</data>
-  <data key="d9">借阅管理,适用对象</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563810</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生" target="借阅账户状态">
-  <data key="d7">1.0</data>
-  <data key="d8">学生借阅前应确认账户处于可以借阅的状态。</data>
-  <data key="d9">借阅前提,账户确认</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563812</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生" target="续借规则">
-  <data key="d7">1.0</data>
-  <data key="d8">学生可在图书到期前按续借规则申请续借。</data>
-  <data key="d9">借阅管理,续借申请</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563813</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生" target="图书借阅表格">
-  <data key="d7">1.0</data>
-  <data key="d8">图书借阅表格呈现学生借书时适用的数量和期限规则。</data>
-  <data key="d9">借阅信息,规则适用</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563814</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生" target="按书名查看到期日">
-  <data key="d7">1.0</data>
-  <data key="d8">学生可按书名分别查看每本图书的到期日。</data>
-  <data key="d9">借阅管理,查询操作</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563815</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生" target="学生图书借阅数量与期限规则表 (table)">
+<edge source="Due Date" target="Three-Step Library Book Renewal Process (image)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity 学生 belongs to 学生图书借阅数量与期限规则表 (table)</data>
+  <data key="d8">Entity Due Date belongs to Three-Step Library Book Renewal Process (image)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563820</data>
+  <data key="d12">1794810576</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借步骤" target="续借成功">
+<edge source="Book" target="Book Title">
   <data key="d7">1.0</data>
-  <data key="d8">续借步骤说明续借成功后的结果确认。</data>
-  <data key="d9">操作流程,续借结果</data>
-  <data key="d10">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
+  <data key="d8">When several books are borrowed, each title should be checked separately.</data>
+  <data key="d9">borrowing,identification</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563766</data>
+  <data key="d12">1794810509</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借成功" target="确认结果">
+<edge source="Book" target="Renewal">
+  <data key="d7">4.0</data>
+  <data key="d8">A book can be renewed once for seven extra days if nobody else has reserved it.&lt;SEP&gt;The book can be renewed if nobody else has reserved it.&lt;SEP&gt;The book can be renewed once if nobody else has reserved it.&lt;SEP&gt;A borrowed book may be renewed once for seven extra days if the stated conditions are met.</data>
+  <data key="d9">borrowing,eligibility,loan extension,renewal eligibility</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-cf352990e5eade4fe4af96431997ef38&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810562</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Book" target="Original Due Date">
+  <data key="d7">2.0</data>
+  <data key="d8">A reserved book must be returned by its original due date.&lt;SEP&gt;The book should be returned by its original due date if another person has reserved it, and renewal should be requested before that date.</data>
+  <data key="d9">renewal timing,return deadline</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810581</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Book" target="Due Date Check">
   <data key="d7">1.0</data>
-  <data key="d8">确认结果部分说明续借成功后应查看借阅页面上的新到期日。</data>
-  <data key="d9">结果核对,续借确认</data>
-  <data key="d10">chunk-4cd91488171d5211f450daaa06e8e4a5</data>
+  <data key="d8">The guide instructs borrowers to check the date again before returning the book.</data>
+  <data key="d9">date verification,return preparation</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563767</data>
+  <data key="d12">1794810519</data>
   <data key="d13"></data>
 </edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="学生借阅规则">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 学生借阅规则 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563815</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="图书借阅表格">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 图书借阅表格 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563816</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="每次最多借3本">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 每次最多借3本 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563817</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="原始借阅期限14天">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 原始借阅期限14天 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563818</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="续借规则">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 续借规则 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563819</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="续借期限7天">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 续借期限7天 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563821</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="单次借阅期限上限21天">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 单次借阅期限上限21天 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563822</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="图书预约">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 图书预约 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563823</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="借阅账户状态">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 借阅账户状态 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563825</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生图书借阅数量与期限规则表 (table)" target="按书名查看到期日">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 按书名查看到期日 belongs to 学生图书借阅数量与期限规则表 (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563827</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="图书续借">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 图书续借 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563834</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="待续借图书">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 待续借图书 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563836</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="预约状态">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 预约状态 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563837</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="一次续借限制">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 一次续借限制 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563839</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="七天延期">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 七天延期 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563840</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="续借流程信息图">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 续借流程信息图 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563842</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="读者">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 读者 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563843</data>
-  <data key="d13"></data>
-</edge>
-<edge source="图书到期前续借三步流程 (image)" target="按原到期日归还规则">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 按原到期日归还规则 belongs to 图书到期前续借三步流程 (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563844</data>
-  <data key="d13"></data>
-</edge>
-<edge source="学生借阅规则" target="每次最多借3本">
+<edge source="Book" target="Title">
   <data key="d7">1.0</data>
-  <data key="d8">学生借阅规则规定每次最多可借3本。</data>
-  <data key="d9">借阅规则,数量限制</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d8">Each book has a title that the guide says to check separately.</data>
+  <data key="d9">identification</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563811</data>
+  <data key="d12">1794810521</data>
   <data key="d13"></data>
 </edge>
-<edge source="学生借阅规则" target="原始借阅期限14天">
+<edge source="Book" target="Student">
   <data key="d7">1.0</data>
-  <data key="d8">学生借阅规则将原始借阅期限规定为14天。</data>
-  <data key="d9">借阅规则,期限规定</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d8">A student must return each borrowed book by its own due date.</data>
+  <data key="d9">due date,return obligation</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563812</data>
+  <data key="d12">1794810561</data>
   <data key="d13"></data>
 </edge>
-<edge source="学生借阅规则" target="图书借阅表格">
-  <data key="d7">1.0</data>
-  <data key="d8">图书借阅表格列出学生借阅规则中的数量上限和借阅期限。</data>
-  <data key="d9">信息呈现,规则摘要</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+<edge source="Book" target="Student Book Borrowing Limits and Standard Loan Period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Book belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563813</data>
+  <data key="d12">1794810572</data>
   <data key="d13"></data>
 </edge>
-<edge source="原始借阅期限14天" target="单次借阅期限上限21天">
+<edge source="Book" target="Reservation">
   <data key="d7">1.0</data>
-  <data key="d8">单次借阅期限上限21天由原始14天期限加上符合条件时的7天续借期限构成。</data>
-  <data key="d9">借阅时长,期限计算</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+  <data key="d8">If the book is reserved, it should be returned by the original due date.</data>
+  <data key="d9">original deadline,return requirement</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563813</data>
+  <data key="d12">1794810578</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借规则" target="图书预约">
-  <data key="d7">1.0</data>
-  <data key="d8">续借规则规定无人预约时才可续借；有人预约时不能续借。</data>
-  <data key="d9">续借条件,预约限制</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+<edge source="Book" target="Three-Step Library Book Renewal Process (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Book belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563811</data>
+  <data key="d12">1794810582</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借规则" target="续借期限7天">
-  <data key="d7">1.0</data>
-  <data key="d8">符合续借规则时，借阅期限延长7天。</data>
-  <data key="d9">期限延长,续借条件</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+<edge source="Renewal" target="Seven Extra Days">
+  <data key="d7">3.0</data>
+  <data key="d8">Renewal extends the borrowing period by seven extra days.&lt;SEP&gt;An eligible book can be renewed once for seven extra days.&lt;SEP&gt;An eligible renewal gives the book seven extra days.</data>
+  <data key="d9">borrowing extension,duration,extension,extension duration</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563812</data>
+  <data key="d12">1794810573</data>
   <data key="d13"></data>
 </edge>
-<edge source="续借期限7天" target="单次借阅期限上限21天">
-  <data key="d7">1.0</data>
-  <data key="d8">续借期限7天与原始借阅期限合计可使单次借阅时长达到21天。</data>
-  <data key="d9">借阅时长,期限计算</data>
-  <data key="d10">chunk-343d7fa6d9bf6c548bdd0b502c7c11af</data>
+<edge source="Renewal" target="Reservation">
+  <data key="d7">3.0</data>
+  <data key="d8">A book cannot receive the described renewal if someone else has reserved it.&lt;SEP&gt;If the book is reserved, it cannot be renewed under the described instructions.&lt;SEP&gt;Renewal is available only if nobody else has reserved the book.</data>
+  <data key="d9">condition,eligibility,renewal restriction,reservation status</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563814</data>
+  <data key="d12">1794810572</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书续借" target="待续借图书">
+<edge source="Renewal" target="Student">
   <data key="d7">1.0</data>
-  <data key="d8">图书续借针对读者在借阅页面找到的待续借图书。</data>
-  <data key="d9">图书管理,续借对象</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">A student may renew a book once before its due date if nobody else has reserved it.</data>
+  <data key="d9">borrowing,loan extension</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563826</data>
+  <data key="d12">1794810557</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书续借" target="预约状态">
+<edge source="Renewal" target="7 Extra Days">
   <data key="d7">1.0</data>
-  <data key="d8">图书能否续借取决于是否有人预约；有人预约时应按原到期日归还。</data>
-  <data key="d9">续借条件,预约规则</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">A successful renewal extends the loan by seven extra days.</data>
+  <data key="d9">duration,loan extension</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563827</data>
+  <data key="d12">1794810558</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书续借" target="一次续借限制">
+<edge source="Renewal" target="Book Reservation">
   <data key="d7">1.0</data>
-  <data key="d8">无人预约时，图书可以续借一次。</data>
-  <data key="d9">续借次数,限制条件</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">A book cannot be renewed under the stated instructions if somebody else has reserved it.</data>
+  <data key="d9">renewal condition,reservation status</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563829</data>
+  <data key="d12">1794810559</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书续借" target="七天延期">
-  <data key="d7">1.0</data>
-  <data key="d8">无人预约时续借成功，图书到期日延长七天。</data>
-  <data key="d9">到期日延长,续借期限</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+<edge source="Renewal" target="Student Book Borrowing Limits and Standard Loan Period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Renewal belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563830</data>
+  <data key="d12">1794810570</data>
   <data key="d13"></data>
 </edge>
-<edge source="图书续借" target="读者">
+<edge source="Renewal" target="Renewal Steps">
   <data key="d7">1.0</data>
-  <data key="d8">读者按照图书借阅指南中的步骤办理图书续借。</data>
-  <data key="d9">借阅管理,操作主体</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+  <data key="d8">The renewal steps include renewing the book after finding it in My Loans.</data>
+  <data key="d9">action,procedure</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563831</data>
+  <data key="d12">1794810571</data>
   <data key="d13"></data>
 </edge>
-<edge source="待续借图书" target="按原到期日归还规则">
-  <data key="d7">1.0</data>
-  <data key="d8">有人预约待续借图书时，读者应按原到期日归还该图书。</data>
-  <data key="d9">图书借阅,归还期限</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+<edge source="Renewal" target="Three-Step Library Book Renewal Process (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Renewal belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563830</data>
+  <data key="d12">1794810575</data>
   <data key="d13"></data>
 </edge>
-<edge source="预约状态" target="按原到期日归还规则">
-  <data key="d7">1.0</data>
-  <data key="d8">有人预约图书时，适用按原到期日归还规则。</data>
-  <data key="d9">归还要求,预约条件</data>
-  <data key="d10">chunk-404daa6b949e1384db69a1327869caf0</data>
+<edge source="Seven Extra Days" target="Three-Step Library Book Renewal Process (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Seven Extra Days belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794563829</data>
+  <data key="d12">1794810579</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Reservation" target="Three-Step Library Book Renewal Process (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Reservation belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810577</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Original Due Date" target="Three-Step Library Book Renewal Process (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Original Due Date belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810580</data>
+  <data key="d13"></data>
+</edge>
+<edge source="New Due Date" target="Due Date Check">
+  <data key="d7">1.0</data>
+  <data key="d8">After renewal, borrowers are instructed to check the date again before returning the book.</data>
+  <data key="d9">borrowing,date verification</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810512</data>
+  <data key="d13"></data>
+</edge>
+<edge source="New Due Date" target="Three-Step Library Book Renewal Process (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity New Due Date belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810581</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Renewal Steps" target="Figure 1">
+  <data key="d7">1.0</data>
+  <data key="d8">Figure 1 presents the ordered steps for renewing a book.</data>
+  <data key="d9">illustration,procedure</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810568</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Renewal Steps" target="Three-Step Library Book Renewal Process (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Renewal Steps belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810574</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Maximum Books At A Time">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Maximum Books At A Time belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810561</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="3 Books">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity 3 Books belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810562</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="14 Days">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity 14 Days belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810565</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Student">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Student belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810567</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="7 Extra Days">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity 7 Extra Days belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810571</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Book Reservation">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Book Reservation belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810573</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Three-Step Library Book Renewal Process (image)" target="Figure 1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Figure 1 belongs to Three-Step Library Book Renewal Process (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-816ab159240b772497183b1cde78b387</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810573</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student" target="14 Days">
+  <data key="d7">1.0</data>
+  <data key="d8">The 14-day standard loan period applies to student borrowing.</data>
+  <data key="d9">borrowing duration,standard loan</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810560</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Maximum Books At A Time" target="3 Books">
+  <data key="d7">1.0</data>
+  <data key="d8">The maximum books-at-a-time rule is a limit of three books.</data>
+  <data key="d9">borrowing,quantity limit</data>
+  <data key="d10">chunk-cf352990e5eade4fe4af96431997ef38</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1794810557</data>
   <data key="d13"></data>
 </edge>
 </graph></graphml>

@@ -1,233 +1,221 @@
 {
-  "doc-aa78aa4bc3e5b28e98e8d9f587736a42": {
+  "doc-501ac0a4b56d2d98331eb3d9164f0dfd": {
     "relation_pairs": [
       [
-        "到期日",
-        "图书到期前续借三步流程 (image)"
+        "7 Extra Days",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "图书借阅表格",
-        "学生"
+        "Figure 1",
+        "Renewal Steps"
       ],
       [
-        "图书",
-        "学生"
+        "Account Eligibility",
+        "Student"
       ],
       [
-        "一次续借限制",
-        "图书到期前续借三步流程 (image)"
+        "Book Reservation",
+        "Due Date"
       ],
       [
-        "借阅页面",
-        "到期日"
+        "Account Eligibility",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "借阅页面",
-        "学生图书借阅数量与期限规则表 (table)"
+        "Student",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "借阅账户状态",
-        "学生图书借阅数量与期限规则表 (table)"
+        "My Loans",
+        "Renewal Steps"
       ],
       [
-        "单次借阅期限上限21天",
-        "学生图书借阅数量与期限规则表 (table)"
+        "Figure 1",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "学生借阅规则",
-        "学生图书借阅数量与期限规则表 (table)"
+        "New Due Date",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "图书到期前续借三步流程 (image)",
-        "预约状态"
+        "My Loans",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "原始借阅期限14天",
-        "学生图书借阅数量与期限规则表 (table)"
+        "Standard Loan Period",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "借阅页面",
-        "续借流程信息图"
+        "Book",
+        "Library Borrowing Guide"
       ],
       [
-        "到期日",
-        "原始借阅期限14天"
+        "Maximum Books At A Time",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "学生",
-        "学生图书借阅数量与期限规则表 (table)"
+        "Book Reservation",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "到期日",
-        "学生图书借阅数量与期限规则表 (table)"
+        "Renewal Steps",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "图书到期前续借三步流程 (image)",
-        "待续借图书"
+        "Book",
+        "Renewal"
       ],
       [
-        "待续借图书",
-        "按原到期日归还规则"
+        "Library Borrowing Guide",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "借阅页面",
-        "图书续借"
+        "Book",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "学生",
-        "续借规则"
+        "Library Borrowing Guide",
+        "Standard Loan Period"
       ],
       [
-        "图书到期前续借三步流程 (image)",
-        "读者"
+        "My Loans",
+        "New Due Date"
       ],
       [
-        "图书续借",
-        "预约状态"
+        "Library Borrowing Guide",
+        "My Loans"
       ],
       [
-        "原始借阅期限14天",
-        "学生借阅规则"
+        "Due Date",
+        "Renewal Steps"
       ],
       [
-        "借阅账户状态",
-        "学生"
+        "Renewal",
+        "Renewal Steps"
       ],
       [
-        "图书到期前续借三步流程 (image)",
-        "续借流程信息图"
+        "Due Date",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "到期日",
-        "续借流程信息图"
+        "Renewal",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "单次借阅期限上限21天",
-        "续借期限7天"
+        "My Loans",
+        "Student"
       ],
       [
-        "学生图书借阅数量与期限规则表 (table)",
-        "续借规则"
+        "Book",
+        "Reservation"
       ],
       [
-        "图书借阅指南",
-        "续借流程信息图"
+        "My Loans",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "学生",
-        "按书名查看到期日"
+        "Seven Extra Days",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "到期日",
-        "图书预约"
+        "14 Days",
+        "Student"
       ],
       [
-        "到期日",
-        "按书名查看到期日"
+        "Account Eligibility",
+        "Library Borrowing Guide"
       ],
       [
-        "图书预约",
-        "学生图书借阅数量与期限规则表 (table)"
+        "3 Books",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "学生图书借阅数量与期限规则表 (table)",
-        "按书名查看到期日"
+        "Book",
+        "Original Due Date"
       ],
       [
-        "学生",
-        "学生借阅规则"
+        "14 Days",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "图书借阅表格",
-        "学生借阅规则"
+        "Renewal",
+        "Reservation"
       ],
       [
-        "图书借阅表格",
-        "学生图书借阅数量与期限规则表 (table)"
+        "Book",
+        "Due Date"
       ],
       [
-        "图书到期前续借三步流程 (image)",
-        "图书续借"
+        "7 Extra Days",
+        "Renewal"
       ],
       [
-        "图书",
-        "学生图书借阅数量与期限规则表 (table)"
+        "Library Borrowing Guide",
+        "Maximum Books At A Time"
       ],
       [
-        "借阅页面",
-        "图书到期前续借三步流程 (image)"
+        "Reservation",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "七天延期",
-        "图书续借"
+        "Book",
+        "Student"
       ],
       [
-        "图书续借",
-        "待续借图书"
+        "14 Days",
+        "Standard Loan Period"
       ],
       [
-        "学生借阅规则",
-        "每次最多借3本"
+        "Book",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "图书到期前续借三步流程 (image)",
-        "按原到期日归还规则"
+        "Renewal",
+        "Student"
       ],
       [
-        "图书预约",
-        "续借规则"
+        "Renewal",
+        "Seven Extra Days"
       ],
       [
-        "图书借阅指南",
-        "图书续借"
+        "Original Due Date",
+        "Three-Step Library Book Renewal Process (image)"
       ],
       [
-        "续借期限7天",
-        "续借规则"
+        "Due Date",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "到期日",
-        "图书续借"
+        "Book Reservation",
+        "Renewal"
       ],
       [
-        "到期日",
-        "学生"
+        "Book",
+        "My Loans"
       ],
       [
-        "图书续借",
-        "读者"
+        "Renewal",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "学生图书借阅数量与期限规则表 (table)",
-        "续借期限7天"
+        "Library Borrowing Guide",
+        "Renewal"
       ],
       [
-        "按原到期日归还规则",
-        "预约状态"
+        "Due Date",
+        "My Loans"
       ],
       [
-        "一次续借限制",
-        "图书续借"
+        "3 Books",
+        "Maximum Books At A Time"
       ],
       [
-        "学生图书借阅数量与期限规则表 (table)",
-        "每次最多借3本"
-      ],
-      [
-        "七天延期",
-        "图书到期前续借三步流程 (image)"
-      ],
-      [
-        "单次借阅期限上限21天",
-        "原始借阅期限14天"
-      ],
-      [
-        "图书借阅指南",
-        "图书到期前续借三步流程 (image)"
+        "Renewal",
+        "Standard Loan Period"
       ]
     ],
-    "count": 56,
-    "update_time": 1794563845,
-    "_id": "doc-aa78aa4bc3e5b28e98e8d9f587736a42"
+    "count": 53,
+    "update_time": 1794810584,
+    "_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd"
   }
 }
