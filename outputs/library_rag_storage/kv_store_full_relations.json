@@ -2,132 +2,192 @@
   "doc-501ac0a4b56d2d98331eb3d9164f0dfd": {
     "relation_pairs": [
       [
-        "7 Extra Days",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
+        "Library Borrowing Guide",
+        "Maximum Books at a Time"
       ],
       [
-        "Figure 1",
-        "Renewal Steps"
-      ],
-      [
-        "Account Eligibility",
-        "Student"
-      ],
-      [
-        "Book Reservation",
-        "Due Date"
-      ],
-      [
-        "Account Eligibility",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Student",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "My Loans",
-        "Renewal Steps"
-      ],
-      [
-        "Figure 1",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "New Due Date",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "My Loans",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "Standard Loan Period",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Book",
-        "Library Borrowing Guide"
-      ],
-      [
-        "Maximum Books At A Time",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
+        "Renewal",
+        "Renewal Steps Flowchart"
       ],
       [
         "Book Reservation",
         "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "Renewal Steps",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "Book",
-        "Renewal"
-      ],
-      [
-        "Library Borrowing Guide",
+        "14 Days",
         "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "Book",
-        "Three-Step Library Book Renewal Process (image)"
+        "Student Account Eligibility",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
         "Library Borrowing Guide",
-        "Standard Loan Period"
-      ],
-      [
-        "My Loans",
-        "New Due Date"
-      ],
-      [
-        "Library Borrowing Guide",
-        "My Loans"
-      ],
-      [
-        "Due Date",
-        "Renewal Steps"
-      ],
-      [
-        "Renewal",
-        "Renewal Steps"
-      ],
-      [
-        "Due Date",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "Renewal",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "My Loans",
-        "Student"
+        "Renewal Rule"
       ],
       [
         "Book",
         "Reservation"
       ],
       [
-        "My Loans",
+        "Standard Loan Period",
         "Student Book Borrowing Limits and Standard Loan Period (table)"
       ],
       [
-        "Seven Extra Days",
-        "Three-Step Library Book Renewal Process (image)"
+        "Library Book Renewal Steps Flowchart (image)",
+        "Renew Command"
       ],
       [
-        "14 Days",
-        "Student"
+        "Library Book Renewal Steps Flowchart (image)",
+        "Original Due Date"
       ],
       [
-        "Account Eligibility",
-        "Library Borrowing Guide"
+        "Student",
+        "Student Account Eligibility"
+      ],
+      [
+        "Library Book Renewal Steps Flowchart (image)",
+        "Renewal Steps Flowchart"
+      ],
+      [
+        "Library Book Renewal Steps Flowchart (image)",
+        "New Due Date"
+      ],
+      [
+        "Before the Due Date",
+        "Renewal"
+      ],
+      [
+        "Book",
+        "My Loans"
+      ],
+      [
+        "Before the Due Date",
+        "Library Book Renewal Steps Flowchart (image)"
+      ],
+      [
+        "7 Extra Days",
+        "Renewal Rule"
       ],
       [
         "3 Books",
         "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Book",
+        "Due Date"
+      ],
+      [
+        "New Due Date",
+        "Renewal Steps Flowchart"
+      ],
+      [
+        "Due Date",
+        "My Loans"
+      ],
+      [
+        "Library Book Renewal Steps Flowchart (image)",
+        "Reservation"
+      ],
+      [
+        "Maximum Books at a Time",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Renewal Rule",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Book",
+        "Renewal"
+      ],
+      [
+        "Book Reservation",
+        "Renewal Rule"
+      ],
+      [
+        "My Loans",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Book",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Book",
+        "Library Book Renewal Steps Flowchart (image)"
+      ],
+      [
+        "Library Borrowing Guide",
+        "Standard Loan Period"
+      ],
+      [
+        "Library Borrowing Guide",
+        "Renewal"
+      ],
+      [
+        "Library Book Renewal Steps Flowchart (image)",
+        "My Loans"
+      ],
+      [
+        "3 Books",
+        "Maximum Books at a Time"
+      ],
+      [
+        "Library Borrowing Guide",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Renewal Rule",
+        "Student"
+      ],
+      [
+        "Before the Due Date",
+        "Renewal Steps Flowchart"
+      ],
+      [
+        "Due Date",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Book",
+        "Student"
+      ],
+      [
+        "Library Book Renewal Steps Flowchart (image)",
+        "Library Borrowing Guide"
+      ],
+      [
+        "3 Books",
+        "Book"
+      ],
+      [
+        "My Loans",
+        "Student"
+      ],
+      [
+        "Library Book Renewal Steps Flowchart (image)",
+        "Renewal"
+      ],
+      [
+        "Student",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "Book Reservation",
+        "Due Date"
+      ],
+      [
+        "My Loans",
+        "New Due Date"
+      ],
+      [
+        "7 Extra Days",
+        "Student Book Borrowing Limits and Standard Loan Period (table)"
+      ],
+      [
+        "My Loans",
+        "Renew Command"
       ],
       [
         "Book",
@@ -135,87 +195,15 @@
       ],
       [
         "14 Days",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Renewal",
-        "Reservation"
-      ],
-      [
-        "Book",
-        "Due Date"
-      ],
-      [
-        "7 Extra Days",
-        "Renewal"
-      ],
-      [
-        "Library Borrowing Guide",
-        "Maximum Books At A Time"
-      ],
-      [
-        "Reservation",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "Book",
-        "Student"
-      ],
-      [
-        "14 Days",
         "Standard Loan Period"
       ],
       [
-        "Book",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Renewal",
-        "Student"
-      ],
-      [
-        "Renewal",
-        "Seven Extra Days"
-      ],
-      [
-        "Original Due Date",
-        "Three-Step Library Book Renewal Process (image)"
-      ],
-      [
-        "Due Date",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Book Reservation",
-        "Renewal"
-      ],
-      [
-        "Book",
-        "My Loans"
-      ],
-      [
-        "Renewal",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Library Borrowing Guide",
-        "Renewal"
-      ],
-      [
-        "Due Date",
-        "My Loans"
-      ],
-      [
-        "3 Books",
-        "Maximum Books At A Time"
-      ],
-      [
-        "Renewal",
-        "Standard Loan Period"
+        "My Loans",
+        "Renewal Steps Flowchart"
       ]
     ],
-    "count": 53,
-    "update_time": 1794810584,
+    "count": 50,
+    "update_time": 1794996632,
     "_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd"
   }
 }

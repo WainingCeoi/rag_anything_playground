@@ -1,28 +1,29 @@
 {
   "doc-501ac0a4b56d2d98331eb3d9164f0dfd": {
     "entity_names": [
-      "Account Eligibility",
-      "Standard Loan Period",
-      "My Loans",
-      "Due Date",
-      "Book",
-      "New Due Date",
+      "Maximum Books at a Time",
       "Original Due Date",
-      "Seven Extra Days",
-      "Student",
-      "Library Borrowing Guide",
-      "7 Extra Days",
-      "Reservation",
       "Renewal",
-      "Renewal Steps",
-      "Figure 1",
+      "Student",
       "3 Books",
-      "Maximum Books At A Time",
+      "Due Date",
+      "Book Reservation",
+      "Renewal Steps Flowchart",
+      "Renewal Rule",
+      "Book",
       "14 Days",
-      "Book Reservation"
+      "My Loans",
+      "Student Account Eligibility",
+      "Standard Loan Period",
+      "Reservation",
+      "Before the Due Date",
+      "Renew Command",
+      "New Due Date",
+      "7 Extra Days",
+      "Library Borrowing Guide"
     ],
-    "count": 19,
-    "update_time": 1794810584,
+    "count": 20,
+    "update_time": 1794996632,
     "_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd"
   }
 }

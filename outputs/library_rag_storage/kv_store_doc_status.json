@@ -7,37 +7,20 @@
       "chunk-f74d3981177947bc583a0860d03ffe3f",
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
       "chunk-0bec09cbf50b78e30405fdc3229058fb",
-      "chunk-cf352990e5eade4fe4af96431997ef38",
-      "chunk-816ab159240b772497183b1cde78b387"
+      "chunk-604374813fb8c7f3a8154e53d151ad0b",
+      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
     ],
     "content_summary": "Library Borrowing Guide\n\nBorrowing and returning books\n\nBefore borrowing, check that your account is eligible.\n\nThe table lists the limit and standard loan period.\n\nCheck the due date\n\nAfter borrowing, My Loans shows the due date for each book.\n\nIf y...",
     "content_length": 801,
-    "created_at": "2026-11-16T06:28:00.885367+00:00",
-    "updated_at": "2026-11-18T06:16:14+00:00",
+    "created_at": "2026-11-18T10:08:24.163749+00:00",
+    "updated_at": "2026-11-18T10:10:32+00:00",
     "file_path": "library-guide.pdf",
-    "track_id": "insert_20261116_142800_30b71de9",
+    "track_id": "insert_20261118_180824_8c9ed3e5",
     "metadata": {
-      "processing_start_time": 1794810480,
-      "processing_end_time": 1794810522
+      "processing_start_time": 1794996504,
+      "processing_end_time": 1794996566
     },
     "error_msg": "",
     "multimodal_processed": true
-  },
-  "dup-d4f05cb5f057205b89bd87cd3ca5d919": {
-    "status": "failed",
-    "content_summary": "[DUPLICATE] Original document: doc-501ac0a4b56d2d98331eb3d9164f0dfd",
-    "content_length": 801,
-    "chunks_count": 0,
-    "chunks_list": [],
-    "created_at": "2026-11-18T06:16:14.293799+00:00",
-    "updated_at": "2026-11-18T06:16:14.293801+00:00",
-    "file_path": "library-guide.pdf",
-    "track_id": "insert_20261118_141614_f8d8eb3e",
-    "error_msg": "Content already exists. Original doc_id: doc-501ac0a4b56d2d98331eb3d9164f0dfd, Status: processed",
-    "metadata": {
-      "is_duplicate": true,
-      "original_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
-      "original_track_id": "insert_20261116_142800_30b71de9"
-    }
   }
 }
