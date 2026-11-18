@@ -12,3 +12,5 @@ wheels/
 # Notebook runtime files
 .env
 .ipynb_checkpoints/
+
+.DS_Store

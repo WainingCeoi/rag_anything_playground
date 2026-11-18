@@ -6,6 +6,8 @@ This is the core idea of RAG, or **retrieval-augmented generation**: **retrieve 
 
 The counts, chunk IDs, and retrieval results below refer to the English run saved in the Notebook and `outputs/library_rag_storage/`. Rebuilding the index can change model-generated descriptions, the graph, and retrieval results.
 
+Each notebook code cell now performs one operation or displays one result. **Run** cells save their return values silently; **Inspect** cells use one `print` or `display`, with a label naming the value and the function that produced it. For chunks, graph records, and source references, change the index to inspect one item at a time. Selection cells explain which dependent inspection cells to rerun.
+
 ## Start with the question
 
 > How many books can a student borrow at a time, for how long, and how can they renew them?
@@ -166,7 +168,29 @@ The graph preserves `source_id`, allowing extracted knowledge to be traced to su
 
 An **entity embedding** encodes the entity's meaning, usually its name and description. A **relationship embedding** encodes relationship keywords, the endpoint entities, and a description of the connection. These are text embeddings; a relationship vector is not calculated by subtracting the two entity vectors.
 
+### What if the rules are in different files?
+
+**Ingest both files into the same index.** Reusing the same `rag` instance does this; in this project, the files share a `working_dir` and LightRAG workspace. Each PDF is parsed and processed separately, and its extracted facts are merged into the shared graph.
+
+Suppose `file1.pdf` contains the borrowing rule and `file2.pdf` contains the renewal rule. A possible extraction is:
+
+```mermaid
+flowchart LR
+    BORROW["Borrowing Rule<br/>3 books; 14 days"] ---|"Evidence from file1.pdf"| BOOK["Book<br/>Shared entity name"]
+    BOOK ---|"Evidence from file2.pdf"| RENEW["Renewal Rule<br/>Once; 7 extra days;<br/>conditions apply"]
+```
+
+This is a teaching example, not an additional executed run. The model chooses the extracted entity names and relationship descriptions. When the second file also produces `Book`, Python finds the existing node by that name and merges its description and source information. New relationships attach to that node. Relationships with the same endpoint pair are merged as well.
+
+The Book node can have evidence from both files, while each edge retains links to its own supporting chunks through `source_id`. Sharing Book does not make file 1 evidence for the renewal rule. No direct file-to-file edge is required.
+
+The merge matches names after text cleanup; it does not guarantee that synonyms such as `Book` and `Volume` become one node. Identical names can also be ambiguous. Even without a shared node, `mix` can find relevant chunks from both files through vector search and supply them together to the answer model. The graph and retrieval are not guaranteed to capture every needed fact. Notebook section 6.8 walks through the two-file example.
+
 ## 4. Retrieval: find the evidence for a question
+
+**This is Step 7 in the Notebook: take a question and collect passages that could answer it.** Think of finding the relevant paragraphs during an open-book exam, before writing your response.
+
+For our question, collect the table about **3 books and 14 days**, plus the text about **renewal steps and conditions**. Those passages may come from one PDF or several PDFs in the same index. The output is supporting information and source labels. Notebook Step 8 shows how it becomes model input; Step 9 returns the written answer.
 
 The Notebook uses `mode="mix"` to retrieve from both text vectors and the knowledge graph. It sets `enable_rerank=False`, so there is no additional reranking stage.
 
@@ -285,7 +309,7 @@ flowchart TD
 
 The saved run contains 12 `extract`, 1 `keywords`, and 1 `query` records, including `mix:keywords:2545045a3a628a91045c61f7510377d8` and `mix:query:4f6e6bd69b9f6690531953c5de393b03`. These records show that results were written to the cache. A stored entry alone is not evidence that a later query hit it.
 
-Rerun section 9 in the same kernel to observe the `Query cache hit` log and the newly added entries in `calls`. An answer-cache hit produces no new answer-model callback record. Check whether an `embed` call was still added.
+Rerun **Run the answer query** in section 9, then **Inspect the answer-cache result** to see whether LightRAG reused the saved answer.
 
 Cache keys are derived from the question and parameters; the system does not use vector similarity to choose a previous answer. Paraphrasing a question does not guarantee a hit. One embedding request can also contain several inputs, such as the question and both keyword groups, so one API call does not necessarily mean one vector.
 
@@ -307,7 +331,7 @@ Two distinctions matter when rerunning:
 | 9: Generate an answer | The answer and, when generated, the actual system/user inputs; cache behavior |
 | 10: Finalize and reuse storage | Persistence and reuse when opening the same directory |
 
-The lesson includes a diagram at each major stage, focused observation goals, expandable self-check answers, and a diagnostic table for revisiting confusing concepts. Long implementation details and outputs are collapsed by default.
+The lesson includes a diagram at each major stage, focused observation goals, expandable self-check answers, and a diagnostic table for revisiting confusing concepts. Long callback definitions are collapsed; short inspection cells and their individual outputs are visible.
 
 The graph preview in section 6 uses `max_nodes=30`. It is a partial view, not a count of all nodes in the stored graph. Optional experiments are disabled by default. Enable them to compare `naive` with `mix`, or text-only answering with original-image enhancement.
 
