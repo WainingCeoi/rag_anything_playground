@@ -16,872 +16,971 @@
 <graph edgedefault="undirected"><node id="Library Borrowing Guide">
   <data key="d0">Library Borrowing Guide</data>
   <data key="d1">content</data>
-  <data key="d2">A guide titled “Library Borrowing Guide.”&lt;SEP&gt;The Library Borrowing Guide provides instructions about borrowing and returning books, account eligibility, loan limits, loan periods, and due dates.&lt;SEP&gt;The Library Borrowing Guide provides instructions for renewing and returning a borrowed book.&lt;SEP&gt;The Library Borrowing Guide provides instructions for checking titles, returning books, and renewing loans.&lt;SEP&gt;The Library Borrowing Guide provides instructions for renewing a borrowed book and handling a reservation.&lt;SEP&gt;The Library Borrowing Guide presents baseline borrowing rules and instructions for students.</data>
-  <data key="d3">chunk-0bec09cbf50b78e30405fdc3229058fb&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d2">Library Borrowing Guide is the title of the displayed content.&lt;SEP&gt;The Library Borrowing Guide provides instructions for borrowing and returning books.&lt;SEP&gt;The Library Borrowing Guide provides instructions for renewing and returning a book.&lt;SEP&gt;The Library Borrowing Guide provides instructions to check titles separately, return books by their due dates, and request renewals.&lt;SEP&gt;The Library Borrowing Guide explains how to renew a borrowed book, including renewal eligibility, the additional loan period, and the return deadline.&lt;SEP&gt;The Library Borrowing Guide presents student borrowing limits and instructions for checking eligibility, tracking due dates, renewing, and returning books.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-0bec09cbf50b78e30405fdc3229058fb&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
-  <data key="d6"></data>
-</node>
-<node id="Date">
-  <data key="d0">Date</data>
-  <data key="d1">concept</data>
-  <data key="d2">A date is mentioned as something to check again.</data>
-  <data key="d3">chunk-0bec09cbf50b78e30405fdc3229058fb</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996550</data>
-  <data key="d6"></data>
-</node>
-<node id="Page 2 of 2">
-  <data key="d0">Page 2 of 2</data>
-  <data key="d1">data</data>
-  <data key="d2">The text displays “2 / 2,” indicating the second page of two.</data>
-  <data key="d3">chunk-0bec09cbf50b78e30405fdc3229058fb</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996550</data>
+  <data key="d5">1795057524</data>
   <data key="d6"></data>
 </node>
 <node id="Book">
   <data key="d0">Book</data>
   <data key="d1">artifact</data>
-  <data key="d2">A book is an item that can be borrowed and should be returned on or before its due date.&lt;SEP&gt;The book is the borrowed item that may be renewed or returned.&lt;SEP&gt;A book is an item that can be borrowed, returned by its due date, and renewed if it is not reserved.&lt;SEP&gt;The Book is the borrowed item that may be renewed if nobody else has reserved it.&lt;SEP&gt;A book is an item students may borrow, renew, and return.</data>
-  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d2">A book can be borrowed and must be returned on or before its due date.&lt;SEP&gt;The book can be renewed if nobody else has reserved it or returned by its original due date if it is reserved.&lt;SEP&gt;A book is the library item that can be found in My Loans, returned by its due date, and renewed.&lt;SEP&gt;The book is the borrowed item that a borrower can locate and renew through My Loans.&lt;SEP&gt;A book is the item borrowed and renewed under the guide’s rules.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
-  <data key="d6"></data>
-</node>
-<node id="Due Date">
-  <data key="d0">Due Date</data>
-  <data key="d1">concept</data>
-  <data key="d2">A due date is the date by which each borrowed book should be returned.&lt;SEP&gt;The due date is the deadline by which a borrowed book should be returned and before which a renewal should be requested.&lt;SEP&gt;A due date is the date by which a borrowed book must be returned unless an eligible renewal applies.</data>
-  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
+  <data key="d5">1795057525</data>
   <data key="d6"></data>
 </node>
 <node id="Renewal">
   <data key="d0">Renewal</data>
-  <data key="d1">method</data>
-  <data key="d2">Renewal is the process described for extending a book's loan when nobody else has reserved it.&lt;SEP&gt;A renewal extends the borrowing period once by seven days when nobody else has reserved the book.&lt;SEP&gt;Renewal is the process of extending a book loan once for seven extra days when no other borrower has reserved the book.</data>
-  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d1">concept</data>
+  <data key="d2">Renewal is permitted once for an additional seven days when the book has not been reserved by someone else.&lt;SEP&gt;A renewal is a way to get more time with a book, requested before its due date and available once for seven extra days if nobody else has reserved the book.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
-  <data key="d6"></data>
-</node>
-<node id="My Loans">
-  <data key="d0">My Loans</data>
-  <data key="d1">artifact</data>
-  <data key="d2">My Loans is the location where the new due date appears after renewal.&lt;SEP&gt;My Loans shows the due date for each borrowed book.&lt;SEP&gt;My Loans is the interface where a borrower can find a book and select the Renew option.&lt;SEP&gt;My Loans is a library account area where a borrower can find a book and view its updated due date.&lt;SEP&gt;My Loans is the account feature students use to check the due date for each title.</data>
-  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
+  <data key="d5">1795057449</data>
   <data key="d6"></data>
 </node>
 <node id="Reservation">
   <data key="d0">Reservation</data>
   <data key="d1">concept</data>
-  <data key="d2">A reservation determines whether the book can be renewed or must be returned by its original due date.&lt;SEP&gt;A reservation by another person prevents the described one-time, seven-day renewal.&lt;SEP&gt;A Reservation is another borrower's claim on a book and prevents renewal under the described instructions.</data>
-  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d2">A reservation by someone else affects whether the book can be renewed and requires return by the original due date.&lt;SEP&gt;A reservation by another person affects whether a book can be renewed.&lt;SEP&gt;A Reservation by another person prevents renewal and requires the book to be returned by its original due date.&lt;SEP&gt;A reservation by another person prevents renewal and requires the student to return the book by its original due date.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
-  <data key="d6"></data>
-</node>
-<node id="Title">
-  <data key="d0">Title</data>
-  <data key="d1">concept</data>
-  <data key="d2">A title identifies a book and should be checked separately according to the guide.</data>
-  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996551</data>
+  <data key="d5">1795057525</data>
   <data key="d6"></data>
 </node>
 <node id="Seven Extra Days">
   <data key="d0">Seven Extra Days</data>
   <data key="d1">data</data>
-  <data key="d2">Seven extra days is the loan extension available for a renewal.&lt;SEP&gt;Seven extra days is the additional borrowing period allowed by an eligible renewal.</data>
-  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d2">Seven extra days is the additional period allowed for a renewal.&lt;SEP&gt;Seven extra days is the additional borrowing period provided by an eligible renewal.&lt;SEP&gt;Seven extra days is the extension available through one qualifying renewal.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996551</data>
+  <data key="d5">1795057525</data>
   <data key="d6"></data>
 </node>
-<node id="Borrowing And Returning Books">
-  <data key="d0">Borrowing And Returning Books</data>
+<node id="Original Due Date">
+  <data key="d0">Original Due Date</data>
   <data key="d1">concept</data>
-  <data key="d2">Borrowing and returning books are the activities covered by the Library Borrowing Guide.</data>
-  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+  <data key="d2">The original due date is the deadline for returning a reserved book.&lt;SEP&gt;The Original Due Date is the deadline by which a reserved book must be returned.&lt;SEP&gt;The original due date is the deadline by which a student must return a book if another person has reserved it.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996551</data>
+  <data key="d5">1795057526</data>
   <data key="d6"></data>
 </node>
-<node id="Library Account Eligibility">
-  <data key="d0">Library Account Eligibility</data>
+<node id="My Loans">
+  <data key="d0">My Loans</data>
+  <data key="d1">artifact</data>
+  <data key="d2">My Loans displays the due date for each borrowed book.&lt;SEP&gt;My Loans displays the book's new due date after renewal.&lt;SEP&gt;My Loans is the place where a borrower can find a book and select the option to renew it.&lt;SEP&gt;My Loans is the interface where a borrower can find a book and view its due date.&lt;SEP&gt;My Loans is used to view the due date for each borrowed book.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057524</data>
+  <data key="d6"></data>
+</node>
+<node id="New Due Date">
+  <data key="d0">New Due Date</data>
   <data key="d1">concept</data>
-  <data key="d2">Library account eligibility should be checked before borrowing.</data>
+  <data key="d2">The new due date is displayed in My Loans after the book is renewed.&lt;SEP&gt;The New Due Date is the updated deadline displayed in My Loans after a successful renewal.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057526</data>
+  <data key="d6"></data>
+</node>
+<node id="Renewal Steps">
+  <data key="d0">Renewal Steps</data>
+  <data key="d1">method</data>
+  <data key="d2">The renewal steps include confirming the result and checking the due date again before returning the book.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057450</data>
+  <data key="d6"></data>
+</node>
+<node id="Figure 1">
+  <data key="d0">Figure 1</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Figure 1 is identified as illustrating the renewal steps.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057450</data>
+  <data key="d6"></data>
+</node>
+<node id="Confirm the Result">
+  <data key="d0">Confirm the Result</data>
+  <data key="d1">method</data>
+  <data key="d2">Confirm the result is an instruction to verify the outcome after renewal.</data>
+  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057450</data>
+  <data key="d6"></data>
+</node>
+<node id="Due Date">
+  <data key="d0">Due Date</data>
+  <data key="d1">concept</data>
+  <data key="d2">The due date is the deadline by which a borrowed book should be returned.&lt;SEP&gt;The due date is the deadline by which a book should be returned; a renewal should be requested before it.&lt;SEP&gt;A due date applies to each book, and borrowers are instructed to check each title separately.</data>
+  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057525</data>
+  <data key="d6"></data>
+</node>
+<node id="How to Renew">
+  <data key="d0">How to Renew</data>
+  <data key="d1">content</data>
+  <data key="d2">How to Renew is a section of the Library Borrowing Guide that explains how to request a renewal.</data>
+  <data key="d3">chunk-f74d3981177947bc583a0860d03ffe3f</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057451</data>
+  <data key="d6"></data>
+</node>
+<node id="Borrowing and Returning Books">
+  <data key="d0">Borrowing and Returning Books</data>
+  <data key="d1">method</data>
+  <data key="d2">Borrowing and returning books are the processes described in the guide.</data>
   <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996551</data>
+  <data key="d5">1795057451</data>
+  <data key="d6"></data>
+</node>
+<node id="Account Eligibility">
+  <data key="d0">Account Eligibility</data>
+  <data key="d1">concept</data>
+  <data key="d2">Account eligibility is a condition to check before borrowing.&lt;SEP&gt;Account eligibility is to be checked before borrowing.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057524</data>
   <data key="d6"></data>
 </node>
 <node id="Loan Limit">
   <data key="d0">Loan Limit</data>
   <data key="d1">concept</data>
-  <data key="d2">The loan limit is listed in a table in the guide.</data>
+  <data key="d2">The loan limit is listed in the guide's table.</data>
   <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996551</data>
+  <data key="d5">1795057451</data>
   <data key="d6"></data>
 </node>
 <node id="Standard Loan Period">
   <data key="d0">Standard Loan Period</data>
   <data key="d1">concept</data>
-  <data key="d2">The standard loan period is listed in a table in the guide.&lt;SEP&gt;The standard loan period is the baseline duration for borrowing a book.</data>
-  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d2">The standard loan period is listed in the guide's table.&lt;SEP&gt;The standard loan period is the normal duration for borrowing a book.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
+  <data key="d5">1795057524</data>
   <data key="d6"></data>
 </node>
-<node id="Loan Information Table">
-  <data key="d0">Loan Information Table</data>
+<node id="Table">
+  <data key="d0">Table</data>
   <data key="d1">data</data>
   <data key="d2">The table lists the loan limit and standard loan period.</data>
   <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996552</data>
+  <data key="d5">1795057451</data>
   <data key="d6"></data>
 </node>
-<node id="Original Due Date">
-  <data key="d0">Original Due Date</data>
-  <data key="d1">data</data>
-  <data key="d2">The original due date is the deadline for returning a reserved book.&lt;SEP&gt;The Original Due Date is the deadline by which a reserved book should be returned.</data>
-  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+<node id="Book Title">
+  <data key="d0">Book Title</data>
+  <data key="d1">concept</data>
+  <data key="d2">A book title is checked separately when several books are borrowed.</data>
+  <data key="d3">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
+  <data key="d5">1795057451</data>
   <data key="d6"></data>
 </node>
-<node id="New Due Date">
-  <data key="d0">New Due Date</data>
-  <data key="d1">data</data>
-  <data key="d2">The new due date is displayed in My Loans after a book is renewed.&lt;SEP&gt;The New Due Date is the updated deadline shown in My Loans after a successful renewal.</data>
-  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996602</data>
-  <data key="d6"></data>
-</node>
-<node id="Renewal Steps">
-  <data key="d0">Renewal Steps</data>
-  <data key="d1">content</data>
-  <data key="d2">Renewal Steps is the caption of Figure 1, which presents steps for renewing a book.</data>
-  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996552</data>
-  <data key="d6"></data>
-</node>
-<node id="Result Confirmation">
-  <data key="d0">Result Confirmation</data>
-  <data key="d1">method</data>
-  <data key="d2">Result confirmation is the instruction to verify the outcome of a renewal.</data>
-  <data key="d3">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996552</data>
-  <data key="d6"></data>
-</node>
-<node id="Student Book Borrowing Limits and Standard Loan Period (table)">
-  <data key="d0">Student Book Borrowing Limits and Standard Loan Period (table)</data>
+<node id="Student book borrowing limits and standard loan period (table)">
+  <data key="d0">Student book borrowing limits and standard loan period (table)</data>
   <data key="d1">table</data>
-  <data key="d2">The table states that students may borrow a maximum of 3 books at a time and that the standard loan period is 14 days. It supplies the baseline rules for the surrounding guidance on checking each book’s due date, returning books on time, and conditionally renewing once for 7 extra days when no other borrower has reserved the book.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d2">The table states that students may borrow a maximum of 3 books at a time and that the standard loan period is 14 days. In the Library Borrowing Guide, these rules frame instructions to check eligibility, track each book’s due date in My Loans, and return books on time. A separate conditional renewal rule allows one 7-day extension when no reservation prevents it.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996573</data>
+  <data key="d5">1795057492</data>
 </node>
-<node id="Library Book Renewal Steps Flowchart (image)">
-  <data key="d0">Library Book Renewal Steps Flowchart (image)</data>
+<node id="Library Book Renewal Steps (image)">
+  <data key="d0">Library Book Renewal Steps (image)</data>
   <data key="d1">image</data>
-  <data key="d2">A three-step horizontal flowchart for renewing a library book: check the due date, find the book in My Loans, and renew it while checking the new due date. In the surrounding guide, renewal must be requested before the due date; eligibility and the updated due date should be checked.</data>
-  <data key="d3">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d2">A three-step flowchart shows how to renew a library book: check the due date before it arrives, find the book in My Loans, then renew and check the new due date. The surrounding guide specifies that eligible renewals add 7 days and are not available when another borrower has reserved the book.</data>
+  <data key="d3">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996573</data>
+  <data key="d5">1795057492</data>
 </node>
-<node id="Student">
-  <data key="d0">Student</data>
-  <data key="d1">person</data>
-  <data key="d2">A student is subject to the borrowing limits and procedures described in the guide.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+<node id="Student Borrowing Limits">
+  <data key="d0">Student Borrowing Limits</data>
+  <data key="d1">concept</data>
+  <data key="d2">Student borrowing limits include a maximum number of books that may be borrowed at once and a standard loan period.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
+  <data key="d5">1795057524</data>
   <data key="d6"></data>
 </node>
 <node id="Maximum Books at a Time">
   <data key="d0">Maximum Books at a Time</data>
   <data key="d1">concept</data>
-  <data key="d2">The maximum books at a time rule sets the quantity of books a student may borrow simultaneously.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d2">The maximum-books-at-a-time rule sets the number of books a student may borrow simultaneously.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
+  <data key="d5">1795057524</data>
   <data key="d6"></data>
 </node>
-<node id="3 Books">
-  <data key="d0">3 Books</data>
+<node id="Three Books">
+  <data key="d0">Three Books</data>
   <data key="d1">data</data>
-  <data key="d2">Three books is the maximum number a student may borrow at one time.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d2">Three books is the maximum number a student may borrow at a time.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
+  <data key="d5">1795057524</data>
   <data key="d6"></data>
 </node>
-<node id="14 Days">
-  <data key="d0">14 Days</data>
+<node id="Fourteen Days">
+  <data key="d0">Fourteen Days</data>
   <data key="d1">data</data>
-  <data key="d2">Fourteen days is the standard loan period for a borrowed book.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d2">Fourteen days is the standard loan period stated in the table.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996596</data>
-  <data key="d6"></data>
-</node>
-<node id="Student Account Eligibility">
-  <data key="d0">Student Account Eligibility</data>
-  <data key="d1">concept</data>
-  <data key="d2">Student account eligibility is a condition students are instructed to check before borrowing.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
+  <data key="d5">1795057524</data>
   <data key="d6"></data>
 </node>
 <node id="Renewal Rule">
   <data key="d0">Renewal Rule</data>
-  <data key="d1">concept</data>
-  <data key="d2">The renewal rule allows a student to renew a book once for an extra seven days before its due date, provided nobody else has reserved it.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d1">method</data>
+  <data key="d2">The renewal rule permits one renewal for seven extra days if nobody else has reserved the book, provided the request is made before the due date.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
+  <data key="d5">1795057525</data>
   <data key="d6"></data>
 </node>
-<node id="7 Extra Days">
-  <data key="d0">7 Extra Days</data>
+<node id="Twenty-One Days">
+  <data key="d0">Twenty-One Days</data>
   <data key="d1">data</data>
-  <data key="d2">Seven extra days is the duration of the permitted renewal extension.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d2">Twenty-one days is the possible total loan period for an eligible, unreserved book under the standard period and one renewal.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
+  <data key="d5">1795057525</data>
   <data key="d6"></data>
 </node>
-<node id="Book Reservation">
-  <data key="d0">Book Reservation</data>
-  <data key="d1">concept</data>
-  <data key="d2">A reservation by another person prevents a student from renewing a book and requires return by the original due date.</data>
-  <data key="d3">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+<node id="Return Instructions">
+  <data key="d0">Return Instructions</data>
+  <data key="d1">method</data>
+  <data key="d2">The guide instructs borrowers to return each book by its own due date.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996601</data>
+  <data key="d5">1795057525</data>
   <data key="d6"></data>
 </node>
-<node id="Renewal Steps Flowchart">
-  <data key="d0">Renewal Steps Flowchart</data>
+<node id="One Renewal">
+  <data key="d0">One Renewal</data>
+  <data key="d1">data</data>
+  <data key="d2">The renewal instructions permit a book to be renewed once, if the stated conditions are met.</data>
+  <data key="d3">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057525</data>
+  <data key="d6"></data>
+</node>
+<node id="Renewal Process">
+  <data key="d0">Renewal Process</data>
+  <data key="d1">method</data>
+  <data key="d2">The Renewal Process involves checking the due date, finding the book in My Loans, renewing it when eligible, and confirming the new due date.</data>
+  <data key="d3">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057526</data>
+  <data key="d6"></data>
+</node>
+<node id="Seven Additional Days">
+  <data key="d0">Seven Additional Days</data>
+  <data key="d1">data</data>
+  <data key="d2">Seven Additional Days is the extension granted for one renewal when nobody else has reserved the book.</data>
+  <data key="d3">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d4">library-guide.pdf</data>
+  <data key="d5">1795057526</data>
+  <data key="d6"></data>
+</node>
+<node id="Figure 1: Renewal Steps">
+  <data key="d0">Figure 1: Renewal Steps</data>
   <data key="d1">content</data>
-  <data key="d2">The Renewal Steps Flowchart visually summarizes checking the due date, finding the book in My Loans, renewing it, and checking the updated due date.</data>
-  <data key="d3">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d2">Figure 1 presents a three-step renewal flow: check the due date, find the book in My Loans, and renew and check the new due date.</data>
+  <data key="d3">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996602</data>
+  <data key="d5">1795057526</data>
   <data key="d6"></data>
 </node>
-<node id="Before the Due Date">
-  <data key="d0">Before the Due Date</data>
-  <data key="d1">concept</data>
-  <data key="d2">Before the Due Date is the time by which a borrower is instructed to check the loan and request a renewal.</data>
-  <data key="d3">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996602</data>
-  <data key="d6"></data>
-</node>
-<node id="Renew Command">
-  <data key="d0">Renew Command</data>
+<node id="Renew Button">
+  <data key="d0">Renew Button</data>
   <data key="d1">artifact</data>
-  <data key="d2">The Renew Command is the interface option the borrower clicks to request a book renewal.</data>
-  <data key="d3">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d2">The Renew button is the control a borrower clicks to request renewal of a book.</data>
+  <data key="d3">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d4">library-guide.pdf</data>
-  <data key="d5">1794996602</data>
+  <data key="d5">1795057526</data>
   <data key="d6"></data>
 </node>
-<edge source="Library Borrowing Guide" target="Date">
+<edge source="Library Borrowing Guide" target="Renewal Steps">
   <data key="d7">1.0</data>
-  <data key="d8">The text instructs the reader to check the date again.</data>
-  <data key="d9">instruction,verification</data>
-  <data key="d10">chunk-0bec09cbf50b78e30405fdc3229058fb</data>
+  <data key="d8">The Library Borrowing Guide presents steps for renewing a book and confirming the result.</data>
+  <data key="d9">instructions,renewal</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996553</data>
+  <data key="d12">1795057452</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Borrowing Guide" target="Renewal">
+  <data key="d7">1.0</data>
+  <data key="d8">The Library Borrowing Guide explains when and how a borrower can request a book renewal.</data>
+  <data key="d9">borrowing instructions,renewals</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057455</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Borrowing Guide" target="Borrowing and Returning Books">
+  <data key="d7">1.0</data>
+  <data key="d8">The Library Borrowing Guide provides instructions about borrowing and returning books.</data>
+  <data key="d9">guidance,procedures</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057456</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Borrowing Guide" target="Account Eligibility">
+  <data key="d7">2.0</data>
+  <data key="d8">The guide instructs borrowers to check account eligibility before borrowing.&lt;SEP&gt;The guide instructs students to check account eligibility before borrowing.</data>
+  <data key="d9">borrowing,borrowing requirement,eligibility</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057532</data>
   <data key="d13"></data>
 </edge>
 <edge source="Library Borrowing Guide" target="Book">
   <data key="d7">1.0</data>
   <data key="d8">The Library Borrowing Guide instructs borrowers to check each title separately and return each book by its due date.</data>
-  <data key="d9">borrowing instructions,title checking</data>
+  <data key="d9">borrowing instructions,returns</data>
   <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996553</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Borrowing Guide" target="Borrowing And Returning Books">
-  <data key="d7">1.0</data>
-  <data key="d8">The Library Borrowing Guide provides instructions about borrowing and returning books.</data>
-  <data key="d9">borrowing,guidance,returns</data>
-  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996554</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Borrowing Guide" target="Library Account Eligibility">
-  <data key="d7">1.0</data>
-  <data key="d8">The guide instructs borrowers to check account eligibility before borrowing.</data>
-  <data key="d9">borrowing requirements,eligibility</data>
-  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996555</data>
+  <data key="d12">1795057459</data>
   <data key="d13"></data>
 </edge>
 <edge source="Library Borrowing Guide" target="Loan Limit">
   <data key="d7">1.0</data>
-  <data key="d8">A table in the guide lists the loan limit.</data>
-  <data key="d9">limits,loan rules</data>
+  <data key="d8">The guide's table lists the loan limit.</data>
+  <data key="d9">loan information</data>
   <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996555</data>
+  <data key="d12">1795057465</data>
   <data key="d13"></data>
 </edge>
 <edge source="Library Borrowing Guide" target="Standard Loan Period">
-  <data key="d7">2.0</data>
-  <data key="d8">A table in the guide lists the standard loan period.&lt;SEP&gt;The guide states the standard duration for borrowing a book.</data>
-  <data key="d9">borrowing rule,duration,loan duration,loan rules</data>
-  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996603</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Borrowing Guide" target="Renewal">
-  <data key="d7">2.0</data>
-  <data key="d8">The Library Borrowing Guide gives instructions for renewing a book.&lt;SEP&gt;The Library Borrowing Guide explains how to renew a book once for seven extra days if nobody else has reserved it.</data>
-  <data key="d9">borrowing process,instructions,loan extension</data>
-  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996615</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Borrowing Guide" target="Maximum Books at a Time">
   <data key="d7">1.0</data>
-  <data key="d8">The guide states the maximum number of books a student may borrow at one time.</data>
-  <data key="d9">borrowing rule,quantity limit</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d8">The guide's table lists the standard loan period.</data>
+  <data key="d9">loan information</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996602</data>
+  <data key="d12">1795057471</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Borrowing Guide" target="Student Borrowing Limits">
+  <data key="d7">1.0</data>
+  <data key="d8">The Library Borrowing Guide presents the student borrowing limits.</data>
+  <data key="d9">borrowing rules,guidance</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057527</data>
   <data key="d13"></data>
 </edge>
 <edge source="Library Borrowing Guide" target="Renewal Rule">
   <data key="d7">1.0</data>
-  <data key="d8">The guide's surrounding instructions describe a conditional one-time renewal, although the table itself does not state the renewal rule.</data>
-  <data key="d9">borrowing guidance,renewal conditions</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d8">The Library Borrowing Guide provides conditional instructions for renewing a book.</data>
+  <data key="d9">borrowing guidance,renewal instructions</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996606</data>
+  <data key="d12">1795057540</data>
   <data key="d13"></data>
 </edge>
-<edge source="Library Borrowing Guide" target="Student Book Borrowing Limits and Standard Loan Period (table)">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Library Borrowing Guide belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996613</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Borrowing Guide" target="Library Book Renewal Steps Flowchart (image)">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Library Borrowing Guide belongs to Library Book Renewal Steps Flowchart (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996624</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Book" target="Due Date">
-  <data key="d7">3.0</data>
-  <data key="d8">Each borrowed book has a due date by which it should be returned.&lt;SEP&gt;The guide instructs borrowers to return each book on or before its due date.&lt;SEP&gt;Each borrowed book has a due date by which it should be returned.</data>
-  <data key="d9">borrowing,loan period,return deadline</data>
-  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996605</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Book" target="My Loans">
-  <data key="d7">2.0</data>
-  <data key="d8">Borrowers can find a book in My Loans and select the Renew option.&lt;SEP&gt;The borrower uses My Loans to find the Book before renewing it.</data>
-  <data key="d9">loan lookup,loan management</data>
-  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996624</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Book" target="Title">
+<edge source="Library Borrowing Guide" target="Return Instructions">
   <data key="d7">1.0</data>
-  <data key="d8">The guide instructs borrowers to check each title separately.</data>
-  <data key="d9">identification,title checking</data>
-  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
+  <data key="d8">The Library Borrowing Guide instructs borrowers to return each book by its own due date.</data>
+  <data key="d9">due-date management,return guidance</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996557</data>
+  <data key="d12">1795057546</data>
   <data key="d13"></data>
 </edge>
-<edge source="Book" target="Borrowing And Returning Books">
-  <data key="d7">1.0</data>
-  <data key="d8">Books are borrowed and returned according to the guide.</data>
-  <data key="d9">borrowing,returns</data>
-  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+<edge source="Library Borrowing Guide" target="Student book borrowing limits and standard loan period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Library Borrowing Guide belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996557</data>
+  <data key="d12">1795057554</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Borrowing Guide" target="Renewal Process">
+  <data key="d7">1.0</data>
+  <data key="d8">The Library Borrowing Guide describes the Renewal Process and its eligibility and return conditions.</data>
+  <data key="d9">borrowing guidance,instructions</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Borrowing Guide" target="Library Book Renewal Steps (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Library Borrowing Guide belongs to Library Book Renewal Steps (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057578</data>
   <data key="d13"></data>
 </edge>
 <edge source="Book" target="Renewal">
-  <data key="d7">2.0</data>
-  <data key="d8">The guide instructs the borrower to renew the book if nobody else has reserved it.&lt;SEP&gt;The Book can be renewed once for seven extra days if no other borrower has reserved it.</data>
-  <data key="d9">borrowing,eligibility,loan extension</data>
-  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d7">1.0</data>
+  <data key="d8">The book can be renewed once for seven extra days if nobody else has reserved it.</data>
+  <data key="d9">borrowing,renewal eligibility</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996616</data>
+  <data key="d12">1795057452</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Book" target="Reservation">
+  <data key="d7">2.0</data>
+  <data key="d8">If the book is reserved, it must be returned by its original due date.&lt;SEP&gt;If another person has reserved the book, the book cannot be renewed and must be returned by the original due date.</data>
+  <data key="d9">renewal eligibility,reservation,return condition</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057578</data>
   <data key="d13"></data>
 </edge>
 <edge source="Book" target="Original Due Date">
-  <data key="d7">2.0</data>
-  <data key="d8">If the book is reserved, it should be returned by its original due date.&lt;SEP&gt;If the Book is reserved, the guide says to return it by the Original Due Date.</data>
-  <data key="d9">loan conditions,return deadline</data>
-  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d7">1.0</data>
+  <data key="d8">A reserved book must be returned by its original due date.</data>
+  <data key="d9">borrowing,return deadline</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996618</data>
+  <data key="d12">1795057454</data>
   <data key="d13"></data>
 </edge>
 <edge source="Book" target="New Due Date">
   <data key="d7">1.0</data>
-  <data key="d8">The borrower is instructed to check the date again before returning the book.</data>
-  <data key="d9">due date,loan tracking</data>
+  <data key="d8">The book has a new due date after renewal, and the date should be checked again before returning it.</data>
+  <data key="d9">due date,renewal</data>
   <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996565</data>
+  <data key="d12">1795057455</data>
   <data key="d13"></data>
 </edge>
-<edge source="Book" target="Student">
-  <data key="d7">1.0</data>
-  <data key="d8">A student may borrow books and is instructed to return each book by its due date.</data>
-  <data key="d9">borrowing,return</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+<edge source="Book" target="Due Date">
+  <data key="d7">3.0</data>
+  <data key="d8">Each borrowed book has a due date by which it should be returned.&lt;SEP&gt;The guide says each book should be returned on or before its due date.&lt;SEP&gt;Each book has its own due date, and borrowers are instructed to check each title separately.</data>
+  <data key="d9">individual tracking,return deadline</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996602</data>
+  <data key="d12">1795057532</data>
   <data key="d13"></data>
 </edge>
-<edge source="Book" target="3 Books">
-  <data key="d7">1.0</data>
-  <data key="d8">The three-book limit specifies the maximum number of books a student may borrow at one time.</data>
-  <data key="d9">borrowing capacity,quantity limit</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+<edge source="Book" target="My Loans">
+  <data key="d7">3.0</data>
+  <data key="d8">A borrower can find the book in My Loans.&lt;SEP&gt;My Loans shows the due date for each book after borrowing.&lt;SEP&gt;The borrower uses My Loans to find the book.</data>
+  <data key="d9">book lookup,loan lookup,loan management,loan tracking</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996606</data>
+  <data key="d12">1795057575</data>
   <data key="d13"></data>
 </edge>
-<edge source="Book" target="Student Book Borrowing Limits and Standard Loan Period (table)">
+<edge source="Book" target="Book Title">
+  <data key="d7">1.0</data>
+  <data key="d8">The guide instructs borrowers to check the title of each book separately when borrowing several books.</data>
+  <data key="d9">identification</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057471</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Book" target="Return Instructions">
+  <data key="d7">1.0</data>
+  <data key="d8">The guide instructs borrowers to return each book by its individual due date.</data>
+  <data key="d9">due date,return</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057539</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Book" target="Standard Loan Period">
+  <data key="d7">1.0</data>
+  <data key="d8">The standard fourteen-day loan period applies to a borrowed book.</data>
+  <data key="d9">borrowing,loan duration</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057539</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Book" target="Renewal Rule">
+  <data key="d7">1.0</data>
+  <data key="d8">The renewal instructions describe extending a book loan when the stated conditions are met.</data>
+  <data key="d9">book renewal,loan extension</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057546</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Book" target="Student book borrowing limits and standard loan period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity Book belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d8">Entity Book belongs to Student book borrowing limits and standard loan period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996615</data>
+  <data key="d12">1795057563</data>
   <data key="d13"></data>
 </edge>
-<edge source="Book" target="Reservation">
+<edge source="Book" target="Renewal Process">
   <data key="d7">1.0</data>
-  <data key="d8">A reservation on the Book means the Book should not be renewed.</data>
-  <data key="d9">renewal condition</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d8">The Renewal Process allows the borrower to renew the book when no one else has reserved it.</data>
+  <data key="d9">borrowed item,renewal</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996617</data>
+  <data key="d12">1795057577</data>
   <data key="d13"></data>
 </edge>
-<edge source="Book" target="Library Book Renewal Steps Flowchart (image)">
+<edge source="Book" target="Library Book Renewal Steps (image)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity Book belongs to Library Book Renewal Steps Flowchart (image)</data>
+  <data key="d8">Entity Book belongs to Library Book Renewal Steps (image)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996627</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Due Date" target="Renewal">
-  <data key="d7">1.0</data>
-  <data key="d8">The guide says to request a renewal before the due date.</data>
-  <data key="d9">renewal timing</data>
-  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996553</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Due Date" target="My Loans">
-  <data key="d7">2.0</data>
-  <data key="d8">My Loans shows the due date for each borrowed book.&lt;SEP&gt;My Loans provides the due date for each title.</data>
-  <data key="d9">date display,due date lookup,loan management,loan tracking</data>
-  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996604</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Due Date" target="Book Reservation">
-  <data key="d7">1.0</data>
-  <data key="d8">If a book is reserved, it must be returned by its original due date.</data>
-  <data key="d9">reservation status,return requirement</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996606</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Due Date" target="Student Book Borrowing Limits and Standard Loan Period (table)">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Due Date belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996615</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Renewal" target="Reservation">
-  <data key="d7">2.0</data>
-  <data key="d8">If the book is reserved, it should be returned rather than renewed.&lt;SEP&gt;A book can be renewed once for seven extra days only if nobody else has reserved it.</data>
-  <data key="d9">eligibility,eligibility condition,loan conditions</data>
-  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996553</data>
+  <data key="d12">1795057587</data>
   <data key="d13"></data>
 </edge>
 <edge source="Renewal" target="Seven Extra Days">
   <data key="d7">2.0</data>
-  <data key="d8">A renewal extends the loan by seven extra days.&lt;SEP&gt;An eligible renewal extends the borrowing period by seven extra days.</data>
-  <data key="d9">duration,loan extension</data>
-  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f&lt;SEP&gt;chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d8">A renewal extends the borrowing period by seven extra days.&lt;SEP&gt;An eligible renewal provides seven extra days.</data>
+  <data key="d9">duration,extended borrowing period,renewal period</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996554</data>
+  <data key="d12">1795057452</data>
   <data key="d13"></data>
 </edge>
-<edge source="Renewal" target="Renewal Steps">
+<edge source="Renewal" target="Due Date">
   <data key="d7">1.0</data>
-  <data key="d8">Figure 1 is captioned Renewal Steps and presents steps for renewing a book.</data>
-  <data key="d9">instructions,procedure</data>
-  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
+  <data key="d8">A renewal should be requested before the book's due date.</data>
+  <data key="d9">renewal timing</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996557</data>
+  <data key="d12">1795057453</data>
   <data key="d13"></data>
 </edge>
-<edge source="Renewal" target="Renewal Steps Flowchart">
+<edge source="Renewal" target="My Loans">
   <data key="d7">1.0</data>
-  <data key="d8">The Renewal Steps Flowchart depicts the steps for renewing a book.</data>
-  <data key="d9">process visualization</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d8">The borrower can click “Renew” in My Loans to request a renewal.</data>
+  <data key="d9">renewal access</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996618</data>
+  <data key="d12">1795057454</data>
   <data key="d13"></data>
 </edge>
-<edge source="Renewal" target="Before the Due Date">
+<edge source="Renewal" target="Reservation">
   <data key="d7">1.0</data>
-  <data key="d8">The guide instructs the borrower to request a renewal before the due date.</data>
-  <data key="d9">loan extension,timing</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d8">A renewal is available once if nobody else has reserved the book.</data>
+  <data key="d9">renewal eligibility</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996618</data>
+  <data key="d12">1795057454</data>
   <data key="d13"></data>
 </edge>
-<edge source="Renewal" target="Library Book Renewal Steps Flowchart (image)">
+<edge source="Renewal" target="How to Renew">
+  <data key="d7">1.0</data>
+  <data key="d8">The How to Renew section provides instructions for requesting a renewal.</data>
+  <data key="d9">renewal instructions</data>
+  <data key="d10">chunk-f74d3981177947bc583a0860d03ffe3f</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057456</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Reservation" target="Original Due Date">
+  <data key="d7">2.0</data>
+  <data key="d8">If the book is reserved, it must be returned by the original due date.&lt;SEP&gt;If another person has reserved the book, it must be returned by the original due date.</data>
+  <data key="d9">deadline,reservation condition,return condition,return deadline</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057539</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Reservation" target="Renewal Rule">
+  <data key="d7">1.0</data>
+  <data key="d8">A book can be renewed only if nobody else has reserved it.</data>
+  <data key="d9">renewal condition,reservation status</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057532</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Reservation" target="Return Instructions">
+  <data key="d7">1.0</data>
+  <data key="d8">If a book has been reserved, the student must return it by the original due date.</data>
+  <data key="d9">reserved book,return deadline</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057538</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Reservation" target="Student book borrowing limits and standard loan period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity Renewal belongs to Library Book Renewal Steps Flowchart (image)</data>
+  <data key="d8">Entity Reservation belongs to Student book borrowing limits and standard loan period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996627</data>
+  <data key="d12">1795057565</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Reservation" target="Library Book Renewal Steps (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Reservation belongs to Library Book Renewal Steps (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057594</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Seven Extra Days" target="Renewal Rule">
+  <data key="d7">1.0</data>
+  <data key="d8">A qualifying renewal extends a book loan by seven extra days.</data>
+  <data key="d9">extension,renewal</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057527</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Seven Extra Days" target="Student book borrowing limits and standard loan period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Seven Extra Days belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Original Due Date" target="Student book borrowing limits and standard loan period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Original Due Date belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057578</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Original Due Date" target="Renewal Process">
+  <data key="d7">1.0</data>
+  <data key="d8">The borrower should request renewal before the original due date, and must return a reserved book by that date.</data>
+  <data key="d9">deadline,renewal timing</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057585</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Original Due Date" target="Library Book Renewal Steps (image)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Original Due Date belongs to Library Book Renewal Steps (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057593</data>
   <data key="d13"></data>
 </edge>
 <edge source="My Loans" target="New Due Date">
   <data key="d7">2.0</data>
-  <data key="d8">My Loans shows the new due date after renewal.&lt;SEP&gt;After renewal, My Loans displays the New Due Date for the borrower to check.</data>
-  <data key="d9">display,due date display,loan information</data>
-  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d8">My Loans shows the new due date after the book is renewed.&lt;SEP&gt;My Loans displays the new due date after a successful renewal.</data>
+  <data key="d9">display,due date display,loan information,renewal confirmation</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9&lt;SEP&gt;chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996617</data>
+  <data key="d12">1795057584</data>
   <data key="d13"></data>
 </edge>
-<edge source="My Loans" target="Student">
-  <data key="d7">1.0</data>
-  <data key="d8">Students use My Loans to check the due date for each title.</data>
-  <data key="d9">account use,due date checking</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+<edge source="My Loans" target="Due Date">
+  <data key="d7">2.0</data>
+  <data key="d8">My Loans shows the due date for each borrowed book.&lt;SEP&gt;My Loans is used to view the due date for each book.</data>
+  <data key="d9">display,loan management,loan tracking,tracking</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9&lt;SEP&gt;chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996604</data>
+  <data key="d12">1795057527</data>
   <data key="d13"></data>
 </edge>
-<edge source="My Loans" target="Student Book Borrowing Limits and Standard Loan Period (table)">
+<edge source="My Loans" target="Student book borrowing limits and standard loan period (table)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity My Loans belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
+  <data key="d8">Entity My Loans belongs to Student book borrowing limits and standard loan period (table)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996614</data>
+  <data key="d12">1795057555</data>
   <data key="d13"></data>
 </edge>
-<edge source="My Loans" target="Renewal Steps Flowchart">
+<edge source="My Loans" target="Renewal Process">
   <data key="d7">1.0</data>
-  <data key="d8">The Renewal Steps Flowchart instructs the borrower to use My Loans to find the book.</data>
-  <data key="d9">book lookup,process step</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d8">The Renewal Process directs the borrower to find the book in My Loans and check the updated due date there.</data>
+  <data key="d9">book lookup,interface</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996618</data>
+  <data key="d12">1795057565</data>
   <data key="d13"></data>
 </edge>
-<edge source="My Loans" target="Renew Command">
-  <data key="d7">1.0</data>
-  <data key="d8">The borrower opens My Loans and clicks the Renew Command to request a renewal.</data>
-  <data key="d9">interface action,loan renewal</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996625</data>
-  <data key="d13"></data>
-</edge>
-<edge source="My Loans" target="Library Book Renewal Steps Flowchart (image)">
+<edge source="My Loans" target="Library Book Renewal Steps (image)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity My Loans belongs to Library Book Renewal Steps Flowchart (image)</data>
+  <data key="d8">Entity My Loans belongs to Library Book Renewal Steps (image)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996626</data>
+  <data key="d12">1795057585</data>
   <data key="d13"></data>
 </edge>
-<edge source="Reservation" target="Library Book Renewal Steps Flowchart (image)">
+<edge source="New Due Date" target="Renewal Process">
+  <data key="d7">1.0</data>
+  <data key="d8">After renewal, the borrower confirms the new due date shown in My Loans.</data>
+  <data key="d9">confirmation,updated deadline</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057578</data>
+  <data key="d13"></data>
+</edge>
+<edge source="New Due Date" target="Library Book Renewal Steps (image)">
   <data key="d7">10.0</data>
-  <data key="d8">Entity Reservation belongs to Library Book Renewal Steps Flowchart (image)</data>
+  <data key="d8">Entity New Due Date belongs to Library Book Renewal Steps (image)</data>
   <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996628</data>
+  <data key="d12">1795057593</data>
   <data key="d13"></data>
 </edge>
-<edge source="Loan Limit" target="Loan Information Table">
+<edge source="Renewal Steps" target="Figure 1">
   <data key="d7">1.0</data>
-  <data key="d8">The table lists the loan limit.</data>
-  <data key="d9">borrowing limits,loan information</data>
-  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996555</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Standard Loan Period" target="Loan Information Table">
-  <data key="d7">1.0</data>
-  <data key="d8">The table lists the standard loan period.</data>
-  <data key="d9">loan duration,loan information</data>
-  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996555</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Standard Loan Period" target="14 Days">
-  <data key="d7">1.0</data>
-  <data key="d8">The standard loan period is fourteen days.</data>
-  <data key="d9">loan duration,time limit</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996602</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Standard Loan Period" target="Student Book Borrowing Limits and Standard Loan Period (table)">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Standard Loan Period belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996612</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Original Due Date" target="Library Book Renewal Steps Flowchart (image)">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Original Due Date belongs to Library Book Renewal Steps Flowchart (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996629</data>
-  <data key="d13"></data>
-</edge>
-<edge source="New Due Date" target="Result Confirmation">
-  <data key="d7">1.0</data>
-  <data key="d8">The guide instructs the borrower to confirm the renewal result by checking the new due date shown in My Loans.</data>
-  <data key="d9">loan information,verification</data>
+  <data key="d8">Figure 1 is captioned as showing the renewal steps.</data>
+  <data key="d9">illustration,renewal</data>
   <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996557</data>
+  <data key="d12">1795057452</data>
   <data key="d13"></data>
 </edge>
-<edge source="New Due Date" target="Renewal Steps Flowchart">
+<edge source="Renewal Steps" target="Confirm the Result">
   <data key="d7">1.0</data>
-  <data key="d8">The Renewal Steps Flowchart ends by instructing the borrower to check the new due date.</data>
-  <data key="d9">due date check,process step</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d8">Confirming the result is presented as part of the renewal steps.</data>
+  <data key="d9">procedure,verification</data>
+  <data key="d10">chunk-b5b66dc4cdc65aee472efcef7cbf0db9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996624</data>
+  <data key="d12">1795057453</data>
   <data key="d13"></data>
 </edge>
-<edge source="New Due Date" target="Library Book Renewal Steps Flowchart (image)">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity New Due Date belongs to Library Book Renewal Steps Flowchart (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996629</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Student">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Student belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996605</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Maximum Books at a Time">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Maximum Books at a Time belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996606</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="14 Days">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 14 Days belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996613</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="3 Books">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 3 Books belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996616</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Student Account Eligibility">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Student Account Eligibility belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996617</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Renewal Rule">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Renewal Rule belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996618</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="7 Extra Days">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity 7 Extra Days belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996618</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student Book Borrowing Limits and Standard Loan Period (table)" target="Book Reservation">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Book Reservation belongs to Student Book Borrowing Limits and Standard Loan Period (table)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996624</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Book Renewal Steps Flowchart (image)" target="Renewal Steps Flowchart">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Renewal Steps Flowchart belongs to Library Book Renewal Steps Flowchart (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996630</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Book Renewal Steps Flowchart (image)" target="Before the Due Date">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Before the Due Date belongs to Library Book Renewal Steps Flowchart (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996631</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Library Book Renewal Steps Flowchart (image)" target="Renew Command">
-  <data key="d7">10.0</data>
-  <data key="d8">Entity Renew Command belongs to Library Book Renewal Steps Flowchart (image)</data>
-  <data key="d9">belongs_to,contained_in,part_of</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
-  <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996631</data>
-  <data key="d13"></data>
-</edge>
-<edge source="Student" target="Student Account Eligibility">
+<edge source="Due Date" target="Renewal Rule">
   <data key="d7">1.0</data>
-  <data key="d8">Students are instructed to check that their account is eligible before borrowing.</data>
-  <data key="d9">borrowing requirement,eligibility</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d8">The renewal request must be made before the due date.</data>
+  <data key="d9">renewal deadline</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996603</data>
+  <data key="d12">1795057539</data>
   <data key="d13"></data>
 </edge>
-<edge source="Student" target="Renewal Rule">
-  <data key="d7">1.0</data>
-  <data key="d8">A student may renew a book once before its due date if nobody else has reserved it.</data>
-  <data key="d9">conditional extension,renewal</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+<edge source="Due Date" target="Student book borrowing limits and standard loan period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Due Date belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996604</data>
+  <data key="d12">1795057557</data>
   <data key="d13"></data>
 </edge>
-<edge source="Maximum Books at a Time" target="3 Books">
-  <data key="d7">1.0</data>
-  <data key="d8">The maximum books at a time is three.</data>
-  <data key="d9">borrowing capacity,quantity limit</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+<edge source="Account Eligibility" target="Student book borrowing limits and standard loan period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Account Eligibility belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996603</data>
+  <data key="d12">1795057553</data>
   <data key="d13"></data>
 </edge>
-<edge source="Renewal Rule" target="7 Extra Days">
+<edge source="Loan Limit" target="Table">
   <data key="d7">1.0</data>
-  <data key="d8">The renewal rule permits one extension of seven extra days.</data>
-  <data key="d9">renewal,time extension</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d8">The table lists the loan limit.</data>
+  <data key="d9">loan information</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996603</data>
+  <data key="d12">1795057457</data>
   <data key="d13"></data>
 </edge>
-<edge source="Renewal Rule" target="Book Reservation">
+<edge source="Standard Loan Period" target="Table">
   <data key="d7">1.0</data>
-  <data key="d8">A reservation by another person prevents renewal under the stated rule.</data>
-  <data key="d9">renewal condition,reservation restriction</data>
-  <data key="d10">chunk-604374813fb8c7f3a8154e53d151ad0b</data>
+  <data key="d8">The table lists the standard loan period.</data>
+  <data key="d9">loan information</data>
+  <data key="d10">chunk-9afabfd0277eadab270f8c9f0d4f67b9</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996605</data>
+  <data key="d12">1795057459</data>
   <data key="d13"></data>
 </edge>
-<edge source="Renewal Steps Flowchart" target="Before the Due Date">
+<edge source="Standard Loan Period" target="Fourteen Days">
   <data key="d7">1.0</data>
-  <data key="d8">The flowchart begins by instructing the borrower to check the due date before it arrives.</data>
-  <data key="d9">process step,timing</data>
-  <data key="d10">chunk-7f4f0a32cfcf638b9c46120a873924cb</data>
+  <data key="d8">The standard loan period is fourteen days.</data>
+  <data key="d9">borrowing rule,loan duration</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
   <data key="d11">library-guide.pdf</data>
-  <data key="d12">1794996625</data>
+  <data key="d12">1795057527</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Standard Loan Period" target="Twenty-One Days">
+  <data key="d7">1.0</data>
+  <data key="d8">The standard fourteen-day period plus one qualifying seven-day renewal can result in a total loan period of up to twenty-one days.</data>
+  <data key="d9">combined duration,conditional renewal</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057532</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Standard Loan Period" target="Student book borrowing limits and standard loan period (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Standard Loan Period belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057552</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="Student Borrowing Limits">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Student Borrowing Limits belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057539</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="Maximum Books at a Time">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Maximum Books at a Time belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057546</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="Three Books">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Three Books belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="Fourteen Days">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Fourteen Days belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057552</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="Renewal Rule">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Renewal Rule belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="Twenty-One Days">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Twenty-One Days belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057576</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="Return Instructions">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Return Instructions belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057576</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Student book borrowing limits and standard loan period (table)" target="One Renewal">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity One Renewal belongs to Student book borrowing limits and standard loan period (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057577</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Book Renewal Steps (image)" target="Renewal Process">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Renewal Process belongs to Library Book Renewal Steps (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057586</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Book Renewal Steps (image)" target="Seven Additional Days">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Seven Additional Days belongs to Library Book Renewal Steps (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057595</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Book Renewal Steps (image)" target="Figure 1: Renewal Steps">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Figure 1: Renewal Steps belongs to Library Book Renewal Steps (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057595</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Library Book Renewal Steps (image)" target="Renew Button">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Renew Button belongs to Library Book Renewal Steps (image)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057596</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Maximum Books at a Time" target="Three Books">
+  <data key="d7">1.0</data>
+  <data key="d8">The maximum-books-at-a-time rule allows a student to borrow up to three books simultaneously.</data>
+  <data key="d9">borrowing,quantity limit</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057527</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Renewal Rule" target="One Renewal">
+  <data key="d7">1.0</data>
+  <data key="d8">The renewal rule allows a book to be renewed once.</data>
+  <data key="d9">renewal limit</data>
+  <data key="d10">chunk-73e03336d64bd8478972d0d7b5bf162b</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057538</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Renewal Process" target="Figure 1: Renewal Steps">
+  <data key="d7">1.0</data>
+  <data key="d8">Figure 1 illustrates the steps of the Renewal Process.</data>
+  <data key="d9">illustration,process steps</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Renewal Process" target="Seven Additional Days">
+  <data key="d7">1.0</data>
+  <data key="d8">When nobody else has reserved the book, the borrower may renew once for seven additional days.</data>
+  <data key="d9">loan extension,renewal limit</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057576</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Renewal Process" target="Renew Button">
+  <data key="d7">1.0</data>
+  <data key="d8">The borrower clicks the Renew button as part of the Renewal Process.</data>
+  <data key="d9">renewal action,user interface</data>
+  <data key="d10">chunk-72b56bc685fea8dbd9e08a18a4a7c1b1</data>
+  <data key="d11">library-guide.pdf</data>
+  <data key="d12">1795057584</data>
   <data key="d13"></data>
 </edge>
 </graph></graphml>

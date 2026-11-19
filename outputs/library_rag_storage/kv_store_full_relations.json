@@ -2,208 +2,232 @@
   "doc-501ac0a4b56d2d98331eb3d9164f0dfd": {
     "relation_pairs": [
       [
-        "Library Borrowing Guide",
-        "Maximum Books at a Time"
-      ],
-      [
-        "Renewal",
-        "Renewal Steps Flowchart"
-      ],
-      [
-        "Book Reservation",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "14 Days",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Student Account Eligibility",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
+        "Renew Button",
+        "Renewal Process"
       ],
       [
         "Library Borrowing Guide",
-        "Renewal Rule"
+        "Student Borrowing Limits"
       ],
       [
-        "Book",
+        "Renewal Rule",
         "Reservation"
       ],
       [
-        "Standard Loan Period",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
+        "Library Book Renewal Steps (image)",
+        "Renewal Process"
       ],
       [
-        "Library Book Renewal Steps Flowchart (image)",
-        "Renew Command"
+        "Reservation",
+        "Return Instructions"
       ],
       [
-        "Library Book Renewal Steps Flowchart (image)",
-        "Original Due Date"
+        "Renewal Process",
+        "Seven Additional Days"
       ],
       [
-        "Student",
-        "Student Account Eligibility"
-      ],
-      [
-        "Library Book Renewal Steps Flowchart (image)",
-        "Renewal Steps Flowchart"
-      ],
-      [
-        "Library Book Renewal Steps Flowchart (image)",
-        "New Due Date"
-      ],
-      [
-        "Before the Due Date",
-        "Renewal"
-      ],
-      [
-        "Book",
-        "My Loans"
-      ],
-      [
-        "Before the Due Date",
-        "Library Book Renewal Steps Flowchart (image)"
-      ],
-      [
-        "7 Extra Days",
-        "Renewal Rule"
-      ],
-      [
-        "3 Books",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Book",
-        "Due Date"
-      ],
-      [
-        "New Due Date",
-        "Renewal Steps Flowchart"
+        "Library Borrowing Guide",
+        "Renewal Process"
       ],
       [
         "Due Date",
-        "My Loans"
+        "Student book borrowing limits and standard loan period (table)"
       ],
       [
-        "Library Book Renewal Steps Flowchart (image)",
-        "Reservation"
+        "One Renewal",
+        "Renewal Rule"
+      ],
+      [
+        "Library Borrowing Guide",
+        "Student book borrowing limits and standard loan period (table)"
       ],
       [
         "Maximum Books at a Time",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Renewal Rule",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
+        "Three Books"
       ],
       [
         "Book",
-        "Renewal"
-      ],
-      [
-        "Book Reservation",
-        "Renewal Rule"
-      ],
-      [
-        "My Loans",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Book",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Book",
-        "Library Book Renewal Steps Flowchart (image)"
-      ],
-      [
-        "Library Borrowing Guide",
-        "Standard Loan Period"
-      ],
-      [
-        "Library Borrowing Guide",
-        "Renewal"
-      ],
-      [
-        "Library Book Renewal Steps Flowchart (image)",
         "My Loans"
       ],
       [
-        "3 Books",
-        "Maximum Books at a Time"
+        "Library Book Renewal Steps (image)",
+        "Reservation"
       ],
       [
-        "Library Borrowing Guide",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Renewal Rule",
-        "Student"
-      ],
-      [
-        "Before the Due Date",
-        "Renewal Steps Flowchart"
-      ],
-      [
-        "Due Date",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
-      ],
-      [
-        "Book",
-        "Student"
-      ],
-      [
-        "Library Book Renewal Steps Flowchart (image)",
-        "Library Borrowing Guide"
-      ],
-      [
-        "3 Books",
-        "Book"
+        "Student book borrowing limits and standard loan period (table)",
+        "Three Books"
       ],
       [
         "My Loans",
-        "Student"
+        "Student book borrowing limits and standard loan period (table)"
       ],
       [
-        "Library Book Renewal Steps Flowchart (image)",
-        "Renewal"
+        "Standard Loan Period",
+        "Twenty-One Days"
       ],
       [
-        "Student",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
+        "Library Borrowing Guide",
+        "Return Instructions"
       ],
       [
-        "Book Reservation",
-        "Due Date"
+        "Original Due Date",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Student Borrowing Limits",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Figure 1: Renewal Steps",
+        "Renewal Process"
+      ],
+      [
+        "My Loans",
+        "Renewal Process"
+      ],
+      [
+        "Original Due Date",
+        "Renewal Process"
+      ],
+      [
+        "Return Instructions",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Standard Loan Period",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Book",
+        "Renewal Rule"
+      ],
+      [
+        "Renewal Rule",
+        "Seven Extra Days"
+      ],
+      [
+        "One Renewal",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Figure 1: Renewal Steps",
+        "Library Book Renewal Steps (image)"
+      ],
+      [
+        "Fourteen Days",
+        "Standard Loan Period"
+      ],
+      [
+        "Account Eligibility",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Original Due Date",
+        "Reservation"
+      ],
+      [
+        "Library Book Renewal Steps (image)",
+        "Library Borrowing Guide"
+      ],
+      [
+        "Library Book Renewal Steps (image)",
+        "My Loans"
+      ],
+      [
+        "Book",
+        "Standard Loan Period"
+      ],
+      [
+        "Fourteen Days",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Library Book Renewal Steps (image)",
+        "New Due Date"
+      ],
+      [
+        "Student book borrowing limits and standard loan period (table)",
+        "Twenty-One Days"
+      ],
+      [
+        "Maximum Books at a Time",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Due Date",
+        "My Loans"
+      ],
+      [
+        "Book",
+        "Renewal Process"
+      ],
+      [
+        "Book",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "New Due Date",
+        "Renewal Process"
+      ],
+      [
+        "Library Book Renewal Steps (image)",
+        "Seven Additional Days"
+      ],
+      [
+        "Book",
+        "Return Instructions"
+      ],
+      [
+        "Renewal Rule",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Library Book Renewal Steps (image)",
+        "Original Due Date"
+      ],
+      [
+        "Book",
+        "Reservation"
+      ],
+      [
+        "Due Date",
+        "Renewal Rule"
+      ],
+      [
+        "Library Book Renewal Steps (image)",
+        "Renew Button"
       ],
       [
         "My Loans",
         "New Due Date"
       ],
       [
-        "7 Extra Days",
-        "Student Book Borrowing Limits and Standard Loan Period (table)"
+        "Book",
+        "Library Book Renewal Steps (image)"
       ],
       [
-        "My Loans",
-        "Renew Command"
+        "Library Borrowing Guide",
+        "Renewal Rule"
+      ],
+      [
+        "Reservation",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Seven Extra Days",
+        "Student book borrowing limits and standard loan period (table)"
+      ],
+      [
+        "Account Eligibility",
+        "Library Borrowing Guide"
       ],
       [
         "Book",
-        "Original Due Date"
-      ],
-      [
-        "14 Days",
-        "Standard Loan Period"
-      ],
-      [
-        "My Loans",
-        "Renewal Steps Flowchart"
+        "Due Date"
       ]
     ],
-    "count": 50,
-    "update_time": 1794996632,
+    "count": 56,
+    "update_time": 1795057602,
     "_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd"
   }
 }

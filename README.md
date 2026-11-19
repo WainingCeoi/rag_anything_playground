@@ -1,12 +1,21 @@
 # Library RAG: From a PDF to an Answer You Can Trace
 
-This project uses a two-page [Library Borrowing Guide](data/library-guide.pdf) to show how a system processes text and images, finds information relevant to a question, and asks a model to answer using that evidence. Work through the [Notebook](src/rag_anything_walkthrough.ipynb) to inspect the inputs and outputs at each step.
+This project follows a student's question through a retrieval-augmented generation (RAG) system. Open the two-page guide and identify the evidence yourself, then follow the same policy from PDF to index to answer. [Library Borrowing Guide](data/library-guide.pdf)
 
-This is the core idea of RAG, or **retrieval-augmented generation**: **retrieve evidence first, then give that evidence to a model to compose an answer.** Ingestion builds a searchable index. It does not train the answer model or change its parameters.
+Ingestion builds a searchable index. At query time, the system retrieves evidence and gives it to a model to compose the answer. The answer model keeps its existing parameters.
 
-The counts, chunk IDs, and retrieval results below refer to the English run saved in the Notebook and `outputs/library_rag_storage/`. Rebuilding the index can change model-generated descriptions, the graph, and retrieval results.
+| Session | What you will do |
+| --- | --- |
+| [Lecture 1 · Introduction](lectures/lecture_1_introduction.ipynb) | Identify what the student's question asks and which parts of the guide can answer it. |
+| [Lecture 2 · PDF to index](lectures/lecture_2_pdf_to_index.ipynb) | Parse the PDF, inspect its chunks and embeddings, and save the index. |
+| [Lecture 3 · Retrieval and answering](lectures/lecture_3_retrieval_and_answering.ipynb) | Reopen the index, submit the question, inspect the retrieved evidence, and verify the answer. |
+| [Lecture 4 · Recap](lectures/lecture_4_recap.ipynb) | Trace a claim to its source and decide what evidence a different borrower would need. |
 
-Each notebook code cell now performs one operation or displays one result. **Run** cells save their return values silently; **Inspect** cells use one `print` or `display`, with a label naming the value and the function that produced it. For chunks, graph records, and source references, change the index to inspect one item at a time. Selection cells explain which dependent inspection cells to rerun.
+Lectures 1 and 4 are reading sessions. For the hands-on sequence, run Lecture 2 through its final cell, then start Lecture 3 in its own kernel. It reopens the index from disk. [Setup instructions](#run-the-project)
+
+Two single-notebook versions are also available. The core workflow groups related operations and observations together. The original walkthrough uses separate **Run** and **Inspect** cells to examine one result at a time. The numbered notebook sections, counts, chunk IDs, and retrieval results below refer to the saved English run in the original walkthrough. Rebuilding the index can change model-generated descriptions, the graph, and retrieval results. [Full core workflow](lectures/rag_anything_core_workflow.ipynb) · [Original walkthrough](lectures/rag_anything_walkthrough.ipynb)
+
+In the original walkthrough, change the index to inspect one chunk, graph record, or source reference at a time. Selection cells explain which inspection cells to rerun.
 
 ## Start with the question
 
@@ -341,16 +350,16 @@ Run these commands from the project root. The project uses `uv` and Python 3.14.
 
 ```sh
 uv sync --locked
-cp -n src/.env.example src/.env
+cp -n lectures/.env.example lectures/.env
 ```
 
-Set `OPENAI_API_KEY` in `src/.env`, then start JupyterLab:
+Set `OPENAI_API_KEY` in `lectures/.env`. Check the API base URL, model names, and embedding dimension for your provider. Start JupyterLab from the project root.
 
 ```sh
-uv run --env-file src/.env jupyter lab
+uv run --env-file lectures/.env jupyter lab
 ```
 
-Open `src/rag_anything_walkthrough.ipynb`, select the Python 3 kernel, and run the cells in order. Model names, the API base URL, and vector dimensions come from `src/.env`. The Notebook searches upward for the project root containing `pyproject.toml`, so its resource paths work when the kernel starts inside `src/` as well.
+Open the first lecture in JupyterLab. For Lectures 2 and 3, select the project's Python 3 kernel and run each notebook from top to bottom. Both can start in the project root or in `lectures/`. Keep the same embedding model and dimension across the two sessions so the question and the stored chunks use the same embedding space. [Lecture 1 · Introduction](lectures/lecture_1_introduction.ipynb)
 
 With the API key left empty, you can run through PDF parsing. Docling parses locally and may download layout and table-recognition model files on its first run. Text generation, image understanding, and embeddings use cloud APIs. Ingestion and querying send the example content to those APIs and incur usage charges.
 
@@ -360,9 +369,11 @@ With the API key left empty, you can run through PDF parsing. Docling parses loc
 | --- | --- |
 | `data/library-guide.pdf` | The two-page English source document |
 | `data/build_library_guide.py` | English source for regenerating the PDF and renewal diagram |
-| `src/rag_anything_walkthrough.ipynb` | The executable lesson, organized around the processing steps |
-| `src/.env.example` | Example model and API configuration |
-| `src/.env` | Actual local settings and API key; not committed to Git |
+| `lectures/lecture_*.ipynb` | The four sessions listed above |
+| `lectures/rag_anything_core_workflow.ipynb` | Full workflow with grouped code and observations |
+| `lectures/rag_anything_walkthrough.ipynb` | Original walkthrough with individual inspection cells |
+| `lectures/.env.example` | Example model and API configuration |
+| `lectures/.env` | Local settings and API key, excluded from Git |
 | `outputs/parsed/` | Docling exports and extracted images |
 | `outputs/library_rag_storage/` | Persistent indexes and caches for this example |
 

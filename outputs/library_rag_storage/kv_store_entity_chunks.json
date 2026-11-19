@@ -1,169 +1,89 @@
 {
   "Library Borrowing Guide": {
     "chunk_ids": [
-      "chunk-0bec09cbf50b78e30405fdc3229058fb",
-      "chunk-f74d3981177947bc583a0860d03ffe3f",
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
-      "chunk-604374813fb8c7f3a8154e53d151ad0b",
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-0bec09cbf50b78e30405fdc3229058fb",
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-73e03336d64bd8478972d0d7b5bf162b",
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
     ],
     "count": 6,
-    "update_time": 1794996596,
+    "update_time": 1795057524,
     "_id": "Library Borrowing Guide"
-  },
-  "Date": {
-    "chunk_ids": [
-      "chunk-0bec09cbf50b78e30405fdc3229058fb"
-    ],
-    "count": 1,
-    "create_time": 1794996550,
-    "update_time": 1794996550,
-    "_id": "Date"
-  },
-  "Page 2 of 2": {
-    "chunk_ids": [
-      "chunk-0bec09cbf50b78e30405fdc3229058fb"
-    ],
-    "count": 1,
-    "create_time": 1794996550,
-    "update_time": 1794996550,
-    "_id": "Page 2 of 2"
   },
   "Book": {
     "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
       "chunk-f74d3981177947bc583a0860d03ffe3f",
       "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
-      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
-      "chunk-604374813fb8c7f3a8154e53d151ad0b",
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b",
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
     ],
     "count": 5,
-    "update_time": 1794996596,
+    "update_time": 1795057525,
     "_id": "Book"
-  },
-  "Due Date": {
-    "chunk_ids": [
-      "chunk-f74d3981177947bc583a0860d03ffe3f",
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
-    ],
-    "count": 3,
-    "update_time": 1794996601,
-    "_id": "Due Date"
   },
   "Renewal": {
     "chunk_ids": [
-      "chunk-f74d3981177947bc583a0860d03ffe3f",
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-f74d3981177947bc583a0860d03ffe3f"
     ],
-    "count": 3,
-    "update_time": 1794996601,
+    "count": 2,
+    "create_time": 1795057449,
+    "update_time": 1795057449,
     "_id": "Renewal"
-  },
-  "My Loans": {
-    "chunk_ids": [
-      "chunk-f74d3981177947bc583a0860d03ffe3f",
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
-      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
-      "chunk-604374813fb8c7f3a8154e53d151ad0b",
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
-    ],
-    "count": 5,
-    "update_time": 1794996596,
-    "_id": "My Loans"
   },
   "Reservation": {
     "chunk_ids": [
-      "chunk-f74d3981177947bc583a0860d03ffe3f",
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-73e03336d64bd8478972d0d7b5bf162b",
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
     ],
-    "count": 3,
-    "update_time": 1794996601,
+    "count": 4,
+    "update_time": 1795057525,
     "_id": "Reservation"
-  },
-  "Title": {
-    "chunk_ids": [
-      "chunk-f74d3981177947bc583a0860d03ffe3f"
-    ],
-    "count": 1,
-    "create_time": 1794996551,
-    "update_time": 1794996551,
-    "_id": "Title"
   },
   "Seven Extra Days": {
     "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
       "chunk-f74d3981177947bc583a0860d03ffe3f",
-      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
-    "count": 2,
-    "create_time": 1794996551,
-    "update_time": 1794996551,
+    "count": 3,
+    "update_time": 1795057525,
     "_id": "Seven Extra Days"
-  },
-  "Borrowing And Returning Books": {
-    "chunk_ids": [
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
-    ],
-    "count": 1,
-    "create_time": 1794996551,
-    "update_time": 1794996551,
-    "_id": "Borrowing And Returning Books"
-  },
-  "Library Account Eligibility": {
-    "chunk_ids": [
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
-    ],
-    "count": 1,
-    "create_time": 1794996551,
-    "update_time": 1794996551,
-    "_id": "Library Account Eligibility"
-  },
-  "Loan Limit": {
-    "chunk_ids": [
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
-    ],
-    "count": 1,
-    "create_time": 1794996551,
-    "update_time": 1794996551,
-    "_id": "Loan Limit"
-  },
-  "Standard Loan Period": {
-    "chunk_ids": [
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
-    ],
-    "count": 2,
-    "update_time": 1794996596,
-    "_id": "Standard Loan Period"
-  },
-  "Loan Information Table": {
-    "chunk_ids": [
-      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
-    ],
-    "count": 1,
-    "create_time": 1794996552,
-    "update_time": 1794996552,
-    "_id": "Loan Information Table"
   },
   "Original Due Date": {
     "chunk_ids": [
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b",
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
     ],
-    "count": 2,
-    "update_time": 1794996601,
+    "count": 3,
+    "update_time": 1795057526,
     "_id": "Original Due Date"
+  },
+  "My Loans": {
+    "chunk_ids": [
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-73e03336d64bd8478972d0d7b5bf162b",
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
+    ],
+    "count": 5,
+    "update_time": 1795057524,
+    "_id": "My Loans"
   },
   "New Due Date": {
     "chunk_ids": [
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
     ],
     "count": 2,
-    "update_time": 1794996602,
+    "update_time": 1795057526,
     "_id": "New Due Date"
   },
   "Renewal Steps": {
@@ -171,116 +91,207 @@
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
     ],
     "count": 1,
-    "create_time": 1794996552,
-    "update_time": 1794996552,
+    "create_time": 1795057450,
+    "update_time": 1795057450,
     "_id": "Renewal Steps"
   },
-  "Result Confirmation": {
+  "Figure 1": {
     "chunk_ids": [
       "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
     ],
     "count": 1,
-    "create_time": 1794996552,
-    "update_time": 1794996552,
-    "_id": "Result Confirmation"
+    "create_time": 1795057450,
+    "update_time": 1795057450,
+    "_id": "Figure 1"
   },
-  "Student": {
+  "Confirm the Result": {
     "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
+      "chunk-b5b66dc4cdc65aee472efcef7cbf0db9"
     ],
     "count": 1,
-    "create_time": 1794996596,
-    "update_time": 1794996596,
-    "_id": "Student"
+    "create_time": 1795057450,
+    "update_time": 1795057450,
+    "_id": "Confirm the Result"
+  },
+  "Due Date": {
+    "chunk_ids": [
+      "chunk-f74d3981177947bc583a0860d03ffe3f",
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
+    ],
+    "count": 3,
+    "update_time": 1795057525,
+    "_id": "Due Date"
+  },
+  "How to Renew": {
+    "chunk_ids": [
+      "chunk-f74d3981177947bc583a0860d03ffe3f"
+    ],
+    "count": 1,
+    "create_time": 1795057451,
+    "update_time": 1795057451,
+    "_id": "How to Renew"
+  },
+  "Borrowing and Returning Books": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1795057451,
+    "update_time": 1795057451,
+    "_id": "Borrowing and Returning Books"
+  },
+  "Account Eligibility": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
+    ],
+    "count": 2,
+    "update_time": 1795057524,
+    "_id": "Account Eligibility"
+  },
+  "Loan Limit": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1795057451,
+    "update_time": 1795057451,
+    "_id": "Loan Limit"
+  },
+  "Standard Loan Period": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
+    ],
+    "count": 2,
+    "update_time": 1795057524,
+    "_id": "Standard Loan Period"
+  },
+  "Table": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1795057451,
+    "update_time": 1795057451,
+    "_id": "Table"
+  },
+  "Book Title": {
+    "chunk_ids": [
+      "chunk-9afabfd0277eadab270f8c9f0d4f67b9"
+    ],
+    "count": 1,
+    "create_time": 1795057451,
+    "update_time": 1795057451,
+    "_id": "Book Title"
+  },
+  "Student Borrowing Limits": {
+    "chunk_ids": [
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
+    ],
+    "count": 1,
+    "create_time": 1795057524,
+    "update_time": 1795057524,
+    "_id": "Student Borrowing Limits"
   },
   "Maximum Books at a Time": {
     "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
     "count": 1,
-    "create_time": 1794996596,
-    "update_time": 1794996596,
+    "create_time": 1795057524,
+    "update_time": 1795057524,
     "_id": "Maximum Books at a Time"
   },
-  "3 Books": {
+  "Three Books": {
     "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
     "count": 1,
-    "create_time": 1794996596,
-    "update_time": 1794996596,
-    "_id": "3 Books"
+    "create_time": 1795057524,
+    "update_time": 1795057524,
+    "_id": "Three Books"
   },
-  "14 Days": {
+  "Fourteen Days": {
     "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
     "count": 1,
-    "create_time": 1794996596,
-    "update_time": 1794996596,
-    "_id": "14 Days"
-  },
-  "Student Account Eligibility": {
-    "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
-    ],
-    "count": 1,
-    "create_time": 1794996601,
-    "update_time": 1794996601,
-    "_id": "Student Account Eligibility"
+    "create_time": 1795057524,
+    "update_time": 1795057524,
+    "_id": "Fourteen Days"
   },
   "Renewal Rule": {
     "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
     "count": 1,
-    "create_time": 1794996601,
-    "update_time": 1794996601,
+    "create_time": 1795057525,
+    "update_time": 1795057525,
     "_id": "Renewal Rule"
   },
-  "7 Extra Days": {
+  "Twenty-One Days": {
     "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
     "count": 1,
-    "create_time": 1794996601,
-    "update_time": 1794996601,
-    "_id": "7 Extra Days"
+    "create_time": 1795057525,
+    "update_time": 1795057525,
+    "_id": "Twenty-One Days"
   },
-  "Book Reservation": {
+  "Return Instructions": {
     "chunk_ids": [
-      "chunk-604374813fb8c7f3a8154e53d151ad0b"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
     "count": 1,
-    "create_time": 1794996601,
-    "update_time": 1794996601,
-    "_id": "Book Reservation"
+    "create_time": 1795057525,
+    "update_time": 1795057525,
+    "_id": "Return Instructions"
   },
-  "Renewal Steps Flowchart": {
+  "One Renewal": {
     "chunk_ids": [
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-73e03336d64bd8478972d0d7b5bf162b"
     ],
     "count": 1,
-    "create_time": 1794996602,
-    "update_time": 1794996602,
-    "_id": "Renewal Steps Flowchart"
+    "create_time": 1795057525,
+    "update_time": 1795057525,
+    "_id": "One Renewal"
   },
-  "Before the Due Date": {
+  "Renewal Process": {
     "chunk_ids": [
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
     ],
     "count": 1,
-    "create_time": 1794996602,
-    "update_time": 1794996602,
-    "_id": "Before the Due Date"
+    "create_time": 1795057526,
+    "update_time": 1795057526,
+    "_id": "Renewal Process"
   },
-  "Renew Command": {
+  "Seven Additional Days": {
     "chunk_ids": [
-      "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
     ],
     "count": 1,
-    "create_time": 1794996602,
-    "update_time": 1794996602,
-    "_id": "Renew Command"
+    "create_time": 1795057526,
+    "update_time": 1795057526,
+    "_id": "Seven Additional Days"
+  },
+  "Figure 1: Renewal Steps": {
+    "chunk_ids": [
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
+    ],
+    "count": 1,
+    "create_time": 1795057526,
+    "update_time": 1795057526,
+    "_id": "Figure 1: Renewal Steps"
+  },
+  "Renew Button": {
+    "chunk_ids": [
+      "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
+    ],
+    "count": 1,
+    "create_time": 1795057526,
+    "update_time": 1795057526,
+    "_id": "Renew Button"
   }
 }

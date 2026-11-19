@@ -7,10 +7,10 @@
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
       "default:extract:3eeced7c11464dfad23f1b24fe6334ef",
-      "default:extract:ad619c49b8f8023468e87823663d4b53"
+      "default:extract:60ff085b0c8aa298bbaab823cf163975"
     ],
-    "create_time": 1794996504,
-    "update_time": 1794996566,
+    "create_time": 1795057421,
+    "update_time": 1795057472,
     "_id": "chunk-9afabfd0277eadab270f8c9f0d4f67b9",
     "page_idx": 0
   },
@@ -22,10 +22,10 @@
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
       "default:extract:9738f06dd6575e508a8646784deab196",
-      "default:extract:b3d6352e870552550af0c2c76d850d0e"
+      "default:extract:f83b636ce1938a7302f0f27779fc6dc7"
     ],
-    "create_time": 1794996504,
-    "update_time": 1794996566,
+    "create_time": 1795057421,
+    "update_time": 1795057472,
     "_id": "chunk-f74d3981177947bc583a0860d03ffe3f",
     "page_idx": 0,
     "page_idx_end": 1
@@ -38,10 +38,10 @@
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
       "default:extract:ced8271e82c8595e0bb95ea3167563d1",
-      "default:extract:7261cf267efb5c7a30778034df69755b"
+      "default:extract:5df8b8a4b56ae4354831eb4c57a32c7e"
     ],
-    "create_time": 1794996504,
-    "update_time": 1794996566,
+    "create_time": 1795057421,
+    "update_time": 1795057472,
     "_id": "chunk-b5b66dc4cdc65aee472efcef7cbf0db9",
     "page_idx": 1
   },
@@ -53,47 +53,47 @@
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
       "default:extract:b58edfbb24f0734443f45c83a0d37ee9",
-      "default:extract:6bca856b2d0be4ff842296ec2653613e"
+      "default:extract:3eedcf81f31b44cd27007b8be4222309"
     ],
-    "create_time": 1794996504,
-    "update_time": 1794996566,
+    "create_time": 1795057421,
+    "update_time": 1795057472,
     "_id": "chunk-0bec09cbf50b78e30405fdc3229058fb",
     "page_idx": 1
   },
-  "chunk-604374813fb8c7f3a8154e53d151ad0b": {
-    "content": "Table Analysis:\nImage Path: \nCaption: None\nStructure: {'table_cells': [{'bbox': {'l': 73.0, 't': 258.9420462500001, 'r': 98.70190375, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Item', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 258.9420462500001, 'r': 419.9186974999999, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': 'Student rule', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 73.0, 't': 305.9359425, 'r': 215.40722000000005, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Maximum books at a time', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 305.9359425, 'r': 390.7805149999999, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 books', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 73.0, 't': 352.9359425, 'r': 189.05834249999998, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Standard loan period', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 352.9359425, 'r': 390.7805149999999, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 days', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], 'num_rows': 3, 'num_cols': 2, 'orientation': 'rot_0', 'grid': [[{'bbox': {'l': 73.0, 't': 258.9420462500001, 'r': 98.70190375, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Item', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 258.9420462500001, 'r': 419.9186974999999, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': 'Student rule', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 73.0, 't': 305.9359425, 'r': 215.40722000000005, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Maximum books at a time', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 305.9359425, 'r': 390.7805149999999, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 books', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 73.0, 't': 352.9359425, 'r': 189.05834249999998, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Standard loan period', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 352.9359425, 'r': 390.7805149999999, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 days', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}]]}\nFootnotes: None\n\nAnalysis: The table is a compact 3-row by 2-column rules table in the “Library Borrowing Guide.” Its headers are “Item” and “Student rule”: the first column names a borrowing condition, and the second gives the corresponding student limit or period. The first data row states that the maximum number of books a student may borrow at one time is 3 books. The second states that the standard loan period is 14 days. Thus, the table presents two baseline borrowing rules: a capacity limit and a time limit. There are no additional categories, exceptions, footnotes, or per-item variations shown, so the table does not specify different limits for different book types or how eligibility is assessed. In the surrounding instructions, students are told to check that their account is eligible before borrowing, use My Loans to check the due date for each title, and return each book on or before its due date. The 14-day period establishes the standard loan duration, while the guidance to check each title separately clarifies that due dates should be managed at the individual-book level. The renewal instructions add a conditional extension: a student may renew once for 7 extra days before the due date if nobody else has reserved the book; if it is reserved, it must be returned by the original due date. The table itself does not state this renewal rule, but it provides the baseline against which that extension applies. Numerically, 3 books is the maximum simultaneous borrowing quantity, and 14 days is the standard period; together they define the guide’s basic quantity-and-duration constraints. No averages, ranges, or broader statistical trends can be inferred from these two rules.",
-    "tokens": 1990,
+  "chunk-73e03336d64bd8478972d0d7b5bf162b": {
+    "content": "Table Analysis:\nImage Path: \nCaption: None\nStructure: {'table_cells': [{'bbox': {'l': 73.0, 't': 258.9420462500001, 'r': 98.70190375, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Item', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 258.9420462500001, 'r': 419.9186974999999, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': 'Student rule', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 73.0, 't': 305.9359425, 'r': 215.40722000000005, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Maximum books at a time', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 305.9359425, 'r': 390.7805149999999, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 books', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 73.0, 't': 352.9359425, 'r': 189.05834249999998, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Standard loan period', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 352.9359425, 'r': 390.7805149999999, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 days', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], 'num_rows': 3, 'num_cols': 2, 'orientation': 'rot_0', 'grid': [[{'bbox': {'l': 73.0, 't': 258.9420462500001, 'r': 98.70190375, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Item', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 258.9420462500001, 'r': 419.9186974999999, 'b': 270.4763068775368, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 0, 'end_row_offset_idx': 1, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': 'Student rule', 'column_header': True, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 73.0, 't': 305.9359425, 'r': 215.40722000000005, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Maximum books at a time', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 305.9359425, 'r': 390.7805149999999, 'b': 317.4780712747022, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 1, 'end_row_offset_idx': 2, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '3 books', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}], [{'bbox': {'l': 73.0, 't': 352.9359425, 'r': 189.05834249999998, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 0, 'end_col_offset_idx': 1, 'text': 'Standard loan period', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}, {'bbox': {'l': 347.0, 't': 352.9359425, 'r': 390.7805149999999, 'b': 364.47807127470224, 'coord_origin': 'TOPLEFT'}, 'row_span': 1, 'col_span': 1, 'start_row_offset_idx': 2, 'end_row_offset_idx': 3, 'start_col_offset_idx': 1, 'end_col_offset_idx': 2, 'text': '14 days', 'column_header': False, 'row_header': False, 'row_section': False, 'fillable': False}]]}\nFootnotes: None\n\nAnalysis: The table is a compact 3-row by 2-column rules table in the Library Borrowing Guide. Its header row labels the columns “Item” and “Student rule.” The first data row pairs “Maximum books at a time” with “3 books,” establishing that a student may borrow no more than three books simultaneously. The second data row pairs “Standard loan period” with “14 days,” giving the normal borrowing duration. Both rules are presented as student borrowing limits; the table does not specify exceptions or how eligibility is assessed.\n\nThe two values address distinct constraints: a quantity limit of three books and a time limit of fourteen days. The surrounding guide says to check account eligibility before borrowing, then use My Loans to see the due date for each book. It also instructs borrowers with several books to check each title separately and return each book by its own due date. Thus, the 14-day period is the standard loan duration, while the actual due date is tracked per title rather than as one shared date for all borrowed books.\n\nThe renewal instructions add a conditional extension: a book may be renewed once for seven extra days if nobody else has reserved it, and the request must be made before the due date. If it is reserved, the student must return it by the original due date. Therefore, an eligible, unreserved book could have a total loan period of up to 21 days under the described standard-plus-renewal rules, but the table itself states only the standard 14 days and does not imply that renewal is automatic. Overall, the table supplies the core borrowing limits that the guide’s subsequent due-date, renewal, and return instructions explain how to manage.",
+    "tokens": 1995,
     "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "chunk_order_index": 4,
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:9399d3a7d90c514574322ad4caadd3e4",
-      "default:extract:21c2d5800fb7f84a1915dbabdcb3f2ea"
+      "default:extract:2c973d9a178c81bd0d454d5ea88b2d7f",
+      "default:extract:07172047eda80153a8a50304e89f2b8c"
     ],
     "is_multimodal": true,
-    "modal_entity_name": "Student Book Borrowing Limits and Standard Loan Period (table)",
+    "modal_entity_name": "Student book borrowing limits and standard loan period (table)",
     "original_type": "table",
     "page_idx": 0,
-    "create_time": 1794996572,
-    "update_time": 1794996594,
-    "_id": "chunk-604374813fb8c7f3a8154e53d151ad0b"
+    "create_time": 1795057491,
+    "update_time": 1795057524,
+    "_id": "chunk-73e03336d64bd8478972d0d7b5bf162b"
   },
-  "chunk-7f4f0a32cfcf638b9c46120a873924cb": {
-    "content": "\nImage Content Analysis:\n- Section Path: None\n- Neighbor Text: Open My Loans, find the book, and click \"Renew\". If nobody else has reserved it, renew once for 7 extra days. If it is reserved, return it by the original due date. Figure 1. Renewal steps Confirm the result After renewal, My Loans shows the new due date.\nImage Path: /Users/weiningxu/Documents/Project/rag_anything_playground/outputs/parsed/library-guide_39d2f00c/library-guide/docling/images/image_0.png\nCaptions: Figure 1. Renewal steps\nFootnotes: None\n\nVisual Analysis: A horizontal three-step renewal flowchart on a pale mint-green background. Three white rounded rectangles with thin, light-green outlines are arranged from left to right. Each rectangle contains a dark-green circular number marker near the top, a bold dark-green action label in the middle, and a smaller muted-green instruction beneath it. Dark-green right-pointing arrows connect the first box to the second and the second box to the third, indicating the sequence of actions.\n\nFrom left to right:\n1. A dark-green circle contains “1”. The bold label reads “Before the due date”; the instruction below reads “Check the due date”.\n2. A dark-green circle contains “2”. The bold label reads “My Loans”; the instruction below reads “Find the book”.\n3. A dark-green circle contains “3”. The bold label reads “Renew”; the instruction below reads “Check the new due date”.\n\nThe flowchart’s surrounding document context identifies the illustration as “Figure 1. Renewal steps” in a library borrowing guide. The guide advises requesting a renewal before the due date by opening My Loans, finding the book, and clicking “Renew”. A book may be renewed once for 7 extra days if nobody else has reserved it; if the book is reserved, it should be returned by the original due date. After renewal, My Loans displays the new due date, which should be checked again before returning the book. The image visually summarizes the sequence of checking before the due date, locating the book in My Loans, renewing it, and checking the updated due date.",
-    "tokens": 448,
+  "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1": {
+    "content": "\nImage Content Analysis:\n- Section Path: None\n- Neighbor Text: Open My Loans, find the book, and click \"Renew\". If nobody else has reserved it, renew once for 7 extra days. If it is reserved, return it by the original due date. Figure 1. Renewal steps Confirm the result After renewal, My Loans shows the new due date.\nImage Path: /Users/weiningxu/Documents/Project/rag_anything_playground/outputs/parsed/library-guide_39d2f00c/library-guide/docling/images/image_0.png\nCaptions: Figure 1. Renewal steps\nFootnotes: None\n\nVisual Analysis: A horizontal, three-step renewal flowchart on a pale mint-green background. Three large white rounded-rectangle cards with thin pale-green outlines are arranged from left to right. Each card contains a dark-green circular number badge near the top, a bold dark-green step heading in the center, and a smaller muted-green instruction underneath. A dark-green right-pointing arrow connects the first card to the second, and another connects the second card to the third, indicating the order of the steps.\n\n1. The first card has a circular badge labeled “1”, the heading “Before the due date”, and the instruction “Check the due date”.\n2. The second card has a circular badge labeled “2”, the heading “My Loans”, and the instruction “Find the book”.\n3. The third card has a circular badge labeled “3”, the heading “Renew”, and the instruction “Check the new due date”.\n\nThe depicted sequence is: before the due date, check the due date; in My Loans, find the book; then renew and check the new due date. In the surrounding Library Borrowing Guide context, this illustrates the renewal process: a borrower should request a renewal before the original due date, locate the book in My Loans, and confirm the updated due date afterward. The wider guide notes that renewal is available once for an additional 7 days if nobody else has reserved the book; if it is reserved, the book should be returned by its original due date.",
+    "tokens": 429,
     "full_doc_id": "doc-501ac0a4b56d2d98331eb3d9164f0dfd",
     "chunk_order_index": 5,
     "file_path": "library-guide.pdf",
     "llm_cache_list": [
-      "default:extract:5a6323ae961b4b190d7552bca9053121",
-      "default:extract:0ebb51c83ecb735523f6418f66d73988"
+      "default:extract:98f1dd483739db7f4e660132d25f7e38",
+      "default:extract:99ec2479d821158f63eae4a2fd4a2a5f"
     ],
     "is_multimodal": true,
-    "modal_entity_name": "Library Book Renewal Steps Flowchart (image)",
+    "modal_entity_name": "Library Book Renewal Steps (image)",
     "original_type": "image",
     "page_idx": 1,
-    "create_time": 1794996572,
-    "update_time": 1794996596,
-    "_id": "chunk-7f4f0a32cfcf638b9c46120a873924cb"
+    "create_time": 1795057491,
+    "update_time": 1795057513,
+    "_id": "chunk-72b56bc685fea8dbd9e08a18a4a7c1b1"
   }
 }
